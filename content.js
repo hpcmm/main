@@ -43,39 +43,6 @@ window.HPCMM_CONTENT = {
   ],
   "publications": [
     {
-      "id": "paper-1",
-      "title": "Mapping complex free energy landscapes with scalable molecular simulation",
-      "authors": "Example Author A, Example Author B · Journal placeholder",
-      "year": "20XX",
-      "topic": "Simulation",
-      "abstract": "Illustrative abstract: this entry demonstrates how a study of molecular free energy landscapes could be presented. It does not describe a real publication. Replace the title, authors, journal, year, abstract, and DOI with verified information.",
-      "url": "",
-      "placeholder": true,
-      "publicationDate": ""
-    },
-    {
-      "id": "paper-2",
-      "title": "Performance-portable algorithms for large-scale molecular modeling",
-      "authors": "Example Author C, Example Author D · Journal placeholder",
-      "year": "20XX",
-      "topic": "Computing",
-      "abstract": "Illustrative abstract: a place for research on efficient simulation across computing architectures. This is a fictional publication for layout purposes.",
-      "url": "",
-      "placeholder": true,
-      "publicationDate": ""
-    },
-    {
-      "id": "paper-3",
-      "title": "Connecting physical models and learned molecular representations",
-      "authors": "Example Author E, Example Author F · Journal placeholder",
-      "year": "20XX",
-      "topic": "Machine learning",
-      "abstract": "Illustrative abstract: a place for work combining physical modeling and data-driven methods. This is a fictional publication for layout purposes.",
-      "url": "",
-      "placeholder": true,
-      "publicationDate": ""
-    },
-    {
       "id": "orcid-0000000327484722-216241860",
       "title": "Binding Mechanism of UAMC-1110 to Fibroblast Activation Protein",
       "authors": "Joep W. Wals, Rui P. P. Neves, Pedro A. Fernandes, Hans De Winter · Journal of Chemical Information and Modeling",
