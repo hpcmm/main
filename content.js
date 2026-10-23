@@ -74,6 +74,7014 @@ window.HPCMM_CONTENT = {
       "url": "",
       "placeholder": true,
       "publicationDate": ""
+    },
+    {
+      "id": "orcid-0000000327484722-216241860",
+      "title": "Binding Mechanism of UAMC-1110 to Fibroblast Activation Protein",
+      "authors": "Joep W. Wals, Rui P. P. Neves, Pedro A. Fernandes, Hans De Winter · Journal of Chemical Information and Modeling",
+      "year": "2026",
+      "publicationDate": "2026-06-22",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.6c00470",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.6c00470",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.6c00470"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-203692299",
+      "title": "Mechanism of Hyaluronic Acid Hydrolysis Catalyzed by Snake Venom Hyaluronidase",
+      "authors": "Juliana Castro-Amorim, Maria J. Ramos, Pedro A. Fernandes · Journal of Chemical Information and Modeling",
+      "year": "2026",
+      "publicationDate": "2026-04-13",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.5c02594",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.5c02594",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.5c02594"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-205519038",
+      "title": "Mechanism of Polyester Hydrolysis by Marine Bacterium PE-H Enzyme: an Atomistic and Thermodynamic Characterization",
+      "authors": "Samah Nassir, Pedro Paiva, Rui P. P. Neves, Pedro A. Fernandes, Achraf El Allali, Maria J. Ramos · Journal of Chemical Information and Modeling",
+      "year": "2026",
+      "publicationDate": "2026-02-23",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.5c02314",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.5c02314",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.5c02314"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-198882477",
+      "title": "Mechanistic insights into NOBA hydrolysis by viper venom secreted phospholipase A2",
+      "authors": "Ana Rita Calixto, Roberto Pinto, Maciej Spiegel, Maria João Ramos, Pedro Alexandrino Fernandes · Biochimie",
+      "year": "2026",
+      "publicationDate": "2026-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.biochi.2025.12.003",
+      "placeholder": false,
+      "doi": "10.1016/j.biochi.2025.12.003",
+      "orcidKeys": [
+        "doi:10.1016/j.biochi.2025.12.003"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-223024523",
+      "title": "Microphase Separation and Molecular Organisation in Crosslinked Polyurethane from Atomistic Simulations",
+      "authors": "Alexandre V. Pinto, Pedro A. Fernandes, Maria J. Ramos",
+      "year": "2026",
+      "publicationDate": "2026-08-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.26434/chemrxiv.15007171/v1",
+      "placeholder": false,
+      "doi": "10.26434/chemrxiv.15007171/v1",
+      "orcidKeys": [
+        "doi:10.26434/chemrxiv.15007171/v1"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-226233483",
+      "title": "Microphase Separation and Water Accessibility in Crosslinked Polyurethanes",
+      "authors": "Alexandre V. Pinto, Pedro A. Fernandes, Maria J. Ramos",
+      "year": "2026",
+      "publicationDate": "2026-09-09",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.26434/chemrxiv.15007171/v2",
+      "placeholder": false,
+      "doi": "10.26434/chemrxiv.15007171/v2",
+      "orcidKeys": [
+        "doi:10.26434/chemrxiv.15007171/v2"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-198632316",
+      "title": "Revealing the rationale behind the differential neutralization of phospholipase A 2 (PLA 2 ) enzymes in snake and bee venom by varespladib (LY-315920), a small molecule PLA 2 inhibitor",
+      "authors": "Rahul Kumar, Aparup Patra, Dorothy Das, Kangkon Saikia, Joana R. da Silva, Maria J. Ramos, Mojibur R. Khan, Pedro A. Fernandes, Ashis K. Mukherjee · Journal of Biomolecular Structure and Dynamics",
+      "year": "2026",
+      "publicationDate": "2026-08-13",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/07391102.2025.2592598",
+      "placeholder": false,
+      "doi": "10.1080/07391102.2025.2592598",
+      "orcidKeys": [
+        "doi:10.1080/07391102.2025.2592598"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-175265452",
+      "title": "Atomistic adsorption of PETase onto large-scale PET 3D-models that mimic reality",
+      "authors": "P. Paiva, E. Ippoliti, P. Carloni, P. A. Fernandes, M. J. Ramos · Physical Chemistry Chemical Physics",
+      "year": "2025",
+      "publicationDate": "2025",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d4cp03488k",
+      "placeholder": false,
+      "doi": "10.1039/d4cp03488k",
+      "orcidKeys": [
+        "doi:10.1039/d4cp03488k"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-174862785",
+      "title": "Beyond Fang's fury: a computational study of the enzyme–membrane interaction and catalytic pathway of the snake venom phospholipase A2 toxin",
+      "authors": "Juliana Castro-Amorim, Alexandre V. Pinto, Ashis K. Mukherjee, Maria J. Ramos, Pedro A. Fernandes · Chemical Science",
+      "year": "2025",
+      "publicationDate": "2025",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d4sc06511e",
+      "placeholder": false,
+      "doi": "10.1039/d4sc06511e",
+      "orcidKeys": [
+        "doi:10.1039/d4sc06511e"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-182381409",
+      "title": "Binding Affinity of Synthetic Cannabinoids to Human Serum Albumin: Site Characterization and Interaction Insights",
+      "authors": "Rita M. G. Santos, Rita Lima, Sara Cravo, Pedro Alexandrino Fernandes, Fernando Remião, Carla Fernandes · Pharmaceuticals",
+      "year": "2025",
+      "publicationDate": "2025-04-16",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/ph18040581",
+      "placeholder": false,
+      "doi": "10.3390/ph18040581",
+      "orcidKeys": [
+        "doi:10.3390/ph18040581"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-180370096",
+      "title": "Cold-Active Starch-Degrading Enzymes from a Cold and Alkaline Greenland Environment: Role of Ca<sup>2+</sup> Ions and Conformational Dynamics in Psychrophilicity",
+      "authors": "Malthe Kjær Bendtsen, Jan Stanislaw Nowak, Pedro Paiva, Marcos López Hernández, Pedro Ferreira, Jan Skov Pedersen, Nicolai Sundgaard Bekker, Elia Viezzi, Francesco Bisiak, Ditlev E. Brodersen, Lars Haastrup Pedersen, Athanasios Zervas, Pedro A. Fernandes, Maria Joao Ramos, Peter Stougaard, Mariane Schmidt Thøgersen, Daniel E. Otzen · Biomolecules",
+      "year": "2025",
+      "publicationDate": "2025-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/biom15030415",
+      "placeholder": false,
+      "doi": "10.3390/biom15030415",
+      "orcidKeys": [
+        "doi:10.3390/biom15030415"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-200379848",
+      "title": "Conformational change induced by binding of Mn2+ions activates SloR transcription factor in Streptococcus mutans",
+      "authors": "Radman, K,  Crnolatac, I,  Bregovic, N,  Matosevic, ZJ,  Fernandes, PA,  Merunka, D,  Zilic, D,  Piantanida, I,  Asler, IL,  Bertosa, B · INTERNATIONAL JOURNAL OF BIOLOGICAL MACROMOLECULES",
+      "year": "2025",
+      "publicationDate": "2025",
+      "topic": "Publications",
+      "abstract": "Streptococcus mutans, a bacterium commonly found in the human oral cavity, is considered the primary causative agent of dental caries. A key player in the pathophysiology of S. mutans is SloR, a 25-kDa metalloregulatory protein. SloR plays a crucial role in coordinating the uptake of essential metal ions, particularly manganese, with the transcription of the bacterium's virulence genes. To elucidate the molecular mechanism underlying the enhanced binding affinity of SloR to DNA upon Mn2+ ion binding, a combination of computational (QM and MD) and experimental (ITC, DSC, CD, EPR) methods have been employed. Computational simulations revealed that Mn2+ binding induces a conformational change of SloR, primarily affecting the positioning of its DNA-binding domains, bringing them to an appropriate position for DNA binding. Consequently, the protein's DNA binding affinity is modulated. Additionally, experimental findings indicate that the SloR monomer binds up to three Mn2+ ions and that the thermodynamic stability of SloR increases upon Mn2+ complexation. The presented computational results also suggest that Mn2+ binding at the primary binding sites is sufficient to trigger the observed conformational change in SloR.",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2024.138828",
+      "placeholder": false,
+      "doi": "10.1016/j.ijbiomac.2024.138828",
+      "orcidKeys": [
+        "doi:10.1016/j.ijbiomac.2024.138828"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-208983481",
+      "title": "Deciphering Snake Venom Hyaluronidase: a QM/MM MD study on its preferred reaction pathway",
+      "authors": "Castro-Amorim, Juliana, Maria J. Ramos, Fernandes, Pedro Alexandrino · 9th Portuguese Young Chemists Meeting (PyCheM 2025)",
+      "year": "2025",
+      "publicationDate": "2025-04-28",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:208983481"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-173079073",
+      "title": "Die Kinetik der Kohlenstoff‐Kohlenstoff‐Bindungsbildung in der metazoischen Fettsäure Synthase und ihr Einfluss auf die Produktgenauigkeit",
+      "authors": "Christian Gusenda, Ana R. Calixto, Joana R. Da Silva, Pedro A. Fernandes, Martin Grininger · Angewandte Chemie",
+      "year": "2025",
+      "publicationDate": "2025-01-10",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/ange.202412195",
+      "placeholder": false,
+      "doi": "10.1002/ange.202412195",
+      "orcidKeys": [
+        "doi:10.1002/ange.202412195"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-175401860",
+      "title": "Elucidating on the quaternary structure of viper venom phospholipase A2 enzymes in aqueous solution",
+      "authors": "Joana R. da Silva, Maria João Ramos, Pedro A. Fernandes · Biochimie",
+      "year": "2025",
+      "publicationDate": "2025-05",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.biochi.2024.12.015",
+      "placeholder": false,
+      "doi": "10.1016/j.biochi.2024.12.015",
+      "orcidKeys": [
+        "doi:10.1016/j.biochi.2024.12.015"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-191654189",
+      "title": "Molecular dynamics of Lys49 PLA2-like toxins: Insights into solution and membrane-bound conformations",
+      "authors": "Rui Rachão, João T.S. Coimbra, Maria J. Ramos, José-María Gutiérrez, Bruno Lomonte, Pedro A. Fernandes · Toxicon",
+      "year": "2025",
+      "publicationDate": "2025-11",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.toxicon.2025.108581",
+      "placeholder": false,
+      "doi": "10.1016/j.toxicon.2025.108581",
+      "orcidKeys": [
+        "doi:10.1016/j.toxicon.2025.108581"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-193241970",
+      "title": "Off the beaten (catalytic) path: Charting the mechanistic space of enzyme reactions",
+      "authors": "António J. M. Ribeiro, Pedro A. Fernandes, Maria J. Ramos · The Journal of Chemical Physics",
+      "year": "2025",
+      "publicationDate": "2025-10-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1063/5.0288283",
+      "placeholder": false,
+      "doi": "10.1063/5.0288283",
+      "orcidKeys": [
+        "doi:10.1063/5.0288283"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-184067319",
+      "title": "Reaction Mechanism and Catalytic Determinants of a Highly Active De Novo Metalloesterase",
+      "authors": "Luís M. C. Teixeira, João T. S. Coimbra, Maria J. Ramos, Donald Hilvert, Pedro A. Fernandes · ACS Catalysis",
+      "year": "2025",
+      "publicationDate": "2025-06-06",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.5c01146",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.5c01146",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.5c01146"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-180270106",
+      "title": "Snake Venom-Inspired Novel Peptides Protect Caenorhabditis elegans against Paraquat-Induced Parkinson’s Pathology",
+      "authors": "Dev Madhubala, Rosy Mahato, Kangkon Saikia, Aparup Patra, Pedro Alexandrino Fernandes, Arun Kumar, Mojibur R. Khan, Ashis K. Mukherjee · ACS Chemical Neuroscience",
+      "year": "2025",
+      "publicationDate": "2025-04-02",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acschemneuro.4c00576",
+      "placeholder": false,
+      "doi": "10.1021/acschemneuro.4c00576",
+      "orcidKeys": [
+        "doi:10.1021/acschemneuro.4c00576"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-208983480",
+      "title": "Solution and membrane-binding molecular dynamics simulations of Lys49 phospholipase A2-like proteins",
+      "authors": "Rachão, Rui, Coimbra, João TS, Ramos, Maria João, Fernandes, Pedro Alexandrino, Corresponding author: Fernandes, Pedro Alexandrino.",
+      "year": "2025",
+      "publicationDate": "2025",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:208983480"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-200379852",
+      "title": "The application of snake venom in anticancer drug discovery: an overview of the latest developments",
+      "authors": "da Silva, JR,  Castro-Amorim, J,  Mukherjee, AK,  Ramos, MJ,  Fernandes, PA · EXPERT OPINION ON DRUG DISCOVERY",
+      "year": "2025",
+      "publicationDate": "2025",
+      "topic": "Publications",
+      "abstract": "IntroductionSnake venom is a rich source of toxins with great potential for therapeutic applications. In addition to its efficacy in treating hypertension, acute coronary syndrome, and other heart conditions, research has shown that this potent enzymatic cocktail is capable of selectively targeting and destroying cancer cells in many cases while sparing healthy cells.Areas coveredThe authors begin by acknowledging the emerging trends in snake-derived targeted therapies in battling cancer. An extensive literature review examining the effects of various snake venom toxins on cancer cell lines, highlighting the specific cancer hallmarks each toxin targets is presented. Furthermore, the authors emphasize the emerging potential of artificial intelligence in accelerating snake venom-based drug discovery for cancer treatment, showcasing several innovative software applications in this field.Expert opinionResearch on snake venom toxins indicates promising potential for cancer treatment as many of the discussed toxins can specifically target cancer cells. Nevertheless, variations in the composition of venoms, ethical issues, and delivery barriers limit their development into effective therapies. Thus, advances in biotechnology, molecular engineering, in silico methods are crucial for the refinement of venom-derived compounds, improving their specificity, and overcoming these challenges, ultimately enhancing their therapeutic potential in cancer therapy.",
+      "url": "https://doi.org/10.1080/17460441.2025.2465364",
+      "placeholder": false,
+      "doi": "10.1080/17460441.2025.2465364",
+      "orcidKeys": [
+        "doi:10.1080/17460441.2025.2465364"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-168482068",
+      "title": "The Catalytic Mechanism of Decarboxylation of L‐DOPA to Dopamine by Papaver somniferum Aromatic Amino Acid Decarboxylase – A Computational Study",
+      "authors": "João P. M. Sousa, Maria J. Ramos, Pedro A. Fernandes · ChemCatChem",
+      "year": "2025",
+      "publicationDate": "2025-01",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/cctc.202400762",
+      "placeholder": false,
+      "doi": "10.1002/cctc.202400762",
+      "orcidKeys": [
+        "doi:10.1002/cctc.202400762"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-173079077",
+      "title": "The Kinetics of Carbon‐Carbon Bond Formation in Metazoan Fatty Acid Synthase and Its Impact on Product Fidelity",
+      "authors": "Christian Gusenda, Ana R. Calixto, Joana R. Da Silva, Pedro A. Fernandes, Martin Grininger · Angewandte Chemie International Edition",
+      "year": "2025",
+      "publicationDate": "2025-01-10",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/anie.202412195",
+      "placeholder": false,
+      "doi": "10.1002/anie.202412195",
+      "orcidKeys": [
+        "doi:10.1002/anie.202412195"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-179271238",
+      "title": "Unveiling the Enzymatic Pathway of UMG-SP2 Urethanase: Insights into Polyurethane Degradation at the Atomic Level",
+      "authors": "Paiva, Pedro, Correia Teixeira, Luís Miguel, Ren, Wei, Liu, Weidong, Weber, Gert, Morth, Jens Preben, Westh, Peter, et al. · Chemical Science",
+      "year": "2025",
+      "publicationDate": "2025",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d4sc06688j",
+      "placeholder": false,
+      "doi": "10.1039/d4sc06688j",
+      "orcidKeys": [
+        "doi:10.1039/d4sc06688j"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-189187812",
+      "title": "Unveiling the Power of Computational Tools in Chiral Liquid Chromatography",
+      "authors": "Rita Lima, Rui P. P. Neves, Pedro A. Fernandes, Artur M. S. Silva, Carla Fernandes · Molecules",
+      "year": "2025",
+      "publicationDate": "2025-07-31",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/molecules30153218",
+      "placeholder": false,
+      "doi": "10.3390/molecules30153218",
+      "orcidKeys": [
+        "doi:10.3390/molecules30153218"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-179271243",
+      "title": "Binding studies of promethazine and its metabolites with human serum albumin by high performance affinity chromatography and molecular docking in the presence of codeine",
+      "authors": "Coelho, Maria Miguel, Lima, Rita,  Almeida, Ana Sofia, Fernandes, Pedro Alexandrino, Remião, Fernando, Fernandes, Carla, Tiritan, Maria Elizabeth, Corresponding author: Fernandes, Carla. · Analytical and Bioanalytical Chemistry",
+      "year": "2024",
+      "publicationDate": "2024-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:179271243"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-176047800",
+      "title": "Computational analysis to comprehend the structure-function properties of fibrinolytic enzymes from Bacillus spp for their efficient integration into industrial applications",
+      "authors": "Boro, N,  Fernandes, PA,  Mukherjee, AK · HELIYON",
+      "year": "2024",
+      "publicationDate": "2024",
+      "topic": "Publications",
+      "abstract": "Background: The fibrinolytic enzymes from Bacillus sp. are proposed as therapeutics in preventing thrombosis. Computational-based analyses of these enzymes' amino acid composition, basic physiological properties, presence of functional domain and motifs, and secondary and tertiary structure analyses can lead to developing a specific enzyme with improved catalytic activity and other properties that may increase their therapeutic potential. Methods: The nucleotide sequences of fibrinolytic enzymes produced by the genus Bacillus and its corresponding protein sequences were retrieved from the NCBI database and aligned using the PRALINE programme. The varied physiochemical parameters and structural and functional analysis of the enzyme sequences were carried out with the ExPASy-ProtParam tool, MEME server, SOPMA, PDBsum tool, CYS-REC tool, SWISS-MODEL, SAVES servers, TMHMM program, GlobPlot, and peptide cutter software. The assessed in-silico data were compared with the published experimental results for validation. Results: The alignment of sixty fibrinolytic serine protease enzymes (molecular mass 12-86 kDa) sequences showed 49 enzymes possess a conserved domain with a catalytic triad of Asp196, His242, and Ser569. The predicted instability and aliphatic indexes were 1.94-37.77, and 68.9-93.41, respectively, indicating high thermostability. The random coil means value suggested the predominance of this secondary structure in these proteases. A set of 50 amino acid residues representing motif 3 signifies the Peptidase S8/S53 domain that was invariably observed in 56 sequences. Additionally, 28 sequences have transmembrane helices, with two having the most disordered areas, and they pose 25 enzyme cleavage sites. A comparative analysis of the experimental work with the results of in-silico study put forward the characteristics of the enzyme sequences JF739176.1 and MF677779.1 to be considered when creating a potential mutant enzyme as these sequences are stable at high pH with thermostability and to exhibit alpha beta-fibrinogenase activity in both experimental and in-silico studies.",
+      "url": "https://doi.org/10.1016/j.heliyon.2024.e33895",
+      "placeholder": false,
+      "doi": "10.1016/j.heliyon.2024.e33895",
+      "orcidKeys": [
+        "doi:10.1016/j.heliyon.2024.e33895"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-176047796",
+      "title": "Correction to: Viper Venom Phospholipase A2 Database: The Structural and Functional Anatomy of a Primary Toxin in Envenomation (Toxins, (2024), 16, 2, (71), 10.3390/toxins16020071)",
+      "authors": "de Oliveira, L, Lacerda, T, Ramos, J, Fernandes, A · Toxins",
+      "year": "2024",
+      "publicationDate": "2024",
+      "topic": "Publications",
+      "abstract": "In the published publication [1], the PLA2 viper venom database does not include the submitted 3D structures of the proteins in the Supplementary Materials due to a mistake in the publishing process. The corrected Supplementary Materials appears below. The authors state that the scientific conclusions are unaffected. This correction was approved by the Academic Editor. The original publication has also been updated. Supplementary Materials: The following supporting information can be downloaded at: https://www.mdpi.com/article/10.3390/toxins16020071/s1, Figure S1: Two possible dimerization interfaces of vvPLA2 enzymes; Figure S2: The three principal regions of the PLA2-like proteins; Figure S3: Phospholipase A2 bound to transition-state analogs; Figure S4: Protein–membrane system; Figure S5: Modeling of the PLA2-like protein from B. pauloensis, which adopts an extended dimer conformation, bound to the membrane; Figure S6: C-terminal sequence analysis of the vvPLA2s’ acidic subgroup; Figure S7: C-terminal sequence analysis of the vvPLA2s’ basic subgroup; Figure S8: C-Terminal sequence analysis of the PLA2-like proteins’ subgroup. Table S1: Surface area of seven dimeric vvPLA2 and PLA2-like proteins and their interface area; Table S2: Validation of the molecular modeling protocol for vvPLA2 enzymes as a function of the template quality; Table S3: Validation of the molecular modeling protocol for PLA2-like proteins as a function of the template quality; Table S4: Comparison between the homology modeling and the AlphaFold2 models. Table S5: All homology models vs. AlphaFold2 structures; Table S6: i-face qualification and quantification contacts. File S1: 3D-PDB structures of the 217 vvPLA2 and PLA2-like proteins analyzed in the database. The PDB file is named according to the UNIPROT code of the corresponding structure. References [116–127] are cited in the Supplementary Materials. © 2024 by the authors.",
+      "url": "https://doi.org/10.3390/toxins16060250",
+      "placeholder": false,
+      "doi": "10.3390/toxins16060250",
+      "orcidKeys": [
+        "doi:10.3390/toxins16060250"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-172232615",
+      "title": "Crosstalk of Nucleic Acid Mimics with Lipid Membranes: A Multifaceted Computational and Experimental Study",
+      "authors": "Beatriz T. Magalhães, João T. S. Coimbra, Raquel M. Silva, Mariana Ferreira, Rita S. Santos, Paula Gameiro, Nuno F. Azevedo, Pedro A. Fernandes · Biochemistry",
+      "year": "2024",
+      "publicationDate": "2024-12-17",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.biochem.4c00349",
+      "placeholder": false,
+      "doi": "10.1021/acs.biochem.4c00349",
+      "orcidKeys": [
+        "doi:10.1021/acs.biochem.4c00349"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177585046",
+      "title": "DszA Catalyzes C–S Bond Cleavage through N5–Hydroperoxyl Formation",
+      "authors": "Pedro Ferreira, Rui P. P. Neves, Filipa P. Miranda, Ana V. Cunha, Remco W. A. Havenith, Maria J. Ramos, Pedro A. Fernandes · Journal of Chemical Information and Modeling",
+      "year": "2024",
+      "publicationDate": "2024-05-27",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.4c00301",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.4c00301",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.4c00301"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-153808988",
+      "title": "Evolution of the Quinoline Scaffold for the Treatment of Leishmaniasis: A Structural Perspective",
+      "authors": "Carlos F. M. Silva, Diana C. G. A. Pinto, Pedro A. Fernandes, Artur M. S. Silva · Pharmaceuticals",
+      "year": "2024",
+      "publicationDate": "2024-02-22",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/ph17030285",
+      "placeholder": false,
+      "doi": "10.3390/ph17030285",
+      "orcidKeys": [
+        "doi:10.3390/ph17030285"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-179271244",
+      "title": "Interaction of major saffron constituent safranal with trypsin: An experimental and computational investigation",
+      "authors": "Ali, Mohd Sajid, Luís M. C. Teixeira, Ramos, Maria João, Fernandes, Pedro Alexandrino, Al-Lohedan, Hamad A. · International Journal of Biological Macromolecules",
+      "year": "2024",
+      "publicationDate": "2024-06",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2024.133231",
+      "placeholder": false,
+      "doi": "10.1016/j.ijbiomac.2024.133231",
+      "orcidKeys": [
+        "doi:10.1016/j.ijbiomac.2024.133231"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-179271239",
+      "title": "On the intriguing world of snake venom toxins: Unravelling the catalytic pathway of phospholipase A2 toxin in a membrane model",
+      "authors": "Castro-Amorim, Juliana, Alexandre V. Pinto, Ramos, Maria João, Fernandes, Pedro Alexandrino, Corresponding author: Castro-Amorim, Juliana. · 30th Meeting in Toxinology (RT30) of the SFET, Nice, France",
+      "year": "2024",
+      "publicationDate": "2024-12-02",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:179271239"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-179271240",
+      "title": "Predictive Computational Methods for Assessing Chiral Recognition Mechanisms on (S,S)-Whelk-O1® Column",
+      "authors": "Lima, Rita, Neves, Rui P. P., Fernandes, Pedro Alexandrino, Silva, Artur, Tiritan, Maria Elizabeth, Pinto, Madalena M. M., Fernandes, Carla, Corresponding author: Fernandes, Carla. · 24th European Symposium on Quantitative Structure-Activity Relationship (24th EuroQSAR)",
+      "year": "2024",
+      "publicationDate": "2024-09-22",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:179271240"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584174",
+      "title": "Pseudomonas sp. MIS38 Lipase Potential for Urethane Biological Degradation",
+      "authors": "Luís M. C. Teixeira, Paiva, Pedro, Fernandes, Pedro Alexandrino, Ramos, Maria João, Corresponding author: Ramos, Maria João. · Enzymatic Polymer Degradation Symposium",
+      "year": "2024",
+      "publicationDate": "2024-05-23",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584174"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-166198473",
+      "title": "QM/MM Study of the Reaction Mechanism of L‑Tyrosine Hydroxylation Catalyzed by the Enzyme CYP76AD1",
+      "authors": "João P. M. Sousa, Maria J. Ramos, Pedro A. Fernandes · The Journal of Physical Chemistry B",
+      "year": "2024",
+      "publicationDate": "2024-10-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jpcb.4c05209",
+      "placeholder": false,
+      "doi": "10.1021/acs.jpcb.4c05209",
+      "orcidKeys": [
+        "doi:10.1021/acs.jpcb.4c05209"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-147012414",
+      "title": "Rate-enhancing PETase mutations determined through DFT/MM molecular dynamics simulations",
+      "authors": "Carola Jerves, Rui P. P. Neves, Saulo L. da Silva, Maria J. Ramos, Pedro A. Fernandes · New Journal of Chemistry",
+      "year": "2024",
+      "publicationDate": "2024",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d3nj04204a",
+      "placeholder": false,
+      "doi": "10.1039/d3nj04204a",
+      "orcidKeys": [
+        "doi:10.1039/d3nj04204a"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-176047794",
+      "title": "Revisiting the reaction pathways for phospholipid hydrolysis catalyzed by phospholipase A2 with QM/MM methods",
+      "authors": "Pinto, AV, Ferreira, P, Cunha, AV, Havenith, RWA, Magalhaes, AL, Ramos, MJ, Fernandes, PA · CHEMICAL SCIENCE",
+      "year": "2024",
+      "publicationDate": "2024",
+      "topic": "Publications",
+      "abstract": "Secreted phospholipase A2 (sPLA2) is a Ca2+-dependent, widely distributed enzyme superfamily in almost all mammalian tissues and bacteria. It is also a critical component of the venom of nearly all snakes, as well as many invertebrate species. In non-venomous contexts, sPLA2 assumes significance in cellular signaling pathways by binding cell membranes and catalyzing ester bond hydrolysis at the sn-2 position of phospholipids. Elevated levels of GIIA sPLA2 have been detected in the synovial fluid of arthritis patients, where it exhibits a pro-inflammatory function. Consequently, identifying sPLA2 inhibitors holds promise for creating highly effective pharmaceutical treatments. Beyond arthritis, the similarities among GIIA sPLA2s offer an opportunity for developing treatments against snakebite envenoming, the deadliest neglected tropical disease. Despite decades of study, the details of PLA2 membrane-binding, substrate-binding, and reaction mechanism remain elusive, demanding a comprehensive understanding of the sPLA2 catalytic mechanism. This study explores two reaction mechanism hypotheses, involving one or two water molecules, and distinct roles for the Ca2+ cofactor. Our research focuses on the human synovial sPLA2 enzyme bound to lipid bilayers of varying phospholipid compositions, and employing adiabatic QM/MM and QM/MM MD umbrella sampling methods to energetically and geometrically characterize the structures found along both reaction pathways. Our studies demonstrate the higher frequency of productive conformations within the single-water pathway, also revealing a lower free energy barrier for hydrolyzing POPC. Furthermore, we observe that the TS of this concerted one-step reaction closely resembles transition state geometries observed in X-ray crystallography complexes featuring high-affinity transition state analogue inhibitors. This study unveils hGIIA sPLA2's affinity for anionic bilayers, pinpointing crucial interfacial residues. It also emphasizes the dominance of the single-water pathway in its reaction mechanism, crucial for drug design targeting transition states.",
+      "url": "https://doi.org/10.1039/d4sc02315c",
+      "placeholder": false,
+      "doi": "10.1039/d4sc02315c",
+      "orcidKeys": [
+        "doi:10.1039/d4sc02315c"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-162943014",
+      "title": "The Kinetics of Carbon-Carbon-Bond Formation in Metazoan Fatty Acid Synthase and its Impact on Product Fidelity",
+      "authors": "Christian Gusenda, Ana Rita Calixto, Joana Margarida Ribeiro da Silva, Pedro Alexandrino Fernandes, Martin Grininger",
+      "year": "2024",
+      "publicationDate": "2024-07-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1101/2024.07.03.601458",
+      "placeholder": false,
+      "doi": "10.1101/2024.07.03.601458",
+      "orcidKeys": [
+        "doi:10.1101/2024.07.03.601458"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-176047805",
+      "title": "THE MOLECULAR MECHANISM OF ACTION OF SNAKE VENOM TOXINS - A COMPUTATIONAL PERSPECTIVE",
+      "authors": "Fernandes, PA · TOXICON",
+      "year": "2024",
+      "publicationDate": "2024",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://www.authenticus.pt/P-017-39Z",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:176047805"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-170103883",
+      "title": "Venomous Peptides: Molecular Origin of the Toxicity of Snake Venom PLA2-like Peptides",
+      "authors": "João T. S. Coimbra, Antoine Gissler, Emiel Nitor, Kiana Rostamipour, Ana V. Cunha, Maria J. Ramos, Pedro A. Fernandes · JACS Au",
+      "year": "2024",
+      "publicationDate": "2024-11-25",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jacsau.4c00646",
+      "placeholder": false,
+      "doi": "10.1021/jacsau.4c00646",
+      "orcidKeys": [
+        "doi:10.1021/jacsau.4c00646"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-152140704",
+      "title": "Viper Venom Phospholipase A2 Database: The Structural and Functional Anatomy of a Primary Toxin in Envenomation",
+      "authors": "Ana L. Novo de Oliveira, Miguel T. Lacerda, Maria J. Ramos, Pedro A. Fernandes · Toxins",
+      "year": "2024",
+      "publicationDate": "2024-02-01",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/toxins16020071",
+      "placeholder": false,
+      "doi": "10.3390/toxins16020071",
+      "orcidKeys": [
+        "doi:10.3390/toxins16020071"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-131759381",
+      "title": "Beyond the TPP+ “gold standard”: a new generation mitochondrial delivery vector based on extended PN frameworks",
+      "authors": "How Chee Ong, João T. S. Coimbra, Maria J. Ramos, Bengang Xing, Pedro A. Fernandes, Felipe García · Chemical Science",
+      "year": "2023",
+      "publicationDate": "2023",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d2sc06508h",
+      "placeholder": false,
+      "doi": "10.1039/d2sc06508h",
+      "orcidKeys": [
+        "doi:10.1039/d2sc06508h"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-132534283",
+      "title": "Catalytically Active Snake Venom PLA2 Enzymes: An Overview of Its Elusive Mechanisms of Reaction",
+      "authors": "Juliana Castro-Amorim, Ana Novo de Oliveira, Saulo Luís Da Silva, Andreimar M. Soares, Ashis K. Mukherjee, Maria João Ramos, Pedro A. Fernandes · Journal of Medicinal Chemistry",
+      "year": "2023",
+      "publicationDate": "2023-04-27",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jmedchem.3c00097",
+      "placeholder": false,
+      "doi": "10.1021/acs.jmedchem.3c00097",
+      "orcidKeys": [
+        "doi:10.1021/acs.jmedchem.3c00097"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584175",
+      "title": "Chromeno[3,4-b]xanthones: a new pathway towards the multitarget strategy for Alzheimer's disease",
+      "authors": "Malafaia, Daniela, Bras, Natercia F., Fernandes, Pedro Alexandrino, Ramos, Maria, Silva, Artur, Albuquerque, Hélio, Corresponding author: Malafaia, Daniela. · 22nd European Symposium on Organic Chemistry",
+      "year": "2023",
+      "publicationDate": "2023-07-10",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584175"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584176",
+      "title": "Chromeno[3,4-b]xanthones: a new platform for the development of multitarget theranostics for Alzheimer's disease",
+      "authors": "Malafaia, Daniela, Bras, Natercia F., Fernandes, Pedro Alexandrino, Ramos, Maria João, Silva, Artur, Albuquerque, Hélio, Corresponding author: Malafaia, Daniela. · Workshop on novel diagnostic tools for Alzheimer's disease",
+      "year": "2023",
+      "publicationDate": "2023-06-16",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584176"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-179271241",
+      "title": "Computational approaches for chiral recognition mechanisms on (S,S)-Whelk-O1",
+      "authors": "Lima, Rita, Neves, Rui P. P., Fernandes, Pedro Alexandrino, Silva, Artur, Tiritan, Maria Elizabeth, Pinto, Madalena M. M., Fernandes, Carla, Corresponding author: Fernandes, Carla. · 33rd International Symposium on Chirality",
+      "year": "2023",
+      "publicationDate": "2023-07-24",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:179271241"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177585040",
+      "title": "Dataset from \"Deciphering the Catalytic Mechanism of Virginiamycin B Lyase with Multiscale Methods and Molecular Dynamics Simulations\"",
+      "authors": "Coimbra, João TS, Fernandes, Pedro Alexandrino, Ramos, Maria João",
+      "year": "2023",
+      "publicationDate": "2023-10-02",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.5281/zenodo.8255787",
+      "placeholder": false,
+      "doi": "10.5281/zenodo.8255787",
+      "orcidKeys": [
+        "doi:10.5281/zenodo.8255787"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-143530553",
+      "title": "Deciphering the Catalytic Mechanism of Virginiamycin B Lyase with Multiscale Methods and Molecular Dynamics Simulations",
+      "authors": "João T. S. Coimbra, Pedro A. Fernandes, Maria J. Ramos · Journal of Chemical Information and Modeling",
+      "year": "2023",
+      "publicationDate": "2023-10-23",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.3c00962",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.3c00962",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.3c00962"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-121464397",
+      "title": "Development of Nanoscale Graphene Oxide Models for the Adsorption of Biological Molecules",
+      "authors": "Alexandre V. Pinto, Pedro Ferreira, Pedro A. Fernandes, Alexandre L. Magalhães, Maria J. Ramos · The Journal of Physical Chemistry B",
+      "year": "2023",
+      "publicationDate": "2023-01-19",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jpcb.2c06037",
+      "placeholder": false,
+      "doi": "10.1021/acs.jpcb.2c06037",
+      "orcidKeys": [
+        "doi:10.1021/acs.jpcb.2c06037"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-124970161",
+      "title": "Engineering DszC Mutants from Transition State Macrodipole Considerations and Evolutionary Sequence Analysis",
+      "authors": "Rui P. P. Neves, Maria J. Ramos, Pedro A. Fernandes · Journal of Chemical Information and Modeling",
+      "year": "2023",
+      "publicationDate": "2023-01-09",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.2c01337",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.2c01337",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.2c01337"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584195",
+      "title": "Feedback inhibition of DszC, a crucial enzyme for crude oil biodessulfurization",
+      "authors": "Pimenta das Neves, RP, Viveiros Araújo, BM, Ramos, MJ, Fernandes, PA",
+      "year": "2023",
+      "publicationDate": "2023",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.26434/chemrxiv-2023-fxdp0",
+      "placeholder": false,
+      "doi": "10.26434/chemrxiv-2023-fxdp0",
+      "orcidKeys": [
+        "doi:10.26434/chemrxiv-2023-fxdp0"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-133034325",
+      "title": "Feedback Inhibition of DszC, a Crucial Enzyme for Crude Oil Biodessulfurization",
+      "authors": "Rui P. P. Neves, Bruno Araújo, Maria J. Ramos, Pedro A. Fernandes · Catalysts",
+      "year": "2023",
+      "publicationDate": "2023-04-13",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/catal13040736",
+      "placeholder": false,
+      "doi": "10.3390/catal13040736",
+      "orcidKeys": [
+        "doi:10.3390/catal13040736"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-179271242",
+      "title": "New antidotes for the Bothrops asper venom: a study of PLA2 protein",
+      "authors": "Pinto, Roberto, Fernandes, Pedro Alexandrino, Maria J. Ramos, Ferreira, Pedro G. · 8th Portuguese Young Chemists Meeting (8th PYCheM)",
+      "year": "2023",
+      "publicationDate": "2023-05-18",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:179271242"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-135838767",
+      "title": "Rational Engineering of (<i>S</i>)-Norcoclaurine Synthase for Efficient Benzylisoquinoline Alkaloids Biosynthesis",
+      "authors": "João P. M. De Sousa, Nuno C. S. A. Oliveira, Pedro A. Fernandes · Molecules",
+      "year": "2023",
+      "publicationDate": "2023-05",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/molecules28114265",
+      "placeholder": false,
+      "doi": "10.3390/molecules28114265",
+      "orcidKeys": [
+        "doi:10.3390/molecules28114265"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-128909484",
+      "title": "Structure–Activity Relationship Studies of 9-Alkylamino-1,2,3,4-tetrahydroacridines against Leishmania (Leishmania) infantum Promastigotes",
+      "authors": "Carlos F. M. Silva, Teresa Leão, Filipa Dias, Ana M. Tomás, Diana C. G. A. Pinto, Eduardo F. T. Oliveira, Ana Oliveira, Pedro A. Fernandes, Artur M. S. Silva · Pharmaceutics",
+      "year": "2023",
+      "publicationDate": "2023-02-16",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/pharmaceutics15020669",
+      "placeholder": false,
+      "doi": "10.3390/pharmaceutics15020669",
+      "orcidKeys": [
+        "doi:10.3390/pharmaceutics15020669"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-159748712",
+      "title": "Therapeutic applications of snake venoms: An invaluable potential of new drug candidates",
+      "authors": "Diniz Sousa, R, Caldeira, CAD, Pereira, SS, Da Silva, SL, Fernandes, PA, Teixeira, LMC, Zuliani, JP, Soares, AM · INTERNATIONAL JOURNAL OF BIOLOGICAL MACROMOLECULES",
+      "year": "2023",
+      "publicationDate": "2023",
+      "topic": "Publications",
+      "abstract": "Animal venoms and their chemical compounds have aroused both empirical and scientific attention for ages. However, there has been a significant increase in scientific investigations in recent decades, allowing the pro-duction of various formulations that are helping in the development of many important tools for biotechno-logical, diagnostic, or therapeutic use, both in human and animal health, as well as in plants. Venoms are composed of biomolecules and inorganic compounds that may have physiological and pharmacological activities that are not related to their principal actions (prey immobilization, digestion, and defense). Snake venom toxins, mainly enzymatic and non-enzymatic proteins, and peptides have been identified as potential prototypes for new drugs and/or models for the development of pharmacologically active structural domains for the treatment of cancer, cardiovascular diseases, neurodegenerative and autoimmune diseases, pain, and infectious-parasitic diseases. This minireview aims to provide an overview of the biotechnological potential of animal venoms, with a focus on snakes, and to introduce the reader to the fascinating world of Applied Toxinology, where animal biodiversity can be used to develop therapeutic and diagnostic applications for humans.",
+      "url": "https://www.authenticus.pt/P-00Y-7T5",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:159748712"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-208983482",
+      "title": "Uncovering the Structural Determinants of the sPLA2 Bothrops asper Viper’s Venom for Antidote Discovery Purposes",
+      "authors": "R. da Silva, Joana, Ana da Novo Oliveira, Ramos, Maria João, Fernandes, Pedro Alexandrino, Corresponding author: Fernandes, Pedro Alexandrino. · AIMS Meeting 2023",
+      "year": "2023",
+      "publicationDate": "2023-03-24",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:208983482"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-133665081",
+      "title": "Unraveling the Reaction Mechanism of Russell’s Viper Venom Factor X Activator: A Paradigm for the Reactivity of Zinc Metalloproteinases?",
+      "authors": "Juliana Castro-Amorim, Ana Oliveira, Ashis K. Mukherjee, Maria J. Ramos, Pedro A. Fernandes · Journal of Chemical Information and Modeling",
+      "year": "2023",
+      "publicationDate": "2023-07-10",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.2c01156",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.2c01156",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.2c01156"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584196",
+      "title": "A combined experimental and computational study to discover novel tyrosinase inhibitors",
+      "authors": "Amaral, LMPF, Moniz, T, Leite, A, Oliveira, A, Fernandes, P, Ramos, MJ, Araujo, AN, et al. · JOURNAL OF INORGANIC BIOCHEMISTRY",
+      "year": "2022",
+      "publicationDate": "2022",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jinorgbio.2022.111879",
+      "placeholder": false,
+      "doi": "10.1016/j.jinorgbio.2022.111879",
+      "orcidKeys": [
+        "doi:10.1016/j.jinorgbio.2022.111879"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584167",
+      "title": "Blocking SARS-CoV-2 Infection: Inhibiting the Human Enzyme TMPRSS2",
+      "authors": "Luís M. C. Teixeira, Coimbra, João TS, Ramos, Maria João, Fernandes, Pedro Alexandrino, Corresponding author: Fernandes, Pedro Alexandrino. · 15th University of Porto Young Research Meeting (IJUP)",
+      "year": "2022",
+      "publicationDate": "2022",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584167"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-115466675",
+      "title": "Cover Feature: Different Enzyme Conformations Induce Different Mechanistic Traits in HIV‐1 Protease (Chem. Eur. J. 42/2022)",
+      "authors": "João T. S. Coimbra, Rui P. P. Neves, Ana V. Cunha, Maria J. Ramos, Pedro A. Fernandes · Chemistry – A European Journal",
+      "year": "2022",
+      "publicationDate": "2022-07-26",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.202202001",
+      "placeholder": false,
+      "doi": "10.1002/chem.202202001",
+      "orcidKeys": [
+        "doi:10.1002/chem.202202001"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-115020913",
+      "title": "Different Enzyme Conformations Induce Different Mechanistic Traits in HIV‐1 Protease",
+      "authors": "João T. S. Coimbra, Rui P. P. Neves, Ana V. Cunha, Maria J. Ramos, Pedro A. Fernandes · Chemistry – A European Journal",
+      "year": "2022",
+      "publicationDate": "2022-07-26",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.202201066",
+      "placeholder": false,
+      "doi": "10.1002/chem.202201066",
+      "orcidKeys": [
+        "doi:10.1002/chem.202201066"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-208983483",
+      "title": "Discovery of Small-Molecule Antidotes for B. asper Viper’s Venom",
+      "authors": "R. da Silva, Joana, Ana de Novo Oliveira, Ramos, Maria João, Fernandes, Pedro Alexandrino, Corresponding author: Fernandes, Pedro Alexandrino. · 8th EUChemS Chemistry Congress 2022",
+      "year": "2022",
+      "publicationDate": "2022-08-28",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:208983483"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584178",
+      "title": "Dual inhibition of carbohydrate-hydrolysing enzymes a-amylase and  a-glucosidase by flavonoids",
+      "authors": "Proença, Carina, Freitas, Marisa, Rufino A., de Oliveira, José Miguel P. Ferreira, Silva, Artur M. S., Fernandes, Pedro Alexandrino, Fernandes, Eduarda · 14.º Encontro Nacional de Química Orgânica (14ENQO) e 7.º Encontro Nacional de Química Terapêutica (7ENQT)",
+      "year": "2022",
+      "publicationDate": "2022-04-21",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584178"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-109241361",
+      "title": "Engineering of PKS Megaenzymes—A Promising Way to Biosynthesize High-Value Active Molecules",
+      "authors": "Topics in Catalysis",
+      "year": "2022",
+      "publicationDate": "2022-02",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s11244-021-01490-5",
+      "placeholder": false,
+      "doi": "10.1007/s11244-021-01490-5",
+      "orcidKeys": [
+        "doi:10.1007/s11244-021-01490-5"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-107136129",
+      "title": "Evolution of Acridines and Xanthenes as a Core Structure for the Development of Antileishmanial Agents",
+      "authors": "Carlos F. M. Silva, Diana C. G. A. Pinto, Pedro A. Fernandes, Artur M. S. Silva · Pharmaceuticals",
+      "year": "2022",
+      "publicationDate": "2022-01-26",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/ph15020148",
+      "placeholder": false,
+      "doi": "10.3390/ph15020148",
+      "orcidKeys": [
+        "doi:10.3390/ph15020148"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-109241218",
+      "title": "Exploring the permeation of fluoroquinolone metalloantibiotics across outer membrane porins by combining molecular dynamics simulations and a porin-mimetic in vitro model",
+      "authors": "Biochimica et Biophysica Acta (BBA) - Biomembranes",
+      "year": "2022",
+      "publicationDate": "2022-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.bbamem.2021.183838",
+      "placeholder": false,
+      "doi": "10.1016/j.bbamem.2021.183838",
+      "orcidKeys": [
+        "doi:10.1016/j.bbamem.2021.183838"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584197",
+      "title": "Glossary of terms used in physical organic chemistry (IUPAC Recommendations 2021)",
+      "authors": "Perrin, CL, Agranat, I, Bagno, A, Braslavsky, SE, Fernandes, PA, Gal, JF, Lloyd-Jones, GC, et al. · PURE AND APPLIED CHEMISTRY",
+      "year": "2022",
+      "publicationDate": "2022",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1515/pac-2018-1010",
+      "placeholder": false,
+      "doi": "10.1515/pac-2018-1010",
+      "orcidKeys": [
+        "doi:10.1515/pac-2018-1010"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-106120038",
+      "title": "Inhibitory activity of flavonoids against human sucrase-isomaltase (α-glucosidase) activity in a Caco-2/TC7 cellular model",
+      "authors": "Carina Proença, Ana T. Rufino, José Miguel P. Ferreira de Oliveira, Marisa Freitas, Pedro A. Fernandes, Artur M. S. Silva, Eduarda Fernandes · Food & Function",
+      "year": "2022",
+      "publicationDate": "2022",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d1fo02995a",
+      "placeholder": false,
+      "doi": "10.1039/d1fo02995a",
+      "orcidKeys": [
+        "doi:10.1039/d1fo02995a"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584198",
+      "title": "Modern computational methods for rational enzyme engineering",
+      "authors": "Ferreira, P, Fernandes, PA, Ramos, MJ · CHEM CATALYSIS",
+      "year": "2022",
+      "publicationDate": "2022",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.checat.2022.09.036",
+      "placeholder": false,
+      "doi": "10.1016/j.checat.2022.09.036",
+      "orcidKeys": [
+        "doi:10.1016/j.checat.2022.09.036"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-106648753",
+      "title": "Modern Strategies for the Diversification of the Supply of Natural Compounds: The Case of Alkaloid Painkillers",
+      "authors": "João P. M. Sousa, Maria J. Ramos, Pedro A. Fernandes · ChemBioChem",
+      "year": "2022",
+      "publicationDate": "2022-05-18",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/cbic.202100623",
+      "placeholder": false,
+      "doi": "10.1002/cbic.202100623",
+      "orcidKeys": [
+        "doi:10.1002/cbic.202100623"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-111841029",
+      "title": "Necessity is the Mother of Invention: A Remote Molecular Bioinformatics Practical Course in the COVID-19 Era",
+      "authors": "Pedro A. Fernandes, Óscar Passos, Maria J. Ramos · Journal of Chemical Education",
+      "year": "2022",
+      "publicationDate": "2022-05-10",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jchemed.1c01195",
+      "placeholder": false,
+      "doi": "10.1021/acs.jchemed.1c01195",
+      "orcidKeys": [
+        "doi:10.1021/acs.jchemed.1c01195"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-159748652",
+      "title": "Pharmacological re-assessment of traditional medicinal plants-derived inhibitors as antidotes against snakebite envenoming: A critical review",
+      "authors": "Puzari, U,  Fernandes, PA,  Mukherjee, AK · JOURNAL OF ETHNOPHARMACOLOGY",
+      "year": "2022",
+      "publicationDate": "2022",
+      "topic": "Publications",
+      "abstract": "Ethnopharmacological relevance: Traditional healers have used medicinal plants to treat snakebite envenomation worldwide; however, mostly without scientific validation. There have been many studies on the therapeutic potential of the natural products against snake envenomation.Aim of the study: This review has highlighted snake venom inhibitory activity of bioactive compounds and peptides from plants that have found a traditional use in treating snakebite envenomation. We have systemat-ically reviewed the scenario of different phases of natural snake venom inhibitors characterization covering a period from 1994 until the present and critically analysed the lacuna of the studies if any, and further scope for their translation from bench to bedside. Materials and methods: The medicinal plant-derived compounds used against snakebite therapy were reviewed from the available literature in public databases (Scopus, MEDLINE) from 1994 till 2020. The search words used were 'natural inhibitors against snakebite,' 'natural products as therapeutics against snakebite,' 'natural products as antidote against snake envenomation,' ' snake venom toxin natural inhibitors,' 'snake venom herbal in-hibitors'. However, the scope of this review does not include computational (in silico) predictions without any wet laboratory validation and snake venom inhibitory activity of the crude plant extracts. In addition, we have also predicted the ADMET properties of the identified snake venom inhibitors to highlight their valuable pharmacokinetics for future clinical studies.Results: The therapeutic application of plant-derived natural inhibitors to treat snakebite envenomation as an auxiliary to antivenom therapy has been gaining significant momentum. Pharmacological reassessment of the natural compounds derived from traditional medicinal plants has demonstrated inhibition of the principal toxic enzymes of snake venoms at various extents to curb the lethal and/or deleterious effects of venomous snakebite. Nevertheless, such molecules are yet to be commercialized for clinical application in the treatment of snakebite. There are many obstacles in the marketability of the plant-derived natural products as snake envenomation antidote and strategies must be explored for the translation of these compounds from drug candidates to their clinical application.Conclusion: In order to minimize the adverse implications of snake envenomation, strategies must be developed for the smooth transition of these plant-derived small molecule inhibitors from bench to bedside. In this article we have presented an inclusive review and have critically analysed natural products for their therapeutic po-tential against snake envenomation, and have proposed a road map for use of natural products as antidote against snakebite.",
+      "url": "https://doi.org/10.1016/j.jep.2022.115208",
+      "placeholder": false,
+      "doi": "10.1016/j.jep.2022.115208",
+      "orcidKeys": [
+        "doi:10.1016/j.jep.2022.115208"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-116812009",
+      "title": "QM/MM Study of the Reaction Mechanism of Thermophilic Glucuronoyl Esterase for Biomass Treatment",
+      "authors": "Matilde F. Viegas, Rui P. P. Neves, Maria J. Ramos, Pedro A. Fernandes · ChemPhysChem",
+      "year": "2022",
+      "publicationDate": "2022-10-19",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/cphc.202200269",
+      "placeholder": false,
+      "doi": "10.1002/cphc.202200269",
+      "orcidKeys": [
+        "doi:10.1002/cphc.202200269"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584177",
+      "title": "Revealing the enzymatic catalysis of Russell's viper venom factor X activator (RVV-X) using  computational methods",
+      "authors": "Castro-Amorim, Juliana, Ana Luísa Novo de Oliveira, Ramos, Maria João, Fernandes, Pedro Alexandrino · VII Jornadas da Bioquímica",
+      "year": "2022",
+      "publicationDate": "2022-04-24",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584177"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-116372720",
+      "title": "Role of Enzyme and Active Site Conformational Dynamics in the Catalysis by α-Amylase Explored with QM/MM Molecular Dynamics",
+      "authors": "Rui P. P. Neves, Pedro A. Fernandes, Maria J. Ramos · Journal of Chemical Information and Modeling",
+      "year": "2022",
+      "publicationDate": "2022-08-08",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.2c00691",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.2c00691",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.2c00691"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-109241264",
+      "title": "The archaeal non-heme iron-containing Sulfur Oxygenase Reductase",
+      "authors": "Coordination Chemistry Reviews",
+      "year": "2022",
+      "publicationDate": "2022-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.ccr.2021.214358",
+      "placeholder": false,
+      "doi": "10.1016/j.ccr.2021.214358",
+      "orcidKeys": [
+        "doi:10.1016/j.ccr.2021.214358"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-109241923",
+      "title": "The Chemistry of Snake Venom and its Medicinal Potential",
+      "authors": "Nature Reviews Chemistry",
+      "year": "2022",
+      "publicationDate": "2022",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1038/s41570-022-00393-7",
+      "placeholder": false,
+      "doi": "10.1038/s41570-022-00393-7",
+      "orcidKeys": [
+        "doi:10.1038/s41570-022-00393-7"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584166",
+      "title": "The effect of flavonoids and pyrazoles in the emerging targets of type 2 diabetes mellitus, PTP1B and FBPase",
+      "authors": "Proença, Carina, Rocha, Sónia, Freitas, Marisa, Fernandes, Pedro A., Silva, Artur M. S., Fernandes, Eduarda, Fernandes, Pedro Alexandrino, Eduarda Fernandes",
+      "year": "2022",
+      "publicationDate": "2022-12",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584166"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584168",
+      "title": "The Reaction Mechanism of SARS-CoV-2 Spike Protein Cleavage by TMPRSS2: A Quantum Mechanics/Molecular Mechanics Study",
+      "authors": "Luís M. C. Teixeira, Coimbra, João TS, Ramos, Maria João, Fernandes, Pedro Alexandrino · XXVI Galician-Portugues International Conference on Chemistry",
+      "year": "2022",
+      "publicationDate": "2022",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584168"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-107000214",
+      "title": "The role of acetylated cyclooxygenase-2 in the biosynthesis of resolvin precursors derived from eicosapentaenoic acid",
+      "authors": "Anna Cebrián-Prats, Alexandre Pinto, Àngels González-Lafont, Pedro A. Fernandes, José M. Lluch · Organic & Biomolecular Chemistry",
+      "year": "2022",
+      "publicationDate": "2022",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d1ob01932e",
+      "placeholder": false,
+      "doi": "10.1039/d1ob01932e",
+      "orcidKeys": [
+        "doi:10.1039/d1ob01932e"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-113319741",
+      "title": "Towards the Accurate Thermodynamic Characterization of Enzyme Reaction Mechanisms",
+      "authors": "Rui P. P. Neves, Ana V. Cunha, Pedro A. Fernandes, Maria J. Ramos · ChemPhysChem",
+      "year": "2022",
+      "publicationDate": "2022-07-05",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/cphc.202200159",
+      "placeholder": false,
+      "doi": "10.1002/cphc.202200159",
+      "orcidKeys": [
+        "doi:10.1002/cphc.202200159"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-112955355",
+      "title": "Transmembrane Protease Serine 2 Proteolytic Cleavage of the SARS-CoV-2 Spike Protein: A Mechanistic Quantum Mechanics/Molecular Mechanics Study to Inspire the Design of New Drugs To Fight the COVID-19 Pandemic",
+      "authors": "Luís M. C. Teixeira, João T. S. Coimbra, Maria João Ramos, Pedro Alexandrino Fernandes · Journal of Chemical Information and Modeling",
+      "year": "2022",
+      "publicationDate": "2022-05-23",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.1c01561",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.1c01561",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.1c01561"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-208983484",
+      "title": "Unveiling Structural Determinants for the Discovery of New Antidotes Against the B. asper Viper",
+      "authors": "R. da Silva, Joana, Ana de Novo Oliveira, Ramos, Maria João, Fernandes, Pedro Alexandrino, Corresponding author: Fernandes, Pedro Alexandrino. · Young Researchers of University of Porto Meeting (IJUP) 2022",
+      "year": "2022",
+      "publicationDate": "2022-05-06",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:208983484"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-105181906",
+      "title": "“Tão natural”",
+      "authors": "Pedro Fernandes, Francisco Félix · Revista de Ciência Elementar",
+      "year": "2021",
+      "publicationDate": "2021-12-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2021.072",
+      "placeholder": false,
+      "doi": "10.24927/rce2021.072",
+      "orcidKeys": [
+        "doi:10.24927/rce2021.072"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584180",
+      "title": "A computational study of the Fatty Acid Synthase: the catalytic mechanism of the Malonyl-Acetyl Transferase domain",
+      "authors": "Paiva, Pedro, Ramos, Maria João, Fernandes, Pedro Alexandrino · 7th International Iberian Biophysics Congress",
+      "year": "2021",
+      "publicationDate": "2021-06-16",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584180"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-100573558",
+      "title": "Advances in the Therapeutic Application of Small-Molecule Inhibitors and Repurposed Drugs against Snakebite",
+      "authors": "Upasana Puzari, Pedro Alexandrino Fernandes, Ashis K. Mukherjee · Journal of Medicinal Chemistry",
+      "year": "2021",
+      "publicationDate": "2021-10-14",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jmedchem.1c00266",
+      "placeholder": false,
+      "doi": "10.1021/acs.jmedchem.1c00266",
+      "orcidKeys": [
+        "doi:10.1021/acs.jmedchem.1c00266"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-92420673",
+      "title": "Alkyl vs Aryl Modifications: A Comparative Study on Modular Modifications of Triphenylphosphonium Mitochondrial Vectors",
+      "authors": "How Chee Ong, João T.S. Coimbra, Maria João Ramos, Bengang Xing, Pedro Alexandrino Fernandes, Felipe Garcia",
+      "year": "2021",
+      "publicationDate": "2021-04-19",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.26434/chemrxiv.14445327.v1",
+      "placeholder": false,
+      "doi": "10.26434/chemrxiv.14445327.v1",
+      "orcidKeys": [
+        "doi:10.26434/chemrxiv.14445327.v1"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-99567275",
+      "title": "Alkyl vs. aryl modifications: a comparative study on modular modifications of triphenylphosphonium mitochondrial vectors",
+      "authors": "How Chee Ong, João T. S. Coimbra, Germain Kwek, Maria J. Ramos, Bengang Xing, Pedro A. Fernandes, Felipe García · RSC Chemical Biology",
+      "year": "2021",
+      "publicationDate": "2021",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d1cb00099c",
+      "placeholder": false,
+      "doi": "10.1039/d1cb00099c",
+      "orcidKeys": [
+        "doi:10.1039/d1cb00099c"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-95903058",
+      "title": "Animal Fatty Acid Synthase: A Chemical Nanofactory",
+      "authors": "Pedro Paiva, Fabiola E. Medina, Matilde Viegas, Pedro Ferreira, Rui P. P. Neves, João P. M. Sousa, Maria J. Ramos, Pedro A. Fernandes · Chemical Reviews",
+      "year": "2021",
+      "publicationDate": "2021-08-11",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.chemrev.1c00147",
+      "placeholder": false,
+      "doi": "10.1021/acs.chemrev.1c00147",
+      "orcidKeys": [
+        "doi:10.1021/acs.chemrev.1c00147"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-109241518",
+      "title": "Chromeno[3,4-b]xanthones as First-in-Class AChE and Aβ Aggregation Dual-Inhibitors",
+      "authors": "International Journal of Molecular Sciences",
+      "year": "2021",
+      "publicationDate": "2021-04-16",
+      "topic": "Publications",
+      "abstract": "<jats:p>Alzheimer’s disease (AD) is a complex multifactorial disorder, mainly characterized by the progressive loss of memory and cognitive, motor, and functional capacity. The absence of effective therapies available for AD alongside the consecutive failures in the central nervous system (CNS) drug development has been motivating the search for new disease-modifying therapeutic strategies for this disease. To address this issue, the multitarget directed ligands (MTDLs) are emerging as a therapeutic alternative to target the multiple AD-related factors. Following this concept, herein we describe the design, synthesis, and biological evaluation of a family of chromeno[3,4-b]xanthones as well as their (E)-2-[2-(propargyloxy)styryl]chromone precursors, as first-in-class acetylcholinesterase (AChE) and β-amyloid (Aβ) aggregation dual-inhibitors. Compounds 4b and 10 emerged as well-balanced dual-target inhibitors, with IC50 values of 3.9 and 2.9 μM for AChE and inhibitory percentages of 70 and 66% for Aβ aggregation, respectively. The molecular docking showed that most of the compounds bound to AChE through hydrogen bonds with residues of the catalytic triad and π-stacking interactions between the main scaffold and the aromatic residues present in the binding pocket. The interesting well-balanced activities of these compounds makes them interesting templates for the development of new multitarget compounds for AD.</jats:p>",
+      "url": "https://doi.org/10.3390/ijms22084145",
+      "placeholder": false,
+      "doi": "10.3390/ijms22084145",
+      "orcidKeys": [
+        "doi:10.3390/ijms22084145"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168691",
+      "title": "Corrigendum: The Catalytic Mechanism of the Marine-Derived Macrocyclase PatGmac (Chemistry - A European Journal, (2016), 22, 37, (13089-13097), 10.1002/chem.201601670)",
+      "authors": "Brás, N.F., Ferreira, P., Calixto, A.R., Jaspars, M., Houssen, W., Naismith, J.H., Fernandes, P.A., Ramos, M.J. · Chemistry - A European Journal",
+      "year": "2021",
+      "publicationDate": "2021",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.202100062",
+      "placeholder": false,
+      "doi": "10.1002/chem.202100062",
+      "orcidKeys": [
+        "doi:10.1002/chem.202100062"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584181",
+      "title": "Disclosing the molecular basis of substrate recognition of  Russell's viper (Daboia russelii russelii) venom factor X activating  enzyme (RVVX)",
+      "authors": "Castro-Amorim, Juliana, Ana Luísa Novo de Oliveira, Ramos, Maria João, Fernandes, Pedro Alexandrino · VII Jornadas da Bioquímica",
+      "year": "2021",
+      "publicationDate": "2021-05-09",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584181"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168581",
+      "title": "Discovery of a multi-target compound for estrogen receptor-positive (ER<sup>+</sup>) breast cancer: Involvement of aromatase and ERs",
+      "authors": "Almeida, C.F., Teixeira, N., Oliveira, A., Augusto, T.V., Correia-da-Silva, G., Ramos, M.J., Fernandes, P.A., Amaral, C. · Biochimie",
+      "year": "2021",
+      "publicationDate": "2021",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.biochi.2020.11.023",
+      "placeholder": false,
+      "doi": "10.1016/j.biochi.2020.11.023",
+      "orcidKeys": [
+        "doi:10.1016/j.biochi.2020.11.023"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584179",
+      "title": "Evaluation of the Inhibitory Activity of Flavonoids on Sucrase-Isomaltase (a-Glucosidase) in a Caco-2/TC7 Cellular Model",
+      "authors": "Proença, Carina, Rufino, A.T., Ferreira de Oliveira, José Miguel P., Fernandes, Pedro Alexandrino, Silva, Artur, Fernandes, Eduarda · RICT 2021 – 56th International Conference on Medicinal Chemistry",
+      "year": "2021",
+      "publicationDate": "2021-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584179"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-109239920",
+      "title": "Lessons from a Single Amino Acid Substitution: Anticancer and Antibacterial Properties of Two Phospholipase A2-Derived Peptides",
+      "authors": "Current Issues in Molecular Biology",
+      "year": "2021",
+      "publicationDate": "2021-12-22",
+      "topic": "Publications",
+      "abstract": "<jats:p>The membrane-active nature of phospholipase A2-derived peptides makes them potential candidates for antineoplastic and antibacterial therapies. Two short 13-mer C-terminal fragments taken from snake venom Lys49-PLA2 toxins (p-AppK and p-Acl), differing by a leucine/phenylalanine substitution, were synthesized and their bioactivity was evaluated. Their capacity to interfere with the survival of Gram-positive and Gram-negative bacteria as well as with solid and liquid tumors was assessed in vitro. Toxicity to red blood cells was investigated via in silico and in vitro techniques. The mode of action was mainly studied by molecular dynamics simulations and membrane permeabilization assays. Briefly, both peptides have dual activity, i.e., they act against both bacteria, including multidrug-resistant strains and tumor cells. All tested bacteria were susceptible to both peptides, Pseudomonas aeruginosa being the most affected. RAMOS, K562, NB4, and CEM cells were the main leukemic targets of the peptides. In general, p-Acl showed more significant activity, suggesting that phenylalanine confers advantages to the antibacterial and antitumor mechanism, particularly for osteosarcoma lines (HOS and MG63). Peptide-based treatment increased the uptake of a DNA-intercalating dye by bacteria, suggesting membrane damage. Indeed, p-AppK and p-Acl did not disrupt erythrocyte membranes, in agreement with in silico predictions. The latter revealed that the peptides deform the membrane and increase its permeability by facilitating solvent penetration. This phenomenon is expected to catalyze the permeation of solutes that otherwise could not cross the hydrophobic membrane core. In conclusion, the present study highlights the role of a single amino acid substitution present in natural sequences towards the development of dual-action agents. In other words, dissecting and fine-tuning biomembrane remodeling proteins, such as snake venom phospholipase A2 isoforms, is again demonstrated as a valuable source of therapeutic peptides.</jats:p>",
+      "url": "https://doi.org/10.3390/cimb44010004",
+      "placeholder": false,
+      "doi": "10.3390/cimb44010004",
+      "orcidKeys": [
+        "doi:10.3390/cimb44010004"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-107000219",
+      "title": "MOLECULAR BIOINFORMATICS",
+      "authors": "João Marques Sousa, Matilde Ribeiro Viegas, Pedro Teixeira Ferreira, Pedro Coelho Paiva, Ana Luísa Oliveira, Pedro Alexandrino Fernandes, Maria João Ramos · Revista de Ciência Elementar",
+      "year": "2021",
+      "publicationDate": "2021-12-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2021.075",
+      "placeholder": false,
+      "doi": "10.24927/rce2021.075",
+      "orcidKeys": [
+        "doi:10.24927/rce2021.075"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-109241588",
+      "title": "Passive Diffusion of Ciprofloxacin and its Metalloantibiotic: A Computational and Experimental study",
+      "authors": "Journal of Molecular Biology",
+      "year": "2021",
+      "publicationDate": "2021-04",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jmb.2021.166911",
+      "placeholder": false,
+      "doi": "10.1016/j.jmb.2021.166911",
+      "orcidKeys": [
+        "doi:10.1016/j.jmb.2021.166911"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-98139109",
+      "title": "Reaction Mechanism of MHETase, a PET Degrading Enzyme",
+      "authors": "Alexandre V. Pinto, Pedro Ferreira, Rui P. P. Neves, Pedro A. Fernandes, Maria J. Ramos, Alexandre L. Magalhães · ACS Catalysis",
+      "year": "2021",
+      "publicationDate": "2021-08-20",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.1c02444",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.1c02444",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.1c02444"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-99412875",
+      "title": "Reaction Mechanism of the PET Degrading Enzyme PETase Studied with DFT/MM Molecular Dynamics Simulations",
+      "authors": "Carola Jerves, Rui P. P. Neves, Maria J. Ramos, Saulo da Silva, Pedro A. Fernandes · ACS Catalysis",
+      "year": "2021",
+      "publicationDate": "2021-09-17",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.1c03700",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.1c03700",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.1c03700"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168701",
+      "title": "Structural, enzymatic and pharmacological profiles of AplTX-II - A basic sPLA<inf>2</inf> (D49) isolated from the Agkistrodon piscivorus leucostoma snake venom",
+      "authors": "Resende, L.M., Almeida, J.R., Guaraca-Medina, T.A., Viegas, M.F., Soares, A.M., Ramos, M.J., Fernandes, P.A., Marangoni, S., Da Silva, S.L. · International Journal of Biological Macromolecules",
+      "year": "2021",
+      "publicationDate": "2021",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.ijbiomac.2021.01.187",
+      "placeholder": false,
+      "doi": "10.1016/j.ijbiomac.2021.01.187",
+      "orcidKeys": [
+        "doi:10.1016/j.ijbiomac.2021.01.187"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-109241142",
+      "title": "The Catalytic Mechanism of the Retaining Glycosyltransferase Mannosylglycerate Synthase",
+      "authors": "Chemistry – A European Journal",
+      "year": "2021",
+      "publicationDate": "2021-10-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.202101724",
+      "placeholder": false,
+      "doi": "10.1002/chem.202101724",
+      "orcidKeys": [
+        "doi:10.1002/chem.202101724"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-86187839",
+      "title": "The importance of intramolecular hydrogen bonds on the translocation of the small drug piracetam through a lipid bilayer",
+      "authors": "João T. S. Coimbra, Ralph Feghali, Rui P. Ribeiro, Maria J. Ramos, Pedro A. Fernandes · RSC Advances",
+      "year": "2021",
+      "publicationDate": "2021",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d0ra09995c",
+      "placeholder": false,
+      "doi": "10.1039/d0ra09995c",
+      "orcidKeys": [
+        "doi:10.1039/d0ra09995c"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-93092163",
+      "title": "Thermophilic Enzymes",
+      "authors": "Matilde Viegas, Maria João Ramos, Pedro Alexandrino Fernandes · U.Porto Journal of Engineering",
+      "year": "2021",
+      "publicationDate": "2021-04-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24840/2183-6493_007.003_0002",
+      "placeholder": false,
+      "doi": "10.24840/2183-6493_007.003_0002",
+      "orcidKeys": [
+        "doi:10.24840/2183-6493_007.003_0002"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-92122428",
+      "title": "Unraveling the cGAS catalytic mechanism upon DNA activation through molecular dynamics simulations",
+      "authors": "Jordi Soler, Pedro Paiva, Maria J. Ramos, Pedro A. Fernandes, Marie Brut · Physical Chemistry Chemical Physics",
+      "year": "2021",
+      "publicationDate": "2021",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d1cp00378j",
+      "placeholder": false,
+      "doi": "10.1039/d1cp00378j",
+      "orcidKeys": [
+        "doi:10.1039/d1cp00378j"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-76054839",
+      "title": "A Ciência é a única arma",
+      "authors": "Pedro Fernandes · Revista de Ciência Elementar",
+      "year": "2020",
+      "publicationDate": "2020-06-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2020.017",
+      "placeholder": false,
+      "doi": "10.24927/rce2020.017",
+      "orcidKeys": [
+        "doi:10.24927/rce2020.017"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-78764321",
+      "title": "A Computational and Modeling Study of the Reaction Mechanism of Staphylococcus aureus Monoglycosyltransferase Reveals New Insights on the GT51 Family of Enzymes",
+      "authors": "Kenneth Goossens, Rui PP Neves, Pedro A Fernandes, Hans De Winter · Journal of Chemical Information and Modeling",
+      "year": "2020",
+      "publicationDate": "2020-11-23",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.0c00377",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.0c00377",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.0c00377"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-76878151",
+      "title": "Activation free energy, substrate binding free energy and enzyme efficiency fall in a very narrow range of values for most enzymes",
+      "authors": "ACS Catalysis",
+      "year": "2020",
+      "publicationDate": "2020-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.0c01947",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.0c01947",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.0c01947"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-79815440",
+      "title": "Assessing the validity of DLPNO‐CCSD(T) in the calculation of activation and reaction energies of ubiquitous enzymatic reactions",
+      "authors": "Pedro Paiva, Maria J. Ramos, Pedro A. Fernandes · Journal of Computational Chemistry",
+      "year": "2020",
+      "publicationDate": "2020-11",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.26401",
+      "placeholder": false,
+      "doi": "10.1002/jcc.26401",
+      "orcidKeys": [
+        "doi:10.1002/jcc.26401"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168559",
+      "title": "Binding mode prediction and identification of new lead compounds from natural products as 3-OST enzyme inhibitors",
+      "authors": "Sousa, R., Moorthy, N.S.H.N., Fernandes, P.A., Ramos, M.J., Brás, N.F. · Letters in Drug Design and Discovery",
+      "year": "2020",
+      "publicationDate": "2020",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/1570180817666200313105944",
+      "placeholder": false,
+      "doi": "10.2174/1570180817666200313105944",
+      "orcidKeys": [
+        "doi:10.2174/1570180817666200313105944"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-71357396",
+      "title": "Cannabidiol (CBD) but not tetrahydrocannabinol (THC) dysregulate in vitro decidualization of human endometrial stromal cells by disruption of estrogen signaling",
+      "authors": "Reproductive Toxicology",
+      "year": "2020",
+      "publicationDate": "2020-04",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.reprotox.2020.01.003",
+      "placeholder": false,
+      "doi": "10.1016/j.reprotox.2020.01.003",
+      "orcidKeys": [
+        "doi:10.1016/j.reprotox.2020.01.003"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-78351235",
+      "title": "Catalytic Mechanism of Human Aldehyde Oxidase",
+      "authors": "Pedro Ferreira, Nuno M. F. Sousa A. Cerqueira, Pedro Alexandrino Fernandes, Maria João Romão, Maria João Ramos · ACS Catalysis",
+      "year": "2020",
+      "publicationDate": "2020-08-21",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.0c02627",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.0c02627",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.0c02627"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-72616541",
+      "title": "Correction to “How the Destabilization of a Reaction Intermediate Affects Enzymatic Efficiency: The Case of Human Transketolase”",
+      "authors": "Mario Prejano, Fabiola E. Medina, Maria J. Ramos, Nino Russo, Pedro A. Fernandes, Tiziana Marino · ACS Catalysis",
+      "year": "2020",
+      "publicationDate": "2020-05-01",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.0c01697",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.0c01697",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.0c01697"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168686",
+      "title": "Estrogen receptor-positive (ER<sup>+</sup>) breast cancer treatment: Are multi-target compounds the next promising approach?",
+      "authors": "Ferreira Almeida, C., Oliveira, A., João Ramos, M., Fernandes, P.A., Teixeira, N., Amaral, C. · Biochemical Pharmacology",
+      "year": "2020",
+      "publicationDate": "2020",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.bcp.2020.113989",
+      "placeholder": false,
+      "doi": "10.1016/j.bcp.2020.113989",
+      "orcidKeys": [
+        "doi:10.1016/j.bcp.2020.113989"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-78725684",
+      "title": "Evolution of chromone-like compounds as potential antileishmanial agents, through the 21st century",
+      "authors": "Carlos F. M. Silva, Diana C. G. A. Pinto, Pedro A. Fernandes, Artur M. S. Silva · Expert Opinion on Drug Discovery",
+      "year": "2020",
+      "publicationDate": "2020-12-01",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/17460441.2020.1801630",
+      "placeholder": false,
+      "doi": "10.1080/17460441.2020.1801630",
+      "orcidKeys": [
+        "doi:10.1080/17460441.2020.1801630"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-68905623",
+      "title": "How the Destabilization of a Reaction Intermediate Affects Enzymatic Efficiency: The Case of Human Transketolase",
+      "authors": "Mario Prejanò, Fabiola E. Medina, Maria J. Ramos, Nino Russo, Pedro A. Fernandes, Tiziana Marino · ACS Catalysis",
+      "year": "2020",
+      "publicationDate": "2020-02-21",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.9b04690",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.9b04690",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.9b04690"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-72603240",
+      "title": "O álcool contra a COVID-19",
+      "authors": "Pedro Fernandes, Maria João Ramos · Revista de Ciência Elementar",
+      "year": "2020",
+      "publicationDate": "2020-06-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2020.018",
+      "placeholder": false,
+      "doi": "10.24927/rce2020.018",
+      "orcidKeys": [
+        "doi:10.24927/rce2020.018"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-72603242",
+      "title": "O sabão contra a COVID-19",
+      "authors": "Pedro Fernandes, Maria João Ramos · Revista de Ciência Elementar",
+      "year": "2020",
+      "publicationDate": "2020-06-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2020.019",
+      "placeholder": false,
+      "doi": "10.24927/rce2020.019",
+      "orcidKeys": [
+        "doi:10.24927/rce2020.019"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-227274260",
+      "title": "Proteínas Virais no Protein Data Bank",
+      "authors": "Pinto, AVP, Oliveira, ANLO, Jerves, CJ, Mendonça, FLdM, Coutinho, IFMC, Coimbra, JTSC, Sousa, JPS, Cabrera-Trujillo, JJC, Teixeira, LT, Viegas, MFV, Ferreira, PF, Paiva, PP, Fonseca, RF, Neves, RPPN, Magalhães, ALM, Fernandes, P, Ramos, MJ, DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto, , DQB/LAQV/Universidade do Porto,  · Revista de Ciência Elementar",
+      "year": "2020",
+      "publicationDate": "2020",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2020.022",
+      "placeholder": false,
+      "doi": "10.24927/rce2020.022",
+      "orcidKeys": [
+        "doi:10.24927/rce2020.022"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-78652772",
+      "title": "Reaction Mechanism and Determinants for Efficient Catalysis by DszB, a Key Enzyme for Crude Oil Bio-desulfurization",
+      "authors": "João P. M. Sousa, Rui P. P. Neves, Sérgio F. Sousa, Maria J. Ramos, Pedro A. Fernandes · ACS Catalysis",
+      "year": "2020",
+      "publicationDate": "2020-08-21",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.0c03122",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.0c03122",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.0c03122"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-73359527",
+      "title": "Structural Specificity of Flavonoids in the Inhibition of Human Fructose 1,6-Bisphosphatase",
+      "authors": "Carina Proença, Ana Oliveira, Marisa Freitas, Daniela Ribeiro, Joana L. C. Sousa, Maria J. Ramos, Artur M. S. Silva, Pedro A. Fernandes, Eduarda Fernandes · Journal of Natural Products",
+      "year": "2020",
+      "publicationDate": "2020-05-22",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jnatprod.0c00014",
+      "placeholder": false,
+      "doi": "10.1021/acs.jnatprod.0c00014",
+      "orcidKeys": [
+        "doi:10.1021/acs.jnatprod.0c00014"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584169",
+      "title": "Tamoxifen bisphenol: a modulator of ERß in estrogen receptor-positive breast cancer",
+      "authors": "Almeida, Cristina F., Augusto, Tiago V., Oliveira, Ana, Correia-da-Silva, Georgina, Ramos, Maria João, Fernandes, Pedro Alexandrino, Teixeira, Natércia, Amaral, Cristina · 6th International Electronic Conference on Medicinal Chemistry",
+      "year": "2020",
+      "publicationDate": "2020-11",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/ecmc2020-07437",
+      "placeholder": false,
+      "doi": "10.3390/ecmc2020-07437",
+      "orcidKeys": [
+        "doi:10.3390/ecmc2020-07437"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-82586763",
+      "title": "The bacterial 4S pathway – an economical alternative for crude oil desulphurization that reduces CO2 emissions",
+      "authors": "João P. M. Sousa, Pedro Ferreira, Rui P. P. Neves, Maria J. Ramos, Pedro A. Fernandes · Green Chemistry",
+      "year": "2020",
+      "publicationDate": "2020",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d0gc02055a",
+      "placeholder": false,
+      "doi": "10.1039/d0gc02055a",
+      "orcidKeys": [
+        "doi:10.1039/d0gc02055a"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-63548330",
+      "title": "A computational study on the redox properties and binding affinities of iron complexes of hydroxypyridinones",
+      "authors": "Journal of Molecular Modeling",
+      "year": "2019",
+      "publicationDate": "2019-06",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00894-019-4037-0",
+      "placeholder": false,
+      "doi": "10.1007/s00894-019-4037-0",
+      "orcidKeys": [
+        "doi:10.1007/s00894-019-4037-0"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584170",
+      "title": "A novel approach for ER+ breast cancer treatment: A new compound that modulates aromatase and ER",
+      "authors": "Almeida, Cristina, Oliveira, Ana, Fernandes, Pedro Alexandrino, Correia-da-Silva, Georgina, Ramos, Maria João, Augusto, Tiago V., Teixeira, Natércia, Amaral, Cristina · 5th International Electronic Conference on Medicinal Chemistry",
+      "year": "2019",
+      "publicationDate": "2019-11",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/ecmc2019-06337",
+      "placeholder": false,
+      "doi": "10.3390/ecmc2019-06337",
+      "orcidKeys": [
+        "doi:10.3390/ecmc2019-06337"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-63548108",
+      "title": "Anandamide targets aromatase: A breakthrough on human decidualization",
+      "authors": "Biochimica et Biophysica Acta (BBA) - Molecular and Cell Biology of Lipids",
+      "year": "2019",
+      "publicationDate": "2019-08",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.bbalip.2019.08.008",
+      "placeholder": false,
+      "doi": "10.1016/j.bbalip.2019.08.008",
+      "orcidKeys": [
+        "doi:10.1016/j.bbalip.2019.08.008"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-63548389",
+      "title": "Benchmark of Density Functionals for the Calculation of the Redox Potential of Fe3+/Fe2+ Within Protein Coordination Shells",
+      "authors": "Frontiers in Chemistry",
+      "year": "2019",
+      "publicationDate": "2019-06-05",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3389/fchem.2019.00391",
+      "placeholder": false,
+      "doi": "10.3389/fchem.2019.00391",
+      "orcidKeys": [
+        "doi:10.3389/fchem.2019.00391"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584199",
+      "title": "Combining theoretical and experimental approaches to understand the mechanism of antibiotic permeation: implications on the fight against bacterial resistance",
+      "authors": "Sousa, CF, Coimbra, JT, Ramose, MJ, Fernandes, PA, Gameiro, P",
+      "year": "2019",
+      "publicationDate": "2019",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584199"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168583",
+      "title": "Complexities of the Reaction Mechanisms of CC Double Bond Reduction in Mammalian Fatty Acid Synthase Studied with Quantum Mechanics/Molecular Mechanics Calculations",
+      "authors": "Medina, F.E., Ramos, M.J., Fernandes, P.A. · ACS Catalysis",
+      "year": "2019",
+      "publicationDate": "2019",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.9b03531",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.9b03531",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.9b03531"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-58676292",
+      "title": "Conformational diversity induces nanosecond-timescale chemical disorder in the HIV-1 protease reaction pathway",
+      "authors": "Ana Rita Calixto, Maria João Ramos, Pedro Alexandrino Fernandes · Chemical Science",
+      "year": "2019",
+      "publicationDate": "2019",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c9sc01464k",
+      "placeholder": false,
+      "doi": "10.1039/c9sc01464k",
+      "orcidKeys": [
+        "doi:10.1039/c9sc01464k"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584173",
+      "title": "Discovery of a multi-target compound for ER+ breast cancer: characterization of its biological effects",
+      "authors": "Cristina F. Almeida, Augusto, Tiago V., Correia-da-Silva, Georgina, Oliveira, Ana, Fernandes, Pedro Alexandrino, Ramos, Maria João, Cunha, Sara, Teixeira, Natércia · 14th YES - Young European Scientist - Meeting",
+      "year": "2019",
+      "publicationDate": "2019-09",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1097/j.pbj.0000000000000054",
+      "placeholder": false,
+      "doi": "10.1097/j.pbj.0000000000000054",
+      "orcidKeys": [
+        "doi:10.1097/j.pbj.0000000000000054"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647919",
+      "title": "Drug Permeation Across the Bacterial Membrane: Combining Theoretical and Experimental Approaches",
+      "authors": "Gameiro, P., Sousa, C. F., Coimbra, J. T. S., Fernandes, P. A., Ramos, M. J. · Biophysical Journal",
+      "year": "2019",
+      "publicationDate": "2019",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.bpj.2018.11.1138",
+      "placeholder": false,
+      "doi": "10.1016/j.bpj.2018.11.1138",
+      "orcidKeys": [
+        "doi:10.1016/j.bpj.2018.11.1138"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-63548280",
+      "title": "Enabling Mitochondrial Uptake of Lipophilic Dications Using Methylated Triphenylphosphonium Moieties",
+      "authors": "Inorganic Chemistry",
+      "year": "2019",
+      "publicationDate": "2019-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.inorgchem.8b03380",
+      "placeholder": false,
+      "doi": "10.1021/acs.inorgchem.8b03380",
+      "orcidKeys": [
+        "doi:10.1021/acs.inorgchem.8b03380"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647920",
+      "title": "Evaluation of a flavonoids library for inhibition of pancreatic alpha-amylase towards a structure-activity relationship",
+      "authors": "Proenca, C., Freitas, M., Ribeiro, D., Tome, S. M., Oliveira, E. F. T., Viegas, M. F., Araujo, A. N., Ramos, M. J., Silva, A. M. S., Fernandes, P. A., Fernandes, E. · Journal of Enzyme Inhibition and Medicinal Chemistry",
+      "year": "2019",
+      "publicationDate": "2019",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/14756366.2018.1558221",
+      "placeholder": false,
+      "doi": "10.1080/14756366.2018.1558221",
+      "orcidKeys": [
+        "doi:10.1080/14756366.2018.1558221"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647921",
+      "title": "Exploring the Identity of the General Base for a DNA Polymerase Catalyzed Reaction Using QM/MM: The Case Study of Human Translesion Synthesis Polymerase eta",
+      "authors": "Wilson, K. A., Fernandes, P. A., Ramos, M. J., Wetmore, S. D. · Acs Catalysis",
+      "year": "2019",
+      "publicationDate": "2019",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.8b04889",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.8b04889",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.8b04889"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-66354385",
+      "title": "Fraudes e falsificações na Arte e Arqueologia desmascaradas pela datação por Carbono 14",
+      "authors": "Pedro Fernandes · Revista de Ciência Elementar",
+      "year": "2019",
+      "publicationDate": "2019-12-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2019.072",
+      "placeholder": false,
+      "doi": "10.24927/rce2019.072",
+      "orcidKeys": [
+        "doi:10.24927/rce2019.072"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-63549344",
+      "title": "Glutamine synthetase structure‐catalysis relationship—Recent advances and applications",
+      "authors": "Wiley Interdisciplinary Reviews: Computational Molecular Science",
+      "year": "2019",
+      "publicationDate": "2019-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/wcms.1399",
+      "placeholder": false,
+      "doi": "10.1002/wcms.1399",
+      "orcidKeys": [
+        "doi:10.1002/wcms.1399"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-63548189",
+      "title": "Human Fatty Acid Synthase: A Computational Study of the Transfer of the Acyl Moieties from MAT to the ACP Domain",
+      "authors": "ChemCatChem",
+      "year": "2019",
+      "publicationDate": "2019-08-21",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/cctc.201900548",
+      "placeholder": false,
+      "doi": "10.1002/cctc.201900548",
+      "orcidKeys": [
+        "doi:10.1002/cctc.201900548"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-58249202",
+      "title": "New insights about the monomer and homodimer structures of the human AOX1",
+      "authors": "P. Ferreira, N. M. F. S. A. Cerqueira, C. Coelho, P. A. Fernandes, M. J. Romão, M. J. Ramos · Physical Chemistry Chemical Physics",
+      "year": "2019",
+      "publicationDate": "2019",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c9cp01040h",
+      "placeholder": false,
+      "doi": "10.1039/c9cp01040h",
+      "orcidKeys": [
+        "doi:10.1039/c9cp01040h"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-63548356",
+      "title": "Structural and mechanistic aspects of S-S bonds in the thioredoxin-like family of proteins",
+      "authors": "Biological Chemistry",
+      "year": "2019",
+      "publicationDate": "2019-05-27",
+      "topic": "Publications",
+      "abstract": "<jats:title>Abstract</jats:title>\n<jats:p>Disulfide bonds play a critical role in a variety of structural and mechanistic processes associated with proteins inside the cells and in the extracellular environment. The thioredoxin family of proteins like thioredoxin (Trx), glutaredoxin (Grx) and protein disulfide isomerase, are involved in the formation, transfer or isomerization of disulfide bonds through a characteristic thiol-disulfide exchange reaction. Here, we review the structural and mechanistic determinants behind the thiol-disulfide exchange reactions for the different enzyme types within this family, rationalizing the known experimental data in light of the results from computational studies. The analysis sheds new atomic-level insight into the structural and mechanistic variations that characterize the different enzymes in the family, helping to explain the associated functional diversity. Furthermore, we review here a pattern of stabilization/destabilization of the conserved active-site cysteine residues presented beforehand, which is fully consistent with the observed roles played by the thioredoxin family of enzymes.</jats:p>",
+      "url": "https://doi.org/10.1515/hsz-2018-0319",
+      "placeholder": false,
+      "doi": "10.1515/hsz-2018-0319",
+      "orcidKeys": [
+        "doi:10.1515/hsz-2018-0319"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-63547976",
+      "title": "The Catalytic Mechanism of Human Transketolase",
+      "authors": "ChemPhysChem",
+      "year": "2019",
+      "publicationDate": "2019-09-11",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/cphc.201900650",
+      "placeholder": false,
+      "doi": "10.1002/cphc.201900650",
+      "orcidKeys": [
+        "doi:10.1002/cphc.201900650"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-60845661",
+      "title": "The dipeptidyl peptidase-4 inhibitory effect of flavonoids is hindered in protein rich environments",
+      "authors": "Carina Proença, Marisa Freitas, Daniela Ribeiro, Sara M. Tomé, Alberto N. Araújo, Artur M. S. Silva, Pedro A. Fernandes, Eduarda Fernandes · Food & Function",
+      "year": "2019",
+      "publicationDate": "2019",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c9fo00722a",
+      "placeholder": false,
+      "doi": "10.1039/c9fo00722a",
+      "orcidKeys": [
+        "doi:10.1039/c9fo00722a"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647922",
+      "title": "A Buried Water Molecule Influences Reactivity in a alpha-Amylase on a Subnanosecond Time Scale",
+      "authors": "Santos-Martins, D., Calixto, A. R., Fernandes, P. A., Ramos, M. J. · Acs Catalysis",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.7b04400",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.7b04400",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.7b04400"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584171",
+      "title": "A multi-target approach for hormone-dependent breast cancer: estrogen receptors and aromatase",
+      "authors": "Almeida, Cristina F., Oliveira, Ana, Amaral, Cristina, Ramos, Maria João, Correia-da-Silva, Georgina, Teixeira, Natércia, Fernandes, Pedro Alexandrino · Encontro de Jovens Investigadores de Biologia Computacional Estrutural, EJIBCE",
+      "year": "2018",
+      "publicationDate": "2018-12-21",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584171"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647923",
+      "title": "A novel synthetic peptide inspired on Lys49 phospholipase A(2) from Crotalus oreganus abyssus snake venom active against multidrug-resistant clinical isolates",
+      "authors": "Almeida, J. R., Mendes, B., Lancellotti, M., Marangoni, S., Vale, N., Passos, O., Ramos, M. J., Fernandes, P. A., Gomes, P., Da Silva, S. L. · European Journal of Medicinal Chemistry",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.ejmech.2018.02.055",
+      "placeholder": false,
+      "doi": "10.1016/j.ejmech.2018.02.055",
+      "orcidKeys": [
+        "doi:10.1016/j.ejmech.2018.02.055"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647924",
+      "title": "A QM/MM approach on the structural and stereoelectronic factors governing glycosylation by GTF-SI from Streptococcus mutans",
+      "authors": "Jana, G. A., Mendoza, F., Osorio, M. I., Alderete, J. B., Fernandes, P. A., Ramos, M. J., Jimenez, V. A. · Organic & Biomolecular Chemistry",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c8ob00284c",
+      "placeholder": false,
+      "doi": "10.1039/c8ob00284c",
+      "orcidKeys": [
+        "doi:10.1039/c8ob00284c"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45920384",
+      "title": "Biocombustíveis, serão a solução?",
+      "authors": "Matilde Viegas, Maria João Ramos, Pedro Fernandes · Revista de Ciência Elementar",
+      "year": "2018",
+      "publicationDate": "2018-06-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2018.043",
+      "placeholder": false,
+      "doi": "10.24927/rce2018.043",
+      "orcidKeys": [
+        "doi:10.24927/rce2018.043"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647925",
+      "title": "Determining the glycation site specificity of human holo-transferrin",
+      "authors": "Silva, A. M. N., Coimbra, J. T. S., Castro, M. M., Oliveira, A., Bras, N. F., Fernandes, P. A., Ramos, M. J., Rangel, M. · Journal of Inorganic Biochemistry",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jinorgbio.2018.05.016",
+      "placeholder": false,
+      "doi": "10.1016/j.jinorgbio.2018.05.016",
+      "orcidKeys": [
+        "doi:10.1016/j.jinorgbio.2018.05.016"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584182",
+      "title": "From serotonin to melatonin - computational insights on the mechanism of serotonin N-acetyltransferase",
+      "authors": "Gesto, Diana S., Özaydin, Beste, Fernandes, Pedro Alexandrino, Ramos, Maria Joao · International Conference on Catalysis Science, Engineering & Technology",
+      "year": "2018",
+      "publicationDate": "2018-11-04",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584182"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55648102",
+      "title": "Inhibition of protein tyrosine phosphatase 1B by flavonoids: A structure activity relationship study",
+      "authors": "Proenca, C., Freitas, M., Ribeiro, D., Sousa, J. L. C., Carvalho, F., Silva, A. M. S., Fernandes, P. A., Fernandes, E. · Food and Chemical Toxicology",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.fct.2017.11.039",
+      "placeholder": false,
+      "doi": "10.1016/j.fct.2017.11.039",
+      "orcidKeys": [
+        "doi:10.1016/j.fct.2017.11.039"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647926",
+      "title": "Mechanistic Insights on Human Phosphoglucomutase Revealed by Transition Path Sampling and Molecular Dynamics Calculations",
+      "authors": "Bras, N. F., Fernandes, P. A., Ramos, M. J., Schwartz, S. D. · Chemistry-a European Journal",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.201705090",
+      "placeholder": false,
+      "doi": "10.1002/chem.201705090",
+      "orcidKeys": [
+        "doi:10.1002/chem.201705090"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647927",
+      "title": "Mechanistic Pathway on Human alpha-Glucosidase Maltase-Glucoamylase Unveiled by QM/MM Calculations",
+      "authors": "Bras, N. F., Santos-Martins, D., Fernandes, P. A., Ramos, M. J. · Journal of Physical Chemistry B",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jpcb.8b01321",
+      "placeholder": false,
+      "doi": "10.1021/acs.jpcb.8b01321",
+      "orcidKeys": [
+        "doi:10.1021/acs.jpcb.8b01321"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647928",
+      "title": "Mechanistic Studies of a Flavin Monooxygenase: Sulfur Oxidation of Dibenzothiophenes by DszC",
+      "authors": "Barbosa, A. C. C., Neves, R. P. P., Sousa, S. F., Ramos, M. J., Fernandes, P. A. · Acs Catalysis",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.8b01877",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.8b01877",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.8b01877"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647929",
+      "title": "Membrane partition of bis-(3-hydroxy-4pyridinonato) zinc(ii) complexes revealed by molecular dynamics simulations",
+      "authors": "Coimbra, J. T. S., Bras, N. F., Fernandes, P. A., Rangel, M., Ramos, M. J. · Rsc Advances",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c8ra03602k",
+      "placeholder": false,
+      "doi": "10.1039/c8ra03602k",
+      "orcidKeys": [
+        "doi:10.1039/c8ra03602k"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647930",
+      "title": "Modeling of Human Fatty Acid Synthase and &ITin Silico&IT Docking of Acyl Carrier Protein Domain and Its Partner Catalytic Domains",
+      "authors": "Viegas, M. F., Neves, R. P. P., Ramos, M. J., Fernandes, P. A. · Journal of Physical Chemistry B",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jpcb.7b09645",
+      "placeholder": false,
+      "doi": "10.1021/acs.jpcb.7b09645",
+      "orcidKeys": [
+        "doi:10.1021/acs.jpcb.7b09645"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647931",
+      "title": "Parametrization of Molybdenum Cofactors for the AMBER Force Field",
+      "authors": "Ferreira, P., Cerqueira, Nmfsa, Bras, N. F., Fernandes, P. A., Ramos, M. J. · Journal of Chemical Theory and Computation",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jctc.8b00137",
+      "placeholder": false,
+      "doi": "10.1021/acs.jctc.8b00137",
+      "orcidKeys": [
+        "doi:10.1021/acs.jctc.8b00137"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647932",
+      "title": "Properties that rank protein: protein docking poses with high accuracy",
+      "authors": "Simoes, I. C. M., Coimbra, J. T. S., Neves, R. P. P., Costa, I. P. D., Ramos, M. J., Fernandes, P. A. · Physical Chemistry Chemical Physics",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c8cp03888k",
+      "placeholder": false,
+      "doi": "10.1039/c8cp03888k",
+      "orcidKeys": [
+        "doi:10.1039/c8cp03888k"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647933",
+      "title": "Protocol for Computational Enzymatic Reactivity Based on Geometry Optimisation",
+      "authors": "Cerqueira, Nmfsa, Fernandes, P. A., Ramos, M. J. · Chemphyschem",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/cphc.201700339",
+      "placeholder": false,
+      "doi": "10.1002/cphc.201700339",
+      "orcidKeys": [
+        "doi:10.1002/cphc.201700339"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647934",
+      "title": "QM/MM Study of the Reaction Mechanism of the Dehydratase Domain from Mammalian Fatty Acid Synthase",
+      "authors": "Medina, F. E., Neves, R. P. P., Ramos, M. J., Fernandes, P. A. · Acs Catalysis",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.8602616",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.8602616",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.8602616"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647935",
+      "title": "Structure, Dynamics, and Energetics of ATP Hydrolysis by ABC Transporters",
+      "authors": "Ramos, M. J., Fernandes, P. A. · Acs Central Science",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscentsci.8b00631",
+      "placeholder": false,
+      "doi": "10.1021/acscentsci.8b00631",
+      "orcidKeys": [
+        "doi:10.1021/acscentsci.8b00631"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647936",
+      "title": "Studies on neuraminidase inhibition",
+      "authors": "Paiva, P., Costa, I. P. D., Ferreira, C. E., Ferreira, P., Pereira, A. T., Cerqueira, Nmfsa, Fernandes, P. A., Ramos, M. J. · International Journal of Quantum Chemistry",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.25592",
+      "placeholder": false,
+      "doi": "10.1002/qua.25592",
+      "orcidKeys": [
+        "doi:10.1002/qua.25592"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647937",
+      "title": "Understanding Conformational Dynamics of Complex Lipid Mixtures Relevant to Biology",
+      "authors": "Friedman, R., Khalid, S., Aponte-Santamaria, C., Arutyunova, E., Becker, M., Boyd, K. J., Christensen, M., Coimbra, J. T. S., Concilio, S., Daday, C., van Eerden, F. J., Fernandes, P. A., Grater, F., Hakobyan, D., Heuer, A., Karathanou, K., Keller, F., Lemieux, M. J., Marrink, S. J., May, E. R., Mazumdar, A., Naftalin, R., Pickholz, M., Piotto, S., Pohl, P., Quinn, P., Ramos, M. J., Schiott, B., Sengupta, D., Sessa, L., Vanni, S., Zeppelin, T., Zoni, V., Bondar, A. N., Domene, C. · Journal of Membrane Biology",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00232-018-0050-y",
+      "placeholder": false,
+      "doi": "10.1007/s00232-018-0050-y",
+      "orcidKeys": [
+        "doi:10.1007/s00232-018-0050-y"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647938",
+      "title": "Understanding the Catalytic Machinery and the Reaction Pathway of the Malonyl-Acetyl Transferase Domain of Human Fatty Acid Synthase",
+      "authors": "Paiva, P., Sousa, S. F., Ramos, M. J., Fernandes, P. A. · Acs Catalysis",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.8b00577",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.8b00577",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.8b00577"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647939",
+      "title": "Understanding the Rate-Limiting Step of Glycogenolysis by Using QM/MM Calculations on Human Glycogen Phosphorylase",
+      "authors": "Bras, N. F., Fernandes, P. A., Ramos, M. J. · Chemmedchem",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/cmdc.201800218",
+      "placeholder": false,
+      "doi": "10.1002/cmdc.201800218",
+      "orcidKeys": [
+        "doi:10.1002/cmdc.201800218"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-55647940",
+      "title": "Visualizing the Microscopic World",
+      "authors": "Cerqueira, Nmfsa, Fernandes, P. A., Ramos, M. J. · Interdisciplinary Sciences-Computational Life Sciences",
+      "year": "2018",
+      "publicationDate": "2018",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s12539-017-0255-2",
+      "placeholder": false,
+      "doi": "10.1007/s12539-017-0255-2",
+      "orcidKeys": [
+        "doi:10.1007/s12539-017-0255-2"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582622",
+      "title": "A QM/MM study of the reaction mechanism of human beta-ketoacyl reductase",
+      "authors": "Medina, F. E., Neves, R. P. P., Ramos, M. J., Fernandes, P. A. · Physical Chemistry Chemical Physics",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c6cp07014k",
+      "placeholder": false,
+      "doi": "10.1039/c6cp07014k",
+      "orcidKeys": [
+        "doi:10.1039/c6cp07014k"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582623",
+      "title": "Amino acid deprivation using enzymes as a targeted therapy for cancer and viral infections",
+      "authors": "Fernandes, H. S., Teixeira, C. S. S., Fernandes, P. A., Ramos, M. J., Cerqueira, Nmfsa · Expert Opinion on Therapeutic Patents",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/13543776.2017.1254194",
+      "placeholder": false,
+      "doi": "10.1080/13543776.2017.1254194",
+      "orcidKeys": [
+        "doi:10.1080/13543776.2017.1254194"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582624",
+      "title": "Application of quantum mechanics/molecular mechanics methods in the study of enzymatic reaction mechanisms",
+      "authors": "Sousa, S. F., Ribeiro, A. J. M., Neves, R. P. P., Bras, N. F., Cerqueira, Nmfsa, Fernandes, P. A., Ramos, M. J. · Wiley Interdisciplinary Reviews-Computational Molecular Science",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/wcms.1281",
+      "placeholder": false,
+      "doi": "10.1002/wcms.1281",
+      "orcidKeys": [
+        "doi:10.1002/wcms.1281"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582625",
+      "title": "Benchmarking of density functionals for the kinetics and thermodynamics of the hydrolysis of glycosidic bonds catalyzed by glycosidases",
+      "authors": "Pereira, A. T., Ribeiro, A. J. M., Fernandes, P. A., Ramos, M. J. · International Journal of Quantum Chemistry",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.25409",
+      "placeholder": false,
+      "doi": "10.1002/qua.25409",
+      "orcidKeys": [
+        "doi:10.1002/qua.25409"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582626",
+      "title": "Binding free energy calculations on E-selectin complexes with sLe(x) oligosaccharide analogs",
+      "authors": "Barra, P. A., Ribeiro, A. J. M., Ramos, M. J., Jimenez, V. A., Alderete, J. B., Fernandes, P. A. · Chemical Biology & Drug Design",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/cbdd.12837",
+      "placeholder": false,
+      "doi": "10.1111/cbdd.12837",
+      "orcidKeys": [
+        "doi:10.1111/cbdd.12837"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168544",
+      "title": "Cancer therapies based on enzymatic amino acid depletion",
+      "authors": "Teixeira, C.S.S., Fernandes, H.S., Fernandes, P.A., Ramos, M.J., Cerqueira, N.M.F.S.A. · Nanostructures for Cancer Therapy",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/b978-0-323-46144-3.00024-6",
+      "placeholder": false,
+      "doi": "10.1016/b978-0-323-46144-3.00024-6",
+      "orcidKeys": [
+        "doi:10.1016/b978-0-323-46144-3.00024-6"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582627",
+      "title": "Clarifying the Catalytic Mechanism of Human Glutamine Synthetase: A QM/MM Study",
+      "authors": "Moreira, C., Ramos, M. J., Fernandes, P. A. · Journal of Physical Chemistry B",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jpcb.7b02543",
+      "placeholder": false,
+      "doi": "10.1021/acs.jpcb.7b02543",
+      "orcidKeys": [
+        "doi:10.1021/acs.jpcb.7b02543"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582628",
+      "title": "Diffusion of the small, very polar, drug piracetam through a lipid bilayer: an MD simulation study",
+      "authors": "Ribeiro, R. P., Coimbra, J. T. S., Ramos, M. J., Fernandes, P. A. · Theoretical Chemistry Accounts",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-017-2073-3",
+      "placeholder": false,
+      "doi": "10.1007/s00214-017-2073-3",
+      "orcidKeys": [
+        "doi:10.1007/s00214-017-2073-3"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582629",
+      "title": "Exploring the permeation of free and copper-complexed fluoroquinolones across the bacterial membrane",
+      "authors": "Sousa, C. F., Coimbra, J. T. S., Ferreira, M., Ramos, M. J., Fernandes, P. A., Gameiro, P. · European Biophysics Journal with Biophysics Letters",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000416406201481&KeyUID=WOS:000416406201481",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:45582629"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584200",
+      "title": "Frontispiece: Improving the Catalytic Power of the DszD Enzyme for the Biodesulfurization of Crude Oil and Derivatives",
+      "authors": "Ferreira, P, Sousa, SF, Fernandes, PA, Ramos, MJ · Chemistry – A European Journal",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.201786864",
+      "placeholder": false,
+      "doi": "10.1002/chem.201786864",
+      "orcidKeys": [
+        "doi:10.1002/chem.201786864"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582630",
+      "title": "Improving the Catalytic Power of the DszD Enzyme for the Biodesulfurization of Crude Oil and Derivatives",
+      "authors": "Ferreira, P., Sousa, S. F., Fernandes, P. A., Ramos, M. J. · Chemistry-a European Journal",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.201704057",
+      "placeholder": false,
+      "doi": "10.1002/chem.201704057",
+      "orcidKeys": [
+        "doi:10.1002/chem.201704057"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582631",
+      "title": "Influence of Frozen Residues on the Exploration of the PES of Enzyme Reaction Mechanisms",
+      "authors": "Calixto, A. R., Ramos, M. J., Fernandes, P. A. · Journal of Chemical Theory and Computation",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jctc.7b00768",
+      "placeholder": false,
+      "doi": "10.1021/acs.jctc.7b00768",
+      "orcidKeys": [
+        "doi:10.1021/acs.jctc.7b00768"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582632",
+      "title": "Mechanistic insights on the reduction of glutathione disulfide by protein disulfide isomerase",
+      "authors": "Neves, R. P. P., Fernandes, P. A., Ramos, M. J. · Proceedings of the National Academy of Sciences of the United States of America",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1073/pnas.1618985114",
+      "placeholder": false,
+      "doi": "10.1073/pnas.1618985114",
+      "orcidKeys": [
+        "doi:10.1073/pnas.1618985114"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582633",
+      "title": "Molecular motion regulates the activity of the Mitochondrial Serine Protease HtrA2",
+      "authors": "Merski, M., Moreira, C., Abreu, R. M. V., Ramos, M. J., Fernandes, P. A., Martins, L. M., Pereira, P. J. B., Macedo-Ribeiro, S. · Cell Death & Disease",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1038/cddis.2017.487",
+      "placeholder": false,
+      "doi": "10.1038/cddis.2017.487",
+      "orcidKeys": [
+        "doi:10.1038/cddis.2017.487"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-35419347",
+      "title": "Moléculas magníficas",
+      "authors": "Pedro Fernandes, Ana Calixto · Revista de Ciência Elementar",
+      "year": "2017",
+      "publicationDate": "2017-06-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2017.027",
+      "placeholder": false,
+      "doi": "10.24927/rce2017.027",
+      "orcidKeys": [
+        "doi:10.24927/rce2017.027"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582634",
+      "title": "New Parameters for Higher Accuracy in the Computation of Binding Free Energy Differences upon Alanine Scanning Mutagenesis on Protein-Protein Interfaces",
+      "authors": "Simoes, I. C. M., Costa, I. P. D., Coimbra, J. T. S., Ramos, M. J., Fernandes, P. A. · Journal of Chemical Information and Modeling",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jcim.6b00378",
+      "placeholder": false,
+      "doi": "10.1021/acs.jcim.6b00378",
+      "orcidKeys": [
+        "doi:10.1021/acs.jcim.6b00378"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582635",
+      "title": "Revisiting Partition in Hydrated Bilayer Systems",
+      "authors": "Coimbra, J. T. S., Fernandes, P. A., Ramos, M. J. · Journal of Chemical Theory and Computation",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jctc.6b01258",
+      "placeholder": false,
+      "doi": "10.1021/acs.jctc.6b01258",
+      "orcidKeys": [
+        "doi:10.1021/acs.jctc.6b01258"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582636",
+      "title": "The binding of free and copper-complexed fluoroquinolones to OmpF porins: an experimental and molecular docking study",
+      "authors": "Sousa, C. F., Coimbra, J. T. S., Gomes, I., Franco, R., Fernandes, P. A., Gameiro, P. · Rsc Advances",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c6ra26466b",
+      "placeholder": false,
+      "doi": "10.1039/c6ra26466b",
+      "orcidKeys": [
+        "doi:10.1039/c6ra26466b"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582637",
+      "title": "The mechanism of the Ser-(cis)Ser-Lys catalytic triad of peptide amidases",
+      "authors": "Cerqueira, Nmfsa, Moorthy, H., Fernandes, P. A., Ramos, M. J. · Physical Chemistry Chemical Physics",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c7cp00277g",
+      "placeholder": false,
+      "doi": "10.1039/c7cp00277g",
+      "orcidKeys": [
+        "doi:10.1039/c7cp00277g"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45582638",
+      "title": "Unique Triphenylphosphonium Derivatives for Enhanced Mitochondrial Uptake and Photodynamic Therapy",
+      "authors": "Hu, Z., Sim, Y., Kon, O. L., Ng, W. H., Ribeiro, A. J. M., Ramos, M. J., Fernandes, P. A., Ganguly, R., Xing, B. G., Garcia, F., Yeow, E. K. L. · Bioconjugate Chemistry",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.bioconjchem.6b00682",
+      "placeholder": false,
+      "doi": "10.1021/acs.bioconjchem.6b00682",
+      "orcidKeys": [
+        "doi:10.1021/acs.bioconjchem.6b00682"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168560",
+      "title": "α-Glucosidase inhibition by flavonoids: an in vitro and in silico structure–activity relationship study",
+      "authors": "Proença, C., Freitas, M., Ribeiro, D., Oliveira, E.F.T., Sousa, J.L.C., Tomé, S.M., Ramos, M.J., Silva, A.M.S., Fernandes, P.A., Fernandes, E. · Journal of Enzyme Inhibition and Medicinal Chemistry",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/14756366.2017.1368503",
+      "placeholder": false,
+      "doi": "10.1080/14756366.2017.1368503",
+      "orcidKeys": [
+        "doi:10.1080/14756366.2017.1368503"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584183",
+      "title": "A QM/MM study of human Malonyl-Acetyl Transferase",
+      "authors": "Paiva, Pedro, Sérgio Filipe Maia de Sousa, Ramos, Maria João, Fernandes, Pedro Alexandrino · Dynapeutics International Summer School 2016",
+      "year": "2016",
+      "publicationDate": "2016-09",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584183"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653213",
+      "title": "Binding mode of conformations and structure-based pharmacophore development for farnesyltransferase inhibitors",
+      "authors": "Moorthy, Nshn, Sousa, S. F., Ramos, M. J., Fernandes, P. A. · Medicinal Chemistry Research",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00044-016-1578-y",
+      "placeholder": false,
+      "doi": "10.1007/s00044-016-1578-y",
+      "orcidKeys": [
+        "doi:10.1007/s00044-016-1578-y"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45583199",
+      "title": "Calculation of distribution coefficients in the SAMPL5 challenge from atomic solvation parameters and surface areas",
+      "authors": "Santos-Martins, D., Fernandes, P. A., Ramos, M. J. · Journal of Computer-Aided Molecular Design",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s10822-016-9951-y",
+      "placeholder": false,
+      "doi": "10.1007/s10822-016-9951-y",
+      "orcidKeys": [
+        "doi:10.1007/s10822-016-9951-y"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653214",
+      "title": "Cholesterol Biosynthesis: A Mechanistic Overview",
+      "authors": "Cerqueira, Nmfsa, Oliveira, E. F., Gesto, D. S., Santos-Martins, D., Moreira, C., Moorthy, H. N., Ramos, M. J., Fernandes, P. A. · Biochemistry",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.biochem.6b00342",
+      "placeholder": false,
+      "doi": "10.1021/acs.biochem.6b00342",
+      "orcidKeys": [
+        "doi:10.1021/acs.biochem.6b00342"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653215",
+      "title": "Glutamine Synthetase Drugability beyond Its Active Site: Exploring Oligomerization Interfaces and Pockets",
+      "authors": "Moreira, C., Ramos, M. J., Fernandes, P. A. · Molecules",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3390/molecules21081028",
+      "placeholder": false,
+      "doi": "10.3390/molecules21081028",
+      "orcidKeys": [
+        "doi:10.3390/molecules21081028"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653216",
+      "title": "HMG-CoA Reductase inhibitors: an updated review of patents of novel compounds and formulations (2011-2015)",
+      "authors": "Oliveira, E. F., Santos-Martins, D., Ribeiro, A. M., Bras, N. F., Cerqueira, N. S., Sousa, S. F., Ramos, M. J., Fernandes, P. A. · Expert Opinion on Therapeutic Patents",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/13543776.2016.1216977",
+      "placeholder": false,
+      "doi": "10.1080/13543776.2016.1216977",
+      "orcidKeys": [
+        "doi:10.1080/13543776.2016.1216977"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653217",
+      "title": "Improving the Biodesulfurization of Crude Oil and Derivatives: A QM/MM Investigation of the Catalytic Mechanism of NADH-FMN Oxidoreductase (DszD)",
+      "authors": "Sousa, S. F., Sousa, J. F. M., Barbosa, A. C. C., Ferreira, C. E., Neves, R. P. P., Ribeiro, A. J. M., Fernandes, P. A., Ramos, M. J. · Journal of Physical Chemistry A",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jpca.6b01536",
+      "placeholder": false,
+      "doi": "10.1021/acs.jpca.6b01536",
+      "orcidKeys": [
+        "doi:10.1021/acs.jpca.6b01536"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168648",
+      "title": "Inside Cover: The Catalytic Mechanism of the Marine-Derived Macrocyclase PatGmac (Chem. Eur. J. 37/2016)",
+      "authors": "Brás, N.F., Ferreira, P., Calixto, A.R., Jaspars, M., Houssen, W., Naismith, J.H., Fernandes, P.A., Ramos, M.J. · Chemistry - A European Journal",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.201603742",
+      "placeholder": false,
+      "doi": "10.1002/chem.201603742",
+      "orcidKeys": [
+        "doi:10.1002/chem.201603742"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653218",
+      "title": "Insights into the reaction mechanism of 3-O-sulfotransferase through QM/MM calculations",
+      "authors": "Sousa, R. P., Fernandes, P. A., Ramos, M. J., Bras, N. F. · Physical Chemistry Chemical Physics",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c5cp06224a",
+      "placeholder": false,
+      "doi": "10.1039/c5cp06224a",
+      "orcidKeys": [
+        "doi:10.1039/c5cp06224a"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653219",
+      "title": "Molecular dynamic simulations and structure-based pharmacophore development for farnesyltransferase inhibitors discovery",
+      "authors": "Moorthy, Nshn, Sousa, S. F., Ramos, M. J., Fernandes, P. A. · Journal of Enzyme Inhibition and Medicinal Chemistry",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3109/14756366.2016.1144593",
+      "placeholder": false,
+      "doi": "10.3109/14756366.2016.1144593",
+      "orcidKeys": [
+        "doi:10.3109/14756366.2016.1144593"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653220",
+      "title": "QM/MM study of the mechanism of reduction of 3-hydroxy-3-methylglutaryl coenzyme A catalyzed by human HMG-CoA reductase",
+      "authors": "Oliveira, E. F., Cerqueira, Nmfsa, Ramos, M. J., Fernandes, P. A. · Catalysis Science &amp; Technology",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c6cy00356g",
+      "placeholder": false,
+      "doi": "10.1039/c6cy00356g",
+      "orcidKeys": [
+        "doi:10.1039/c6cy00356g"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653221",
+      "title": "Reaction Mechanism of Mycobacterium Tuberculosis Glutamine Synthetase Using Quantum Mechanics/Molecular Mechanics Calculations",
+      "authors": "Moreira, C., Ramos, M. J., Fernandes, P. A. · Chemistry-a European Journal",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.201600305",
+      "placeholder": false,
+      "doi": "10.1002/chem.201600305",
+      "orcidKeys": [
+        "doi:10.1002/chem.201600305"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653222",
+      "title": "Structure of a truncated form of leucine zipper II of JIP3 reveals an unexpected antiparallel coiled-coil arrangement",
+      "authors": "Llinas, P., Chenon, M., Nguyen, T. Q., Moreira, C., de Regibus, A., Coquard, A., Ramos, M. J., Guerois, R., Fernandes, P. A., Menetrey, J. · Acta Crystallographica Section F-Structural Biology Communications",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1107/s2053230x16001576",
+      "placeholder": false,
+      "doi": "10.1107/s2053230x16001576",
+      "orcidKeys": [
+        "doi:10.1107/s2053230x16001576"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653223",
+      "title": "Synthesis and structural characterization, by spectroscopic and computational methods, of two fluorescent 3-hydroxy-4-pyridinone chelators bearing sulphorhodamine B and naphthalene",
+      "authors": "Moniz, T., Coimbra, J. T. S., Bras, N. F., Cunha-Silva, L., Ramos, M. J., Fernandes, P. A., de Castro, B., Rangel, M. · Rsc Advances",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c5ra23217a",
+      "placeholder": false,
+      "doi": "10.1039/c5ra23217a",
+      "orcidKeys": [
+        "doi:10.1039/c5ra23217a"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653224",
+      "title": "The Catalytic Mechanism of the Marine-Derived Macrocyclase PatGmac",
+      "authors": "Bras, N. F., Ferreira, P., Calixto, A. R., Jaspars, M., Houssen, W., Naismith, J. H., Fernandes, P. A., Ramos, M. J. · Chemistry-a European Journal",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.201601670",
+      "placeholder": false,
+      "doi": "10.1002/chem.201601670",
+      "orcidKeys": [
+        "doi:10.1002/chem.201601670"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653225",
+      "title": "Unveiling the Catalytic Mechanism of NADP(+)-Dependent Isocitrate Dehydrogenase with QM/MM Calculations",
+      "authors": "Neves, R. P. P., Fernandes, P. A., Ramos, M. J. · Acs Catalysis",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.5b01928",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.5b01928",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.5b01928"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653226",
+      "title": "A new scoring function for protein-protein docking that identifies native structures with unprecedented accuracy",
+      "authors": "Moreira, Irina S., Martins, Joao M., Coimbra, Joa T. S., Ramos, Maria J., Fernandes, Pedro A. · Physical Chemistry Chemical Physics",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c4cp04688a",
+      "placeholder": false,
+      "doi": "10.1039/c4cp04688a",
+      "orcidKeys": [
+        "doi:10.1039/c4cp04688a"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-37033192",
+      "title": "Casa das Ciências: Futuro Incerto?",
+      "authors": "Pedro Fernandes · Revista de Ciência Elementar",
+      "year": "2015",
+      "publicationDate": "2015-03-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2015.001",
+      "placeholder": false,
+      "doi": "10.24927/rce2015.001",
+      "orcidKeys": [
+        "doi:10.24927/rce2015.001"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653227",
+      "title": "Enzymatic Flexibility and Reaction Rate: A QM/MM Study of HIV-1 Protease",
+      "authors": "Ribeiro, Antonio J. M., Santos-Martins, Diogo, Russo, Nino, Rarnos, Maria J., Fernandes, Pedro A. · Acs Catalysis",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.5b00759",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.5b00759",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.5b00759"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653228",
+      "title": "Establishing the Catalytic Mechanism of Human Pancreatic alpha-Amylase with QM/MM Methods",
+      "authors": "Pinto, Gaspar P., Bras, Natercia F., Perez, Marta A. S., Fernandes, Pedro A., Russo, Nino, Ramos, Maria J., Toscano, Marirosa · Journal of Chemical Theory and Computation",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.jctc.5b00222",
+      "placeholder": false,
+      "doi": "10.1021/acs.jctc.5b00222",
+      "orcidKeys": [
+        "doi:10.1021/acs.jctc.5b00222"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653229",
+      "title": "Insight into Enzymatic Nitrile Reduction: QM/MM Study of the Catalytic Mechanism of QueF Nitrile Reductase",
+      "authors": "Ribeiro, Antonio J. M., Yang, Lifeng, Ramos, Maria J., Fernandes, Pedro A., Liang, Zhao-Xun, Hirao, Hajime · Acs Catalysis",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.5b00528",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.5b00528",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.5b00528"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653230",
+      "title": "Insights into the structural determinants of substrate specificity and activity in mouse aldehyde oxidases",
+      "authors": "Cerqueira, Nuno M. F. S. A., Coelho, Catarina, Bras, Natercia F., Fernandes, Pedro A., Garattini, Enrico, Terao, Mineko, Romao, Maria Joao, Ramos, Maria Joao · Journal of Biological Inorganic Chemistry",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00775-014-1198-2",
+      "placeholder": false,
+      "doi": "10.1007/s00775-014-1198-2",
+      "orcidKeys": [
+        "doi:10.1007/s00775-014-1198-2"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653231",
+      "title": "Ligand based analysis on HMG-CoA reductase inhibitors",
+      "authors": "Moorthy, N. S. Hari Narayana, Cerqueira, Nuno M. F. S. A., Ramos, Maria J., Fernandes, Pedro A. · Chemometrics and Intelligent Laboratory Systems",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.chemolab.2014.11.009",
+      "placeholder": false,
+      "doi": "10.1016/j.chemolab.2014.11.009",
+      "orcidKeys": [
+        "doi:10.1016/j.chemolab.2014.11.009"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653232",
+      "title": "Molecular Dynamics Analysis of FAAH Complexed with Anandamide",
+      "authors": "Sousa, Sergio F., Coimbra, Joao T. S., Fernandes, Pedro A., Marino, Tiziana, Ramos, Maria J., Russo, Nino · Frontiers in Quantum Methods and Applications in Chemistry and Physics",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-319-14397-2_7",
+      "placeholder": false,
+      "doi": "10.1007/978-3-319-14397-2_7",
+      "orcidKeys": [
+        "doi:10.1007/978-3-319-14397-2_7"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687087",
+      "title": "New insights in the catalytic mechanism of tyrosine ammonia-lyase given by QM/MM and QM cluster models",
+      "authors": "Pinto, G.P., Ribeiro, A.J.M., Ramos, M.J., Fernandes, P.A., Toscano, M., Russo, N. · Archives of Biochemistry and Biophysics",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.abb.2015.03.002",
+      "placeholder": false,
+      "doi": "10.1016/j.abb.2015.03.002",
+      "orcidKeys": [
+        "doi:10.1016/j.abb.2015.03.002"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653233",
+      "title": "Periplasmic Nitrate Reductase and Formate Dehydrogenase: Similar Molecular Architectures with Very Different Enzymatic Activities",
+      "authors": "Cerqueira, Nuno M. F. S. A., Gonzalez, Pablo J., Fernandes, Pedro A., Moura, Jose J. G., Ramos, Maria Joao · Accounts of Chemical Research",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.accounts.5b00333",
+      "placeholder": false,
+      "doi": "10.1021/acs.accounts.5b00333",
+      "orcidKeys": [
+        "doi:10.1021/acs.accounts.5b00333"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-37033193",
+      "title": "Prémio Casa das Ciências",
+      "authors": "Pedro Fernandes · Revista de Ciência Elementar",
+      "year": "2015",
+      "publicationDate": "2015-10-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2015.037",
+      "placeholder": false,
+      "doi": "10.24927/rce2015.037",
+      "orcidKeys": [
+        "doi:10.24927/rce2015.037"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653234",
+      "title": "Re(I) and Tc(I) Complexes for Targeting Nitric Oxide Synthase: Influence of the Chelator in the Affinity for the Enzyme",
+      "authors": "Oliveira, Bruno L., Morais, Mauricio, Mendes, Filipa, Moreira, Irina S., Cordeiro, Carlos, Fernandes, Pedro A., Ramos, Maria J., Alberto, Roger, Santos, Isabel, Correia, Joao D. G. · Chemical Biology &amp; Drug Design",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/cbdd.12575",
+      "placeholder": false,
+      "doi": "10.1111/cbdd.12575",
+      "orcidKeys": [
+        "doi:10.1111/cbdd.12575"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653235",
+      "title": "Receptor-based virtual screening protocol for drug discovery",
+      "authors": "Cerqueira, Nuno M. F. S. A., Gesto, Diana, Oliveira, Eduardo F., Santos-Martins, Diogo, Bras, Natercia F., Sousa, Sergio F., Fernandes, Pedro A., Ramos, Maria J. · Archives of Biochemistry and Biophysics",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.abb.2015.05.011",
+      "placeholder": false,
+      "doi": "10.1016/j.abb.2015.05.011",
+      "orcidKeys": [
+        "doi:10.1016/j.abb.2015.05.011"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653236",
+      "title": "Relationship between Enzyme/Substrate Properties and Enzyme Efficiency in Hydrolases",
+      "authors": "Sousa, Sergio F., Ramos, Maria J., Lim, Carmay, Fernandes, Pedro A. · Acs Catalysis",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.5b00923",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.5b00923",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.5b00923"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-29653237",
+      "title": "Synthesis and Hydrolytic Studies on the Air-Stable (4-CN-PhO)(E)P(mu-(NBu)-Bu-t) (2) (E = O, S, and Se) Cyclodiphosphazanes",
+      "authors": "Shi, Yan X., Liang, Rong Z., Martin, Katherine A., Weston, Nicholas, Gonzalez-Calera, Silvia, Ganguly, Rakesh, Li, Yongxin, Lu, Yunpeng, Ribeiro, Antonio J. M., Ramos, Maria J., Fernandes, Pedro A., Garcia, Felipe · Inorganic Chemistry",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acs.inorgchem.5b00735",
+      "placeholder": false,
+      "doi": "10.1021/acs.inorgchem.5b00735",
+      "orcidKeys": [
+        "doi:10.1021/acs.inorgchem.5b00735"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687115",
+      "title": "Analyses of cobalt-ligand and potassium-ligand bond lengths in metalloproteins: Trends and patterns",
+      "authors": "Brás, N.F., Ribeiro, A.J.M., Oliveira, M., Paixão, N.M., Tamames, J.A., Fernandes, P.A., Ramos, M.J. · Journal of Molecular Modeling",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00894-014-2271-z",
+      "placeholder": false,
+      "doi": "10.1007/s00894-014-2271-z",
+      "orcidKeys": [
+        "doi:10.1007/s00894-014-2271-z"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687112",
+      "title": "Analysis of a fibre optic sensor design based on SPR in nanowire metamaterial films",
+      "authors": "Leite, I.T., Fernandes, P., Hierro-Rodriguez, A., Teixeira, J.M., Jorge, P.A.S., Guerreiro, A. · Proceedings of SPIE - The International Society for Optical Engineering",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1117/12.2059766",
+      "placeholder": false,
+      "doi": "10.1117/12.2059766",
+      "orcidKeys": [
+        "doi:10.1117/12.2059766"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687101",
+      "title": "Are hot-spots occluded from water?",
+      "authors": "Moreira, I.S., Ramos, R.M., Martins, J.M., Fernandes, P.A., Ramos, M.J. · Journal of Biomolecular Structure and Dynamics",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/07391102.2012.758598",
+      "placeholder": false,
+      "doi": "10.1080/07391102.2012.758598",
+      "orcidKeys": [
+        "doi:10.1080/07391102.2012.758598"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687093",
+      "title": "Benchmarking of density functionals for the accurate description of thiol-disulfide exchange",
+      "authors": "Neves, R.P.P., Fernandes, P.A., Varandas, A.J.C., Ramos, M.J. · Journal of Chemical Theory and Computation",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct500840f",
+      "placeholder": false,
+      "doi": "10.1021/ct500840f",
+      "orcidKeys": [
+        "doi:10.1021/ct500840f"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687106",
+      "title": "Binding mode prediction and identification of new lead compounds from natural products as renin and angiotensin converting enzyme inhibitors",
+      "authors": "Moorthy, N.S.H.N., Brás, N.F., Ramos, M.J., Fernandes, P.A. · RSC Advances",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c4ra00856a",
+      "placeholder": false,
+      "doi": "10.1039/c4ra00856a",
+      "orcidKeys": [
+        "doi:10.1039/c4ra00856a"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687102",
+      "title": "Biomembrane simulations of 12 lipid types using the general amber force field in a tensionless ensemble",
+      "authors": "Coimbra, J.T.S., Sousa, S.F., Fernandes, P.A., Rangel, M., Ramos, M.J. · Journal of Biomolecular Structure and Dynamics",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/07391102.2012.750250",
+      "placeholder": false,
+      "doi": "10.1080/07391102.2012.750250",
+      "orcidKeys": [
+        "doi:10.1080/07391102.2012.750250"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687091",
+      "title": "Biomolecular structure manipulation using tailored electromagnetic radiation: A proof of concept on a simplified model of the active site of bacterial DNA topoisomerase",
+      "authors": "Jarukanont, D., Coimbra, J.T.S., Bauerhenne, B., Fernandes, P.A., Patel, S., Ramos, M.J., Garcia, M.E. · Physical Chemistry Chemical Physics",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c4cp02289k",
+      "placeholder": false,
+      "doi": "10.1039/c4cp02289k",
+      "orcidKeys": [
+        "doi:10.1039/c4cp02289k"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687089",
+      "title": "Catalytic mechanism of retroviral integrase for the strand transfer reaction explored by QM/MM calculations",
+      "authors": "Araújo, A.R., Ribeiro, A.J.M., Fernandes, P.A., Ramos, M.J. · Journal of Chemical Theory and Computation",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct500570g",
+      "placeholder": false,
+      "doi": "10.1021/ct500570g",
+      "orcidKeys": [
+        "doi:10.1021/ct500570g"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687114",
+      "title": "Chem-path-tracker: An automated tool to analyze chemical motifs in molecular structures",
+      "authors": "Ribeiro, J.V., Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Chemical Biology and Drug Design",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/cbdd.12349",
+      "placeholder": false,
+      "doi": "10.1111/cbdd.12349",
+      "orcidKeys": [
+        "doi:10.1111/cbdd.12349"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687110",
+      "title": "Classification study of solvation free energies of organic molecules using machine learning techniques",
+      "authors": "Narayana Moorthy, N.S.H., Martins, S.A., Sousa, S.F., Ramos, M.J., Fernandes, P.A. · RSC Advances",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c4ra07961b",
+      "placeholder": false,
+      "doi": "10.1039/c4ra07961b",
+      "orcidKeys": [
+        "doi:10.1039/c4ra07961b"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687111",
+      "title": "Discovery of new druggable sites in the anti-cholesterol target HMG-CoA reductase by computational alanine scanning mutagenesis",
+      "authors": "Gesto, D.S., Cerqueira, N.M.F.S.A., Ramos, M.J., Fernandes, P.A. · Journal of Molecular Modeling",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00894-014-2178-8",
+      "placeholder": false,
+      "doi": "10.1007/s00894-014-2178-8",
+      "orcidKeys": [
+        "doi:10.1007/s00894-014-2178-8"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687113",
+      "title": "Discovery of new sites for drug binding to the hypertension-related renin-angiotensinogen complex",
+      "authors": "Brás, N.F., Fernandes, P.A., Ramos, M.J. · Chemical Biology and Drug Design",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/cbdd.12258",
+      "placeholder": false,
+      "doi": "10.1111/cbdd.12258",
+      "orcidKeys": [
+        "doi:10.1111/cbdd.12258"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687104",
+      "title": "Divalent metal ion-based catalytic mechanism of the Nudix hydrolase Orf153 (YmfB) from Escherichia coli",
+      "authors": "Hong, M.-K., Ribeiro, A.J.M., Kim, J.-K., Ngo, H.-P.-T., Kim, J., Lee, C.H., Ahn, Y.-J., Fernandes, P.A., Li, Q., Ramos, M.J., Kang, L.-W. · Acta Crystallographica Section D: Biological Crystallography",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1107/s1399004714002570",
+      "placeholder": false,
+      "doi": "10.1107/s1399004714002570",
+      "orcidKeys": [
+        "doi:10.1107/s1399004714002570"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687092",
+      "title": "Enzymatic \"tricks\": Carboxylate shift and sulfur shift",
+      "authors": "Sousa, S.F., Cerqueira, N.M.F.S.A., Brás, N.F., Fernandes, P.A., Ramos, M.J. · International Journal of Quantum Chemistry",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.24689",
+      "placeholder": false,
+      "doi": "10.1002/qua.24689",
+      "orcidKeys": [
+        "doi:10.1002/qua.24689"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687105",
+      "title": "Fused aryl-phenazines: Scaffold for the development of bioactive molecules",
+      "authors": "Hari Narayana Moorthy, N.S., Pratheepa, V., Ramos, M.J., Vasconcelos, V., Fernandes, P.A. · Current Drug Targets",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/1389450115666140205152007",
+      "placeholder": false,
+      "doi": "10.2174/1389450115666140205152007",
+      "orcidKeys": [
+        "doi:10.2174/1389450115666140205152007"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687107",
+      "title": "Glycosidase inhibitors: A patent review (2008-2013)",
+      "authors": "Brás, N.F., Cerqueira, N.M.F.S.A., Ramos, M.J., Fernandes, P.A. · Expert Opinion on Therapeutic Patents",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1517/13543776.2014.916280",
+      "placeholder": false,
+      "doi": "10.1517/13543776.2014.916280",
+      "orcidKeys": [
+        "doi:10.1517/13543776.2014.916280"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-37032796",
+      "title": "II Encontro Casa das Ciências",
+      "authors": "Pedro Fernandes · Revista de Ciência Elementar",
+      "year": "2014",
+      "publicationDate": "2014-10-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2014.051",
+      "placeholder": false,
+      "doi": "10.24927/rce2014.051",
+      "orcidKeys": [
+        "doi:10.24927/rce2014.051"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687090",
+      "title": "Influence of the environment on protein bond energies",
+      "authors": "Coimbra, J.T.S., Neves, R.P.P., Passos, Ó., Jarukanont, D., Fernandes, P.A., Patel, S., Garcia, M.E., Ramos, M.J. · Chemical Physics Letters",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cplett.2014.09.066",
+      "placeholder": false,
+      "doi": "10.1016/j.cplett.2014.09.066",
+      "orcidKeys": [
+        "doi:10.1016/j.cplett.2014.09.066"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687096",
+      "title": "Isomerization of Δ<sup>5</sup>-androstene-3,17-dione into Δ<sup>4</sup>-androstene-3,17-dione catalyzed by human glutathione transferase A3-3: A computational study identifies a dual role for glutathione",
+      "authors": "Dourado, D.F.A.R., Fernandes, P.A., Mannervik, B., Ramos, M.J. · Journal of Physical Chemistry A",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp410810q",
+      "placeholder": false,
+      "doi": "10.1021/jp410810q",
+      "orcidKeys": [
+        "doi:10.1021/jp410810q"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687099",
+      "title": "Molecular dynamics studies on both bound and unbound renin protease",
+      "authors": "Brás, N.F., Fernandes, P.A., Ramos, M.J. · Journal of Biomolecular Structure and Dynamics",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/07391102.2013.768553",
+      "placeholder": false,
+      "doi": "10.1080/07391102.2013.768553",
+      "orcidKeys": [
+        "doi:10.1080/07391102.2013.768553"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687100",
+      "title": "PLP undergoes conformational changes during the course of an enzymatic reaction",
+      "authors": "Ngo, H.-P.-T., Cerqueira, N.M.F.S.A., Kim, J.-K., Hong, M.-K., Fernandes, P.A., Ramos, M.J., Kang, L.-W. · Acta Crystallographica Section D: Biological Crystallography",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1107/s1399004713031283",
+      "placeholder": false,
+      "doi": "10.1107/s1399004713031283",
+      "orcidKeys": [
+        "doi:10.1107/s1399004713031283"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687095",
+      "title": "Prediction of solvation free energies with thermodynamic integration using the general Amber force field",
+      "authors": "Martins, S.A., Sousa, S.F., Ramos, M.J., Fernandes, P.A. · Journal of Chemical Theory and Computation",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct500346y",
+      "placeholder": false,
+      "doi": "10.1021/ct500346y",
+      "orcidKeys": [
+        "doi:10.1021/ct500346y"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687109",
+      "title": "Predictive QSAR models development and validation for human ether-a-go-go related gene (hERG) blockers using newer tools",
+      "authors": "Moorthy, N.S.H.N., Ramos, M.J., Fernandes, P.A. · Journal of Enzyme Inhibition and Medicinal Chemistry",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3109/14756366.2013.779264",
+      "placeholder": false,
+      "doi": "10.3109/14756366.2013.779264",
+      "orcidKeys": [
+        "doi:10.3109/14756366.2013.779264"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687097",
+      "title": "Protein ligand docking in drug discovery",
+      "authors": "Brás, N.F., Cerqueira, N.M.F.S.A., Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Protein Modelling",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-319-09976-7_11",
+      "placeholder": false,
+      "doi": "10.1007/978-3-319-09976-7_11",
+      "orcidKeys": [
+        "doi:10.1007/978-3-319-09976-7_11"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687108",
+      "title": "QM/MM study and MD simulations on the hypertension regulator angiotensin-converting enzyme",
+      "authors": "Brás, N.F., Fernandes, P.A., Ramos, M.J. · ACS Catalysis",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/cs500093h",
+      "placeholder": false,
+      "doi": "10.1021/cs500093h",
+      "orcidKeys": [
+        "doi:10.1021/cs500093h"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687094",
+      "title": "Reaction mechanism of human renin studied by quantum mechanics/molecular mechanics (QM/MM) calculations",
+      "authors": "Calixto, A.R., Brás, N.F., Fernandes, P.A., Ramos, M.J. · ACS Catalysis",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/cs500497f",
+      "placeholder": false,
+      "doi": "10.1021/cs500497f",
+      "orcidKeys": [
+        "doi:10.1021/cs500497f"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687088",
+      "title": "Relevant interactions of antimicrobial iron chelators and membrane models revealed by nuclear magnetic resonance and molecular dynamics simulations",
+      "authors": "Coimbra, J.T.S., Moniz, T., Brás, N.F., Ivanova, G., Fernandes, P.A., Ramos, M.J., Rangel, M. · Journal of Physical Chemistry B",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp509491p",
+      "placeholder": false,
+      "doi": "10.1021/jp509491p",
+      "orcidKeys": [
+        "doi:10.1021/jp509491p"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-227274259",
+      "title": "Sensing with metallic nanowires?",
+      "authors": "Fernandes, P, Leite, IT, Teixeira, JM, Hierro Rodriguez, A, Araujo, JP, Guerreiro, A · 23RD INTERNATIONAL CONFERENCE ON OPTICAL FIBRE SENSORS",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "In this work we show numerically the potential of using a metamaterial constituted by ordered arrays of silver nanowires as a sensor for refractive index changes of a surrounding dielectric medium. The results show a strong dependence of the reflectance spectrum on the refractive index of the dielectric medium.",
+      "url": "https://doi.org/10.1117/12.2059765",
+      "placeholder": false,
+      "doi": "10.1117/12.2059765",
+      "orcidKeys": [
+        "doi:10.1117/12.2059765"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687103",
+      "title": "The Catalytic Mechanism of Carboxylesterases: A Computational Study",
+      "authors": "Aranda, J., Cerqueira, N.M.F.S.A., Fernandes, P.A., Roca, M., Tuñon, I., Ramos, M.J. · Biochemistry",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/bi500934j",
+      "placeholder": false,
+      "doi": "10.1021/bi500934j",
+      "orcidKeys": [
+        "doi:10.1021/bi500934j"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687098",
+      "title": "The glycation site specificity of human serum transferrin is a determinant for transferrin's functional impairment under elevated glycaemic conditions",
+      "authors": "Silva, A.M.N., Sousa, P.R.H., Coimbra, J.T.S., Brás, N.F., Vitorino, R., Fernandes, P.A., Ramos, M.J., Rangel, M., Domingues, P. · Biochemical Journal",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1042/bj20140133",
+      "placeholder": false,
+      "doi": "10.1042/bj20140133",
+      "orcidKeys": [
+        "doi:10.1042/bj20140133"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687130",
+      "title": "A DFT study of the applicability of the charge balance model in two-metal enzymes: The case of cAMP-dependent protein kinase",
+      "authors": "Ribeiro, A.J.M., Ramos, M.J., Fernandes, P.A., Russo, N. · Chemical Physics Letters",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cplett.2013.03.085",
+      "placeholder": false,
+      "doi": "10.1016/j.cplett.2013.03.085",
+      "orcidKeys": [
+        "doi:10.1016/j.cplett.2013.03.085"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687134",
+      "title": "Aryl-and heteroaryl-thiosemicarbazone derivatives and their metal complexes: A pharmacological template",
+      "authors": "Moorthy, N.S.H.N., Cerqueira, N.M.F.S.A., Ramos, M.J., Fernandes, P.A. · Recent Patents on Anti-Cancer Drug Discovery",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/157489213805290583",
+      "placeholder": false,
+      "doi": "10.2174/157489213805290583",
+      "orcidKeys": [
+        "doi:10.2174/157489213805290583"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687117",
+      "title": "Combined ligand and structure based binding mode analysis of oxidosqualene cyclase inhibitors",
+      "authors": "Moorthy, N.S.H.N., Cerqueira, N.M.F.S.A., Ramos, M.J., Fernandes, P.A. · RSC Advances",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c3ra43670e",
+      "placeholder": false,
+      "doi": "10.1039/c3ra43670e",
+      "orcidKeys": [
+        "doi:10.1039/c3ra43670e"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687126",
+      "title": "Comparative analysis of the performance of commonly available density functionals in the determination of geometrical parameters for copper complexes",
+      "authors": "Sousa, S.F., Pinto, G.R.P., Ribeiro, A.J.M., Coimbra, J.T.S., Fernandes, P.A., Ramos, M.J. · Journal of Computational Chemistry",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.23349",
+      "placeholder": false,
+      "doi": "10.1002/jcc.23349",
+      "orcidKeys": [
+        "doi:10.1002/jcc.23349"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687135",
+      "title": "Computational alanine scanning mutagenesis: MM-PBSA vs TI",
+      "authors": "Martins, S.A., Perez, M.A.S., Moreira, I.S., Sousa, S.F., Ramos, M.J., Fernandes, P.A. · Journal of Chemical Theory and Computation",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct4000372",
+      "placeholder": false,
+      "doi": "10.1021/ct4000372",
+      "orcidKeys": [
+        "doi:10.1021/ct4000372"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584201",
+      "title": "Computational Biochemistry",
+      "authors": "Brás, NF, Coimbra, JTS, Neves, RPP, Cerqueira, NMFSA, Sousa, SF, Fernandes, PA, Ramos, MJ",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/b978-0-12-409547-2.10833-9",
+      "placeholder": false,
+      "doi": "10.1016/b978-0-12-409547-2.10833-9",
+      "orcidKeys": [
+        "doi:10.1016/b978-0-12-409547-2.10833-9"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687121",
+      "title": "Development of ribonucleotide reductase inhibitor: A review on structure activity relationships",
+      "authors": "Moorthy, N.S.H.N., Cerqueira, N.M.F.S.A., Ramos, M.J., Fernandes, P.A. · Mini-Reviews in Medicinal Chemistry",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/13895575113136660090",
+      "placeholder": false,
+      "doi": "10.2174/13895575113136660090",
+      "orcidKeys": [
+        "doi:10.2174/13895575113136660090"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687139",
+      "title": "Erratum to: Improving the study of proton transfers between amino acid side chains in solution: Choosing appropriate DFT functionals and avoiding hidden pitfalls (Theor Chem Acc, (2012) 131, 117, 10.1007/s00214-012-1179-x)",
+      "authors": "Silva, P.J., Perez, M.A.S., Brás, N.F., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-012-1307-7",
+      "placeholder": false,
+      "doi": "10.1007/s00214-012-1307-7",
+      "orcidKeys": [
+        "doi:10.1007/s00214-012-1307-7"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687127",
+      "title": "Erratum: A DFT study of the applicability of the charge balance model in two-metal enzymes: The case of cAMP-dependent protein kinase (Chemical Physics Letters (2012) 51:49 12242-12245)",
+      "authors": "Ribeiro, A.J.M., Ramos, M.J., Fernandes, P.A., Russo, N. · Chemical Physics Letters",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.cplett.2013.06.024",
+      "placeholder": false,
+      "doi": "10.1016/j.cplett.2013.06.024",
+      "orcidKeys": [
+        "doi:10.1016/j.cplett.2013.06.024"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687120",
+      "title": "Farnesyltransferase inhibitors: A comprehensive review based on quantitative structural analysis",
+      "authors": "Moorthy, N.S.H.N., Sousa, S.F., Ramos, M.J., Fernandes, P.A. · Current Medicinal Chemistry",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/09298673113206660262",
+      "placeholder": false,
+      "doi": "10.2174/09298673113206660262",
+      "orcidKeys": [
+        "doi:10.2174/09298673113206660262"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687132",
+      "title": "Human ether-a-go-go-related gene channel blockers and its structural analysis for drug design",
+      "authors": "Moorthy, N.S.H.N., Ramos, M.J., Fernandes, P.A. · Current Drug Targets",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84876710977&partnerID=MN8TOARS",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:17687132"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687133",
+      "title": "Insights into the structural determinants for selective inhibition of nitric oxide synthase isoforms",
+      "authors": "Oliveira, B.L., Moreira, I.S., Fernandes, P.A., Ramos, M.J., Santos, I., Correia, J.D.G. · Journal of Molecular Modeling",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00894-012-1677-8",
+      "placeholder": false,
+      "doi": "10.1007/s00894-012-1677-8",
+      "orcidKeys": [
+        "doi:10.1007/s00894-012-1677-8"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687122",
+      "title": "Mechanism of glutathione transferase P1-1-catalyzed activation of the prodrug canfosfamide (TLK286, TELCYTA)",
+      "authors": "Dourado, D.F.A.R., Fernandes, P.A., Ramos, M.J., Mannervik, B. · Biochemistry",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/bi4005705",
+      "placeholder": false,
+      "doi": "10.1021/bi4005705",
+      "orcidKeys": [
+        "doi:10.1021/bi4005705"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687137",
+      "title": "Molecular dynamics analysis of a series of 22 potential farnesyltransferase substrates containing a CaaX-motif",
+      "authors": "Sousa, S.F., Coimbra, J.T.S., Paramos, D., Pinto, R., Guimarães, R.S., Teixeira, V., Fernandes, P.A., Ramos, M.J. · Journal of Molecular Modeling",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00894-012-1590-1",
+      "placeholder": false,
+      "doi": "10.1007/s00894-012-1590-1",
+      "orcidKeys": [
+        "doi:10.1007/s00894-012-1590-1"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687128",
+      "title": "Parameters for molecular dynamics simulations of manganese-containing metalloproteins",
+      "authors": "Neves, R.P.P., Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Journal of Chemical Theory and Computation",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct400055v",
+      "placeholder": false,
+      "doi": "10.1021/ct400055v",
+      "orcidKeys": [
+        "doi:10.1021/ct400055v"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-36622753",
+      "title": "Prémio Nobel da Química 2013",
+      "authors": "Pedro Fernandes · Revista de Ciência Elementar",
+      "year": "2013",
+      "publicationDate": "2013-12-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2013.002",
+      "placeholder": false,
+      "doi": "10.24927/rce2013.002",
+      "orcidKeys": [
+        "doi:10.24927/rce2013.002"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687129",
+      "title": "Protein-ligand docking in the new millennium - A retrospective of 10 years in the field",
+      "authors": "Sousa, S.F., Ribeiro, A.J.M., Coimbra, J.T.S., Neves, R.P.P., Martins, S.A., Moorthy, N.S.H.N., Fernandes, P.A., Ramos, M.J. · Current Medicinal Chemistry",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/0929867311320180002",
+      "placeholder": false,
+      "doi": "10.2174/0929867311320180002",
+      "orcidKeys": [
+        "doi:10.2174/0929867311320180002"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687136",
+      "title": "QSAR and pharmacophore analysis of a series of piperidinyl urea derivatives as hERG blockers and H3 antagonists",
+      "authors": "Moorthy, N.S.H.N., Ramos, M.J., Fernandes, P.A. · Current Drug Discovery Technologies",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-84875452236&partnerID=MN8TOARS",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:17687136"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584202",
+      "title": "Ribonucleotide Reductase – Computational Studies",
+      "authors": "Cerqueira, NMFSA, Fernandes, PA, Ramos, MJ",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-3-642-16712-6_264",
+      "placeholder": false,
+      "doi": "10.1007/978-3-642-16712-6_264",
+      "orcidKeys": [
+        "doi:10.1007/978-3-642-16712-6_264"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687123",
+      "title": "The catalytic mechanism of protein phosphatase 5 established by DFT calculations",
+      "authors": "Ribeiro, A.J., Alberto, M.E., Ramos, M.J., Fernandes, P.A., Russo, N. · Chemistry (Weinheim an der Bergstrasse, Germany)",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.201301565",
+      "placeholder": false,
+      "doi": "10.1002/chem.201301565",
+      "orcidKeys": [
+        "doi:10.1002/chem.201301565"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687124",
+      "title": "The sulfur shift: An activation mechanism for periplasmic nitrate reductase and formate dehydrogenase",
+      "authors": "Cerqueira, N.M.F.S.A., Fernandes, P.A., Gonzalez, P.J., Moura, J.J.G., Ramos, M.J. · Inorganic Chemistry",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ic3028034",
+      "placeholder": false,
+      "doi": "10.1021/ic3028034",
+      "orcidKeys": [
+        "doi:10.1021/ic3028034"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687125",
+      "title": "Theoretical studies on the binding of rhenium(I) complexes to inducible nitric oxide synthase",
+      "authors": "Oliveira, B.L., Moreira, I.S., Fernandes, P.A., Ramos, M.J., Santos, I., Correia, J.D.G. · Journal of Molecular Graphics and Modelling",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jmgm.2013.07.007",
+      "placeholder": false,
+      "doi": "10.1016/j.jmgm.2013.07.007",
+      "orcidKeys": [
+        "doi:10.1016/j.jmgm.2013.07.007"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687138",
+      "title": "Understanding the importance of the aromatic amino-acid residues as hot-spots",
+      "authors": "Moreira, I.S., Martins, J.M., Ramos, R.M., Fernandes, P.A., Ramos, M.J. · Biochimica et Biophysica Acta - Proteins and Proteomics",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.bbapap.2012.07.005",
+      "placeholder": false,
+      "doi": "10.1016/j.bbapap.2012.07.005",
+      "orcidKeys": [
+        "doi:10.1016/j.bbapap.2012.07.005"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687131",
+      "title": "Unraveling the enigmatic mechanism of l-asparaginase II with QM/QM calculations",
+      "authors": "Gesto, D.S., Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Journal of the American Chemical Society",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ja310165u",
+      "placeholder": false,
+      "doi": "10.1021/ja310165u",
+      "orcidKeys": [
+        "doi:10.1021/ja310165u"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687118",
+      "title": "Volarea - A bioinformatics tool to calculate the surface area and the volume of molecular systems",
+      "authors": "Ribeiro, J.V., Tamames, J.A.C., Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Chemical Biology and Drug Design",
+      "year": "2013",
+      "publicationDate": "2013",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/cbdd.12197",
+      "placeholder": false,
+      "doi": "10.1111/cbdd.12197",
+      "orcidKeys": [
+        "doi:10.1111/cbdd.12197"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687150",
+      "title": "Analysis of van der Waals surface area properties for human ether-a-go-go-related gene blocking activity: Computational study on structurally diverse compounds",
+      "authors": "Moorthy, N.S.H.N., Ramos, M.J., Fernandes, P.A. · SAR and QSAR in Environmental Research",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/1062936x.2012.666264",
+      "placeholder": false,
+      "doi": "10.1080/1062936x.2012.666264",
+      "orcidKeys": [
+        "doi:10.1080/1062936x.2012.666264"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687152",
+      "title": "Comparative structural analysis of α-glucosidase inhibitors on difference species: A computational study",
+      "authors": "Narayana Moorthy, N.S.H., Ramos, M.J., Fernandes, P.A. · Archiv der Pharmazie",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/ardp.201100047",
+      "placeholder": false,
+      "doi": "10.1002/ardp.201100047",
+      "orcidKeys": [
+        "doi:10.1002/ardp.201100047"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687142",
+      "title": "CompASM: An Amber-VMD alanine scanning mutagenesis plug-in",
+      "authors": "Ribeiro, J.V., Cerqueira, N.M.F.S.A., Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-012-1271-2",
+      "placeholder": false,
+      "doi": "10.1007/s00214-012-1271-2",
+      "orcidKeys": [
+        "doi:10.1007/s00214-012-1271-2"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687144",
+      "title": "Computational enzymatic catalysis - Clarifying enzymatic mechanisms with the help of computers",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Physical Chemistry Chemical Physics",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c2cp41180f",
+      "placeholder": false,
+      "doi": "10.1039/c2cp41180f",
+      "orcidKeys": [
+        "doi:10.1039/c2cp41180f"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687154",
+      "title": "Gemcitabine: A critical nucleoside for cancer therapy",
+      "authors": "Gesto, D.S., Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Current Medicinal Chemistry",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/092986712799320682",
+      "placeholder": false,
+      "doi": "10.2174/092986712799320682",
+      "orcidKeys": [
+        "doi:10.2174/092986712799320682"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584203",
+      "title": "Growth and characterization of Cu2ZnSn(S,Se)(4) thin films for solar cells",
+      "authors": "Salome, PMP, Malaquias, J, Fernandes, PA, Ferreira, MS, da Cunha, AF, Leitao, JP, Gonzalez, JC, Matinaga, FM · SOLAR ENERGY MATERIALS AND SOLAR CELLS",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.solmat.2012.02.031",
+      "placeholder": false,
+      "doi": "10.1016/j.solmat.2012.02.031",
+      "orcidKeys": [
+        "doi:10.1016/j.solmat.2012.02.031"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687155",
+      "title": "Improving the study of proton transfers between amino acid side chains in solution: Choosing appropriate DFT functionals and avoiding hidden pitfalls",
+      "authors": "Silva, P.J., Perez, M.A.S., Brás, N.F., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-012-1179-x",
+      "placeholder": false,
+      "doi": "10.1007/s00214-012-1179-x",
+      "orcidKeys": [
+        "doi:10.1007/s00214-012-1179-x"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687145",
+      "title": "In silico based structural analysis of some piperidine analogs as farnesyltransferase inhibitors",
+      "authors": "Moorthy, N.S.H.N., Sousa, S.F., Ramos, M.J., Fernandes, P.A. · Medicinal Chemistry",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/157340612802084171",
+      "placeholder": false,
+      "doi": "10.2174/157340612802084171",
+      "orcidKeys": [
+        "doi:10.2174/157340612802084171"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687148",
+      "title": "Multidimensional epistasis and fitness landscapes in enzyme evolution",
+      "authors": "Zhang, W., Dourado, D.F.A.R., Fernandes, P.A., Ramos, M.J., Mannervik, B. · Biochemical Journal",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1042/bj20120136",
+      "placeholder": false,
+      "doi": "10.1042/bj20120136",
+      "orcidKeys": [
+        "doi:10.1042/bj20120136"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687156",
+      "title": "QSAR analysis of 2-benzoxazolyl hydrazone derivatives for anticancer activity and its possible target prediction",
+      "authors": "Narayana Moorthy, N.S.H., Cerqueira, N.S., Ramos, M.J., Fernandes, P.A. · Medicinal Chemistry Research",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00044-010-9510-3",
+      "placeholder": false,
+      "doi": "10.1007/s00044-010-9510-3",
+      "orcidKeys": [
+        "doi:10.1007/s00044-010-9510-3"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687151",
+      "title": "QSAR and pharmacophore analysis of thiosemicarbazone derivatives as ribonucleotide reductase inhibitors",
+      "authors": "Moorthy, N.S.H.N., Cerqueira, N.M.F.S.A., Ramos, M.J., Fernandes, P.A. · Medicinal Chemistry Research",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00044-011-9580-x",
+      "placeholder": false,
+      "doi": "10.1007/s00044-011-9580-x",
+      "orcidKeys": [
+        "doi:10.1007/s00044-011-9580-x"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687153",
+      "title": "Structural analysis of 2-piperidin-4-yl-actamide derivatives for hERG blocking and MCH R1 antagonistic activities",
+      "authors": "Moorthy, N.S.H.N., Ramos, M.J., Fernandes, P.A. · Current Drug Discovery Technologies",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/157016312799304543",
+      "placeholder": false,
+      "doi": "10.2174/157016312799304543",
+      "orcidKeys": [
+        "doi:10.2174/157016312799304543"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687141",
+      "title": "Structural analysis of structurally diverse α-glucosidase inhibitors for active site feature analysis",
+      "authors": "Narayana Moorthy, N.S.H., Ramos, M.J., Fernandes, P.A. · Journal of Enzyme Inhibition and Medicinal Chemistry",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3109/14756366.2011.605359",
+      "placeholder": false,
+      "doi": "10.3109/14756366.2011.605359",
+      "orcidKeys": [
+        "doi:10.3109/14756366.2011.605359"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687149",
+      "title": "Studies on α-glucosidase inhibitors development: Magic molecules for the treatment of carbohydrate mediated diseases",
+      "authors": "Moorthy, N.S.H.N., Ramos, M.J., Fernandes, P.A. · Mini-Reviews in Medicinal Chemistry",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/138955712801264837",
+      "placeholder": false,
+      "doi": "10.2174/138955712801264837",
+      "orcidKeys": [
+        "doi:10.2174/138955712801264837"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687146",
+      "title": "The catalytic mechanism of HIV-1 integrase for DNA 3′-end processing established by QM/MM calculations",
+      "authors": "Ribeiro, A.J.M., Ramos, M.J., Fernandes, P.A. · Journal of the American Chemical Society",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ja304601k",
+      "placeholder": false,
+      "doi": "10.1021/ja304601k",
+      "orcidKeys": [
+        "doi:10.1021/ja304601k"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687143",
+      "title": "The catalytic mechanism of mouse renin studied with QM/MM calculations",
+      "authors": "Brás, N.F., Ramos, M.J., Fernandes, P.A. · Physical Chemistry Chemical Physics",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c2cp41422h",
+      "placeholder": false,
+      "doi": "10.1039/c2cp41422h",
+      "orcidKeys": [
+        "doi:10.1039/c2cp41422h"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687147",
+      "title": "The extracellular subunit interface of the 5-HT<inf>3</inf> receptors: A computational alanine scanning mutagenesis study",
+      "authors": "De Rienzo, F., Moura Barbosa, A.J., Perez, M.A.S., Fernandes, P.A., Ramos, M.J., Menziani, M.C. · Journal of Biomolecular Structure and Dynamics",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1080/07391102.2012.680029",
+      "placeholder": false,
+      "doi": "10.1080/07391102.2012.680029",
+      "orcidKeys": [
+        "doi:10.1080/07391102.2012.680029"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584184",
+      "title": "Understanding the reaction mechanism of L-asparaginase II – a computational study",
+      "authors": "Gesto, Diana S., Nuno, NMFSA, Fernandes, Pedro Alexandrino, Ramos, Maria Joao · X Girona Seminar on Theoretical and Computational Chemistry for the Modeling of Biochemical Systems: From Theory to Applications",
+      "year": "2012",
+      "publicationDate": "2012-07-02",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584184"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177585037",
+      "title": "Unveiling the Catalytic Mechanism of L-asparaginase II using Computational Methods",
+      "authors": "Gesto, Diana S., Cerqueira, NMFSA, Fernandes, Pedro Alexandrino, Ramos, Maria Joao · 3PYCheM - 3rd Portuguese Young Chemists Meeting",
+      "year": "2012",
+      "publicationDate": "2012-05-09",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177585037"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687140",
+      "title": "Virtual screening and QSAR study of some pyrrolidine derivatives as α-mannosidase inhibitors for binding feature analysis",
+      "authors": "Moorthy, N.S.H.N., Brás, N.F., Ramos, M.J., Fernandes, P.A. · Bioorganic and Medicinal Chemistry",
+      "year": "2012",
+      "publicationDate": "2012",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.bmc.2012.10.011",
+      "placeholder": false,
+      "doi": "10.1016/j.bmc.2012.10.011",
+      "orcidKeys": [
+        "doi:10.1016/j.bmc.2012.10.011"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687160",
+      "title": "Accuracy of density functionals in the prediction of electronic proton affinities of amino acid side chains",
+      "authors": "Brás, N.F., Perez, M.A.S., Fernandes, P.A., Silva, P.J., Ramos, M.J. · Journal of Chemical Theory and Computation",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct200309v",
+      "placeholder": false,
+      "doi": "10.1021/ct200309v",
+      "orcidKeys": [
+        "doi:10.1021/ct200309v"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687163",
+      "title": "Analysis of the α-glucosidase inhibitory activity of chromenone derivatives based on their molecular features: A computational study",
+      "authors": "Moorthy, N.S.H.N., Ramos, M.J., Fernandes, P.A. · Medicinal Chemistry",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-80755125976&partnerID=MN8TOARS",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:17687163"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687174",
+      "title": "Chemical behavior of methylpyranomalvidin-3-o-glucoside in aqueous solution studied by NMR and UV-visible spectroscopy",
+      "authors": "Oliveira, J., Petrov, V., Parola, A.J., Pina, F., Azevedo, J., Teixeira, N., Brás, N.F., Fernandes, P.A., Mateus, N., Ramos, M.J., De Freitas, V. · Journal of Physical Chemistry B",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp110593c",
+      "placeholder": false,
+      "doi": "10.1021/jp110593c",
+      "orcidKeys": [
+        "doi:10.1021/jp110593c"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687170",
+      "title": "Computational mechanistic studies addressed to the transimination reaction present in all pyridoxal 5′-phosphate-requiring enzymes",
+      "authors": "Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Journal of Chemical Theory and Computation",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct1002219",
+      "placeholder": false,
+      "doi": "10.1021/ct1002219",
+      "orcidKeys": [
+        "doi:10.1021/ct1002219"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687169",
+      "title": "Conformational study of two diasteroisomers of vinylcatechin dimers in a methanol solution",
+      "authors": "Brás, N.F., Cruz, L., Fernandes, P.A., De Freitas, V., Ramos, M.J. · International Journal of Quantum Chemistry",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.22631",
+      "placeholder": false,
+      "doi": "10.1002/qua.22631",
+      "orcidKeys": [
+        "doi:10.1002/qua.22631"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584204",
+      "title": "Cr(VI) Induces DNA Damage, Cell Cycle Arrest and Polyploidization: A How Cytometric and Comet Assay Study in Pisum sativum",
+      "authors": "Rodriguez, E, Azevedo, R, Fernandes, P, Santos, C · CHEMICAL RESEARCH IN TOXICOLOGY",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/tx2001465",
+      "placeholder": false,
+      "doi": "10.1021/tx2001465",
+      "orcidKeys": [
+        "doi:10.1021/tx2001465"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687168",
+      "title": "Detailed atomistic analysis of the HIV-1 protease interface",
+      "authors": "Sousa, S.F., Tamames, B., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp200075s",
+      "placeholder": false,
+      "doi": "10.1021/jp200075s",
+      "orcidKeys": [
+        "doi:10.1021/jp200075s"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687157",
+      "title": "Detection of farnesyltransferase interface hot spots through computational alanine scanning mutagenesis",
+      "authors": "Perez, M.A.S., Sousa, S.F., Oliveira, E.F.T., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp205481y",
+      "placeholder": false,
+      "doi": "10.1021/jp205481y",
+      "orcidKeys": [
+        "doi:10.1021/jp205481y"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687164",
+      "title": "HERG binding feature analysis of structurally diverse compounds by QSAR and fragmental analysis",
+      "authors": "Moorthy, N.S.H.N., Ramos, M.J., Fernandes, P.A. · RSC Advances",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/c1ra00131k",
+      "placeholder": false,
+      "doi": "10.1039/c1ra00131k",
+      "orcidKeys": [
+        "doi:10.1039/c1ra00131k"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687166",
+      "title": "In silico-based structural analysis of arylthiophene derivatives for FTase inhibitory activity, hERG, and other toxic effects",
+      "authors": "Narayana Moorthy, N.S.H., Sousa, S.F., Ramos, M.J., Fernandes, P.A. · Journal of Biomolecular Screening",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1177/1087057111414899",
+      "placeholder": false,
+      "doi": "10.1177/1087057111414899",
+      "orcidKeys": [
+        "doi:10.1177/1087057111414899"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687165",
+      "title": "Mechanism of formation of the internal aldimine in pyridoxal 5′-phosphate-dependent enzymes",
+      "authors": "Oliveira, E.F., Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Journal of the American Chemical Society",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ja204229m",
+      "placeholder": false,
+      "doi": "10.1021/ja204229m",
+      "orcidKeys": [
+        "doi:10.1021/ja204229m"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687175",
+      "title": "Prediction of the relationship between the structural features of andrographolide derivatives and αî±-glucosidase inhibitory activity: A quantitative structure-activity relationship (QSAR) Study",
+      "authors": "Narayana Moorthy, N.S.H., Ramos, M.J., Fernandes, P.A. · Journal of Enzyme Inhibition and Medicinal Chemistry",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3109/14756361003724760",
+      "placeholder": false,
+      "doi": "10.3109/14756361003724760",
+      "orcidKeys": [
+        "doi:10.3109/14756361003724760"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687158",
+      "title": "QM/MM study of the catalytic mechanism of GalNAc removal from GM2 ganglioside catalyzed by human β-hexosaminidaseA",
+      "authors": "Passos, O., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp205826n",
+      "placeholder": false,
+      "doi": "10.1021/jp205826n",
+      "orcidKeys": [
+        "doi:10.1021/jp205826n"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687176",
+      "title": "QSAR analysis of isosteviol derivatives as α-glucosidase inhibitors with element count and other descriptors",
+      "authors": "Hari Narayana Moorthy, N.S., Ramos, M.J., Fernandes, P.A. · Letters in Drug Design and Discovery",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/157018011793663859",
+      "placeholder": false,
+      "doi": "10.2174/157018011793663859",
+      "orcidKeys": [
+        "doi:10.2174/157018011793663859"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687159",
+      "title": "Structural analysis of α-glucosidase inhibitors by validated QSAR models using topological and hydrophobicity based descriptors",
+      "authors": "Moorthy, N.S.H.N., Ramos, M.J., Fernandes, P.A. · Chemometrics and Intelligent Laboratory Systems",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.chemolab.2011.02.010",
+      "placeholder": false,
+      "doi": "10.1016/j.chemolab.2011.02.010",
+      "orcidKeys": [
+        "doi:10.1016/j.chemolab.2011.02.010"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687162",
+      "title": "Structural feature study of benzofuran derivatives as farnesyltransferase inhibitors",
+      "authors": "Hari Narayana Moorthy, N.S., Sousa, S.F., Ramos, M.J., Fernandes, P.A. · Journal of Enzyme Inhibition and Medicinal Chemistry",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3109/14756366.2011.552885",
+      "placeholder": false,
+      "doi": "10.3109/14756366.2011.552885",
+      "orcidKeys": [
+        "doi:10.3109/14756366.2011.552885"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687167",
+      "title": "The accuracy of density functional theory in the description of cation-π and π-hydrogen bond interactions",
+      "authors": "Neves, A.R., Fernandes, P.A., Ramos, M.J. · Journal of Chemical Theory and Computation",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct2001667",
+      "placeholder": false,
+      "doi": "10.1021/ct2001667",
+      "orcidKeys": [
+        "doi:10.1021/ct2001667"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687173",
+      "title": "The catalytic mechanism of RNA polymerase II",
+      "authors": "Carvalho, A.T.P., Fernandes, P.A., Ramos, M.J. · Journal of Chemical Theory and Computation",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct100579w",
+      "placeholder": false,
+      "doi": "10.1021/ct100579w",
+      "orcidKeys": [
+        "doi:10.1021/ct100579w"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687172",
+      "title": "Theoretical insights into the catalytic mechanism of β-hexosaminidase",
+      "authors": "Passos, Ó., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-011-0904-1",
+      "placeholder": false,
+      "doi": "10.1007/s00214-011-0904-1",
+      "orcidKeys": [
+        "doi:10.1007/s00214-011-0904-1"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177585038",
+      "title": "Theoretical Insights on the Mechanism of L-asparaginase II",
+      "authors": "Gesto, Diana S., Cerqueira, NMFSA, Fernandes, Pedro Alexandrino, Ramos, Maria Joao · THEOBIO 2011 - 5th Symposium on Theoretical Biophysics",
+      "year": "2011",
+      "publicationDate": "2011-06-08",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177585038"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687161",
+      "title": "Topological, hydrophobicity, and other descriptors on α-glucosidase inhibition: A QSAR study on xanthone derivatives",
+      "authors": "Hari Narayana Moorthy, N.S., Ramos, M.J., Fernandes, P.A. · Journal of Enzyme Inhibition and Medicinal Chemistry",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3109/14756366.2010.549089",
+      "placeholder": false,
+      "doi": "10.3109/14756366.2010.549089",
+      "orcidKeys": [
+        "doi:10.3109/14756366.2010.549089"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687171",
+      "title": "VsLab - An implementation for virtual high-throughput screening using AutoDock and VMD",
+      "authors": "Cerqueira, N.M.F.S.A., Ribeiro, J., Fernandes, P.A., Ramos, M.J. · International Journal of Quantum Chemistry",
+      "year": "2011",
+      "publicationDate": "2011",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.22738",
+      "placeholder": false,
+      "doi": "10.1002/qua.22738",
+      "orcidKeys": [
+        "doi:10.1002/qua.22738"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687181",
+      "title": "Benchmarking of DFT functionals for the hydrolysis of phosphodiester bonds",
+      "authors": "Ribeiro, A.J.M., Ramos, M.J., Fernandes, P.A. · Journal of Chemical Theory and Computation",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct900649e",
+      "placeholder": false,
+      "doi": "10.1021/ct900649e",
+      "orcidKeys": [
+        "doi:10.1021/ct900649e"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687184",
+      "title": "DFT studies on the β-glycosidase catalytic mechanism: The deglycosylation step",
+      "authors": "Brás, N.F., Ramos, M.J., Fernandes, P.A. · Journal of Molecular Structure: THEOCHEM",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.theochem.2009.08.039",
+      "placeholder": false,
+      "doi": "10.1016/j.theochem.2009.08.039",
+      "orcidKeys": [
+        "doi:10.1016/j.theochem.2009.08.039"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687187",
+      "title": "Glutathione transferase A1-1: Catalytic importance of arginine 15",
+      "authors": "Dourado, D.F.A.R., Fernandes, P.A., Mannervik, B., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp908251z",
+      "placeholder": false,
+      "doi": "10.1021/jp908251z",
+      "orcidKeys": [
+        "doi:10.1021/jp908251z"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687177",
+      "title": "Glutathione transferase classes alpha, Pi, and Mu: GSH activation mechanism",
+      "authors": "Dourado, D.F.A.R., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp1053875",
+      "placeholder": false,
+      "doi": "10.1021/jp1053875",
+      "orcidKeys": [
+        "doi:10.1021/jp1053875"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687178",
+      "title": "Inhibition of pancreatic elastase by polyphenolic compounds",
+      "authors": "Brás, N.F., Gonçalves, R., Mateus, N., Fernandes, P.A., Ramos, M.J., De Freitas, V. · Journal of Agricultural and Food Chemistry",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jf1017934",
+      "placeholder": false,
+      "doi": "10.1021/jf1017934",
+      "orcidKeys": [
+        "doi:10.1021/jf1017934"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168682",
+      "title": "Molecular Dynamics Simulations: Difficulties, Solutions and Strategies for Treating Metalloenzymes",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Challenges and Advances in Computational Chemistry and Physics",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-90-481-3034-4_11",
+      "placeholder": false,
+      "doi": "10.1007/978-90-481-3034-4_11",
+      "orcidKeys": [
+        "doi:10.1007/978-90-481-3034-4_11"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584205",
+      "title": "Multiscale QM/MM modelling and enzyme catalysis",
+      "authors": "Fernandes, P",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584205"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687188",
+      "title": "Protein-protein docking dealing with the unknown",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Journal of Computational Chemistry",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.21276",
+      "placeholder": false,
+      "doi": "10.1002/jcc.21276",
+      "orcidKeys": [
+        "doi:10.1002/jcc.21276"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687186",
+      "title": "QM/MM studies on the β-galactosidase catalytic mechanism: Hydrolysis and transglycosylation reactions",
+      "authors": "Bráa, N.F., Fernandes, P.A., Ramos, M.J. · Journal of Chemical Theory and Computation",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct900530f",
+      "placeholder": false,
+      "doi": "10.1021/ct900530f",
+      "orcidKeys": [
+        "doi:10.1021/ct900530f"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687180",
+      "title": "Ribonucleotide reductase: A mechanistic portrait of substrate analogues inhibitors",
+      "authors": "Perez, M.A.S., Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Current Medicinal Chemistry",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/092986710792065054",
+      "placeholder": false,
+      "doi": "10.2174/092986710792065054",
+      "orcidKeys": [
+        "doi:10.2174/092986710792065054"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687189",
+      "title": "Structural analysis of ABAD point mutations causing 2-methyl-3- hydroxylbutyryl-coA deficiency",
+      "authors": "Marques, A.T., Fernandes, P.A., Ramos, M.J. · International Journal of Quantum Chemistry",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.22091",
+      "placeholder": false,
+      "doi": "10.1002/qua.22091",
+      "orcidKeys": [
+        "doi:10.1002/qua.22091"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687185",
+      "title": "Substrate recognition in HIV-1 protease: A computational study",
+      "authors": "Perez, M.A.S., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp910958u",
+      "placeholder": false,
+      "doi": "10.1021/jp910958u",
+      "orcidKeys": [
+        "doi:10.1021/jp910958u"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177585039",
+      "title": "Theoretical and Computational Studies addressed to Asparaginase",
+      "authors": "Gesto, Diana S., Cerqueira, NMFSA, Fernandes, Pedro Alexandrino, Ramos, Maria Joao · IJUP 2010 - 3rd Meeting of Young Researchers of U. Porto",
+      "year": "2010",
+      "publicationDate": "2010-02-17",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177585039"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687182",
+      "title": "Understanding the binding of procyanidins to pancreatic elastase by experimental and computational methods",
+      "authors": "Brás, N.F., Gonçalves, R., Fernandes, P.A., Mateus, N., Ramos, M.J., De Freitas, V. · Biochemistry",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/bi100410q",
+      "placeholder": false,
+      "doi": "10.1021/bi100410q",
+      "orcidKeys": [
+        "doi:10.1021/bi100410q"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687179",
+      "title": "Understanding the mechanism for Ribonucleotide reductase inactivation by 2′- Deoxy-2′-methylenecytidine-5′-diphosphate",
+      "authors": "Perez, M.A.S., Fernandes, P.A., Ramos, M.J. · Journal of Chemical Theory and Computation",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct1002175",
+      "placeholder": false,
+      "doi": "10.1021/ct1002175",
+      "orcidKeys": [
+        "doi:10.1021/ct1002175"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584172",
+      "title": "Unraveling the Enigmatic Mechanism of Asparaginase: a Key Enzyme in the Battle against Cancer",
+      "authors": "Gesto, Diana S., Cerqueira, NMFSA, Fernandes, Pedro Alexandrino, Ramos, Maria Joao · 2o Encontro Nacional de Química Terapêutica",
+      "year": "2010",
+      "publicationDate": "2010-11-28",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584172"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687183",
+      "title": "Virtual screening in drug design and development",
+      "authors": "Sousa, S.F., Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Combinatorial Chemistry and High Throughput Screening",
+      "year": "2010",
+      "publicationDate": "2010",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/138620710791293001",
+      "placeholder": false,
+      "doi": "10.2174/138620710791293001",
+      "orcidKeys": [
+        "doi:10.2174/138620710791293001"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687194",
+      "title": "ABAD: A potential therapeutic target for Aβ-induced mitochondrial dysfunction in Alzheimer's disease",
+      "authors": "Marques, A.T., Fernandes, P.A., Ramos, M.J. · Mini-Reviews in Medicinal Chemistry",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-70349090165&partnerID=MN8TOARS",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:17687194"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687191",
+      "title": "Comparative analysis of the performance of commonly available density functionals in the determination of geometrical parameters for zinc complexes",
+      "authors": "Sousa, S.F., Carvalho, E.S., Ferreira, D.M., Tavares, I.S., Fernandes, P.A., Ramos, M.J., Gomes, J.A.N.F. · Journal of Computational Chemistry",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.21304",
+      "placeholder": false,
+      "doi": "10.1002/jcc.21304",
+      "orcidKeys": [
+        "doi:10.1002/jcc.21304"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687201",
+      "title": "Docking and molecular dynamics studies on the stereoselectivity in the enzymatic synthesis of carbohydrates",
+      "authors": "Brás, N.F., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-009-0507-2",
+      "placeholder": false,
+      "doi": "10.1007/s00214-009-0507-2",
+      "orcidKeys": [
+        "doi:10.1007/s00214-009-0507-2"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584206",
+      "title": "Exploring beta-1,3-Exoglucanase-polysaccharide interactions: molecular dynamics of the enzyme-substrate complex with or without a polysaccharide ligand bound in the flexible enzyme loops",
+      "authors": "Moura Tamames, SA, Ramos, MJ, Fernades, PA",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584206"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687190",
+      "title": "Gas-phase geometry optimization of biological molecules as a reasonable alternative to a continuum environment description: Fact, myth, or fiction?",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry A",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp902213t",
+      "placeholder": false,
+      "doi": "10.1021/jp902213t",
+      "orcidKeys": [
+        "doi:10.1021/jp902213t"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687196",
+      "title": "Glutathione transferase A1-1: Catalytic role of water",
+      "authors": "Dourado, D.F.A.R., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-009-0582-4",
+      "placeholder": false,
+      "doi": "10.1007/s00214-009-0582-4",
+      "orcidKeys": [
+        "doi:10.1007/s00214-009-0582-4"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584207",
+      "title": "HIV-1 Protease: a computational mutagenesis analysis of the monomers interface",
+      "authors": "Tamames, B, Fernandes, PA, Ramos, MJ",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2748-4722",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:177584207"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687202",
+      "title": "MADAMM: A multistaged docking with an automated molecular modeling protocol",
+      "authors": "Cerqueira, N.M.F.S.A., Bras, N.F., Fernandes, P.A., Ramos, M.J. · Proteins: Structure, Function and Bioinformatics",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/prot.22146",
+      "placeholder": false,
+      "doi": "10.1002/prot.22146",
+      "orcidKeys": [
+        "doi:10.1002/prot.22146"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687197",
+      "title": "Modelling β-1,3-exoglucanase-saccharide interactions: Structure of the enzyme-substrate complex and enzyme binding to the cell wall",
+      "authors": "Moura-Tamames, S.A., Ramos, M.J., Fernandes, P.A. · Journal of Molecular Graphics and Modelling",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jmgm.2009.01.007",
+      "placeholder": false,
+      "doi": "10.1016/j.jmgm.2009.01.007",
+      "orcidKeys": [
+        "doi:10.1016/j.jmgm.2009.01.007"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687198",
+      "title": "Molecular dynamics simulations on the critical states of the farnesyltransferase enzyme",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Bioorganic and Medicinal Chemistry",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.bmc.2009.03.055",
+      "placeholder": false,
+      "doi": "10.1016/j.bmc.2009.03.055",
+      "orcidKeys": [
+        "doi:10.1016/j.bmc.2009.03.055"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687195",
+      "title": "Recent advances on computational proteomics",
+      "authors": "Sousa, S.F., Cerqueira, N.M.F.S.A., Perez, M.A.S., Moreira, I.S., Ribeiro, A.J.M., Neves, A.R.A.P., Ramos, M.J., Fernandes, P.A. · World Academy of Science, Engineering and Technology",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-78651571830&partnerID=MN8TOARS",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:17687195"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687200",
+      "title": "Role of the variable active site residues in the function of thioredoxin family oxidoreductases",
+      "authors": "Carvalho, A.T.P., Fernandes, P.A., Swart, M., Van Stralen, J.N.P., Bickelhaupt, F.M., Ramos, M.J. · Journal of Computational Chemistry",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.21086",
+      "placeholder": false,
+      "doi": "10.1002/jcc.21086",
+      "orcidKeys": [
+        "doi:10.1002/jcc.21086"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168592",
+      "title": "Synthesis and structural characterization of two diasteroisomers of vinylcatechin dimers",
+      "authors": "Cruz, L., Brás, N.F., Teixeira, N., Fernandes, A.N.A., Mateus, N., Ramos, M.J., Rodríguez-Borges, J., De Freitas, V. · Journal of Agricultural and Food Chemistry",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jf901608n",
+      "placeholder": false,
+      "doi": "10.1021/jf901608n",
+      "orcidKeys": [
+        "doi:10.1021/jf901608n"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687199",
+      "title": "The search for the mechanism of the reaction catalyzed by farnesyltransferase",
+      "authors": "Sousa, S.F., Fernandes, P.A., Rãmos, M.J. · Chemistry - A European Journal",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.200802745",
+      "placeholder": false,
+      "doi": "10.1002/chem.200802745",
+      "orcidKeys": [
+        "doi:10.1002/chem.200802745"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687193",
+      "title": "The Zinc proteome: A tale of stability and functionality",
+      "authors": "Sousa, S.F., Lopes, A.B., Fernandes, P.A., Ramos, M.J. · Dalton Transactions",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/b904404c",
+      "placeholder": false,
+      "doi": "10.1039/b904404c",
+      "orcidKeys": [
+        "doi:10.1039/b904404c"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687192",
+      "title": "Virtual screening of compound libraries.",
+      "authors": "Cerqueira, N.M., Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Methods in molecular biology (Clifton, N.J.)",
+      "year": "2009",
+      "publicationDate": "2009",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/978-1-60761-244-5_4",
+      "placeholder": false,
+      "doi": "10.1007/978-1-60761-244-5_4",
+      "orcidKeys": [
+        "doi:10.1007/978-1-60761-244-5_4"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687208",
+      "title": "Carbohydrate-binding modules from family 11: Understanding the binding mode of polysaccharides",
+      "authors": "Brás, N.F., Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · International Journal of Quantum Chemistry",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.21755",
+      "placeholder": false,
+      "doi": "10.1002/qua.21755",
+      "orcidKeys": [
+        "doi:10.1002/qua.21755"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687213",
+      "title": "Computational enzymatic catalysis",
+      "authors": "Ramos, M.J., Fernandes, P.A. · Accounts of Chemical Research",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ar7001045",
+      "placeholder": false,
+      "doi": "10.1021/ar7001045",
+      "orcidKeys": [
+        "doi:10.1021/ar7001045"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687206",
+      "title": "Computational optimization of AG18051 inhibitor for amyloid-β binding alcohol dehydrogenase enzyme",
+      "authors": "Marques, A.T., Antunes, A., Fernandes, P.A., Ramos, M.J. · International Journal of Quantum Chemistry",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.21716",
+      "placeholder": false,
+      "doi": "10.1002/qua.21716",
+      "orcidKeys": [
+        "doi:10.1002/qua.21716"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687210",
+      "title": "Enzyme flexibility and the catalytic mechanism of farnesyltransferase: Targeting the relation",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp711214j",
+      "placeholder": false,
+      "doi": "10.1021/jp711214j",
+      "orcidKeys": [
+        "doi:10.1021/jp711214j"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687212",
+      "title": "Farnesyltransferase inhibitors: A detailed chemical view on an elusive biological problem",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Current Medicinal Chemistry",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/092986708784638825",
+      "placeholder": false,
+      "doi": "10.2174/092986708784638825",
+      "orcidKeys": [
+        "doi:10.2174/092986708784638825"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687205",
+      "title": "Glutathione transferase: New model for glutathione activation",
+      "authors": "Dourado, D.F.A.R., Fernandes, P.A., Mannervik, B., Ramos, M.J. · Chemistry - A European Journal",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.200800946",
+      "placeholder": false,
+      "doi": "10.1002/chem.200800946",
+      "orcidKeys": [
+        "doi:10.1002/chem.200800946"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687209",
+      "title": "Mammalian cytosolic glutathione transferases",
+      "authors": "Dourado, D.F.A.R., Fernandes, P.A., Ramos, M.J. · Current Protein and Peptide Science",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/138920308785132677",
+      "placeholder": false,
+      "doi": "10.2174/138920308785132677",
+      "orcidKeys": [
+        "doi:10.2174/138920308785132677"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687216",
+      "title": "Mechanism of thioredoxin-catalyzed disulfide reduction. Activation of the buried Thiol and role of the variable active-site residues",
+      "authors": "Carvalho, A.T.P., Swart, M., Van Stralen, J.N.P., Fernandes, P.A., Ramos, M.J., Bickelhaupt, F.M. · Journal of Physical Chemistry B",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp7104665",
+      "placeholder": false,
+      "doi": "10.1021/jp7104665",
+      "orcidKeys": [
+        "doi:10.1021/jp7104665"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687203",
+      "title": "Mechanistic studies on the formation of glycosidase-substrate and glycosidase-inhibitor covalent intermediates",
+      "authors": "Brás, N.F., Moura-Tamames, S.A., Fernandes, P.A., Ramos, M.J. · Journal of Computational Chemistry",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.21013",
+      "placeholder": false,
+      "doi": "10.1002/jcc.21013",
+      "orcidKeys": [
+        "doi:10.1002/jcc.21013"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687214",
+      "title": "Molecular determinants of ligand specificity in family 11 carbohydrate binding modules - An NMR, X-ray crystallography and computational chemistry approach",
+      "authors": "Viegas, A., Brás, N.F., Cerqueira, N.M.F.S.A., Fernandes, P.A., Prates, J.A.M., Fontes, C.M.G.A., Bruix, M., Romão, M.J., Carvalho, A.L., Ramos, M.J., Macedo, A.L., Cabrita, E.J. · FEBS Journal",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1111/j.1742-4658.2008.06401.x",
+      "placeholder": false,
+      "doi": "10.1111/j.1742-4658.2008.06401.x",
+      "orcidKeys": [
+        "doi:10.1111/j.1742-4658.2008.06401.x"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687207",
+      "title": "Molecular dynamics analysis of farnesyltransferase: A closer look into the amino acid behavior",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · International Journal of Quantum Chemistry",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.21713",
+      "placeholder": false,
+      "doi": "10.1002/qua.21713",
+      "orcidKeys": [
+        "doi:10.1002/qua.21713"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687204",
+      "title": "Molecular dynamics simulations of the amyloid-beta binding alcohol dehydrogenase (ABAD) enzyme",
+      "authors": "Marques, A.T., Fernandes, P.A., Ramos, M.J. · Bioorganic and Medicinal Chemistry",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.bmc.2008.09.043",
+      "placeholder": false,
+      "doi": "10.1016/j.bmc.2008.09.043",
+      "orcidKeys": [
+        "doi:10.1016/j.bmc.2008.09.043"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687211",
+      "title": "Protein-protein recognition: A computational mutagenesis study of the MDM2-P53 complex",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-008-0432-9",
+      "placeholder": false,
+      "doi": "10.1007/s00214-008-0432-9",
+      "orcidKeys": [
+        "doi:10.1007/s00214-008-0432-9"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687215",
+      "title": "The current status of the NNRTI family of antiretrovirals used in the HAART regime against HIV infection",
+      "authors": "Martins, S., Ramos, M.J., Fernandes, P.A. · Current Medicinal Chemistry",
+      "year": "2008",
+      "publicationDate": "2008",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/092986708784221467",
+      "placeholder": false,
+      "doi": "10.2174/092986708784221467",
+      "orcidKeys": [
+        "doi:10.2174/092986708784221467"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687217",
+      "title": "Analysis of zinc-ligand bond lengths in metalloproteins: Trends and patterns",
+      "authors": "Tamames, B., Sousa, S.F., Tamames, J., Fernandes, P.A., Ramos, M.J. · Proteins: Structure, Function and Genetics",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/prot.21536",
+      "placeholder": false,
+      "doi": "10.1002/prot.21536",
+      "orcidKeys": [
+        "doi:10.1002/prot.21536"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687224",
+      "title": "Backbone importance for protein-protein binding",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Journal of Chemical Theory and Computation",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ct6003824",
+      "placeholder": false,
+      "doi": "10.1021/ct6003824",
+      "orcidKeys": [
+        "doi:10.1021/ct6003824"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687223",
+      "title": "Comparative assessment of theoretical methods for the determination of geometrical properties in biological zinc complexes",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp072538y",
+      "placeholder": false,
+      "doi": "10.1021/jp072538y",
+      "orcidKeys": [
+        "doi:10.1021/jp072538y"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687229",
+      "title": "Computational alanine scanning mutagenesis - An improved methodological approach",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Journal of Computational Chemistry",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.20566",
+      "placeholder": false,
+      "doi": "10.1002/jcc.20566",
+      "orcidKeys": [
+        "doi:10.1002/jcc.20566"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168579",
+      "title": "Computational Determination of the Relative Free Energy of Binding – Application to Alanine Scanning Mutagenesis",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Challenges and Advances in Computational Chemistry and Physics",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/1-4020-5372-x_6",
+      "placeholder": false,
+      "doi": "10.1007/1-4020-5372-x_6",
+      "orcidKeys": [
+        "doi:10.1007/1-4020-5372-x_6"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687221",
+      "title": "Drug design: New inhibitors for HIV-1 protease based on Nelfinavir as lead",
+      "authors": "Perez, M.A.S., Fernandes, P.A., Ramos, M.J. · Journal of Molecular Graphics and Modelling",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jmgm.2007.03.009",
+      "placeholder": false,
+      "doi": "10.1016/j.jmgm.2007.03.009",
+      "orcidKeys": [
+        "doi:10.1016/j.jmgm.2007.03.009"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687232",
+      "title": "Effective tailor-made force field parameterization of the several Zn coordination environments in the puzzling FTase enzyme: Opening the door to the full understanding of its elusive catalytic mechanism",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-006-0170-9",
+      "placeholder": false,
+      "doi": "10.1007/s00214-006-0170-9",
+      "orcidKeys": [
+        "doi:10.1007/s00214-006-0170-9"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687218",
+      "title": "General performance of density functionals",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry A",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp0734474",
+      "placeholder": false,
+      "doi": "10.1021/jp0734474",
+      "orcidKeys": [
+        "doi:10.1021/jp0734474"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687231",
+      "title": "Hot spot computational identification: Application to the complex formed between the hen egg white lysozyme (HEL) and the antibody HyHEL-10",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · International Journal of Quantum Chemistry",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.21193",
+      "placeholder": false,
+      "doi": "10.1002/qua.21193",
+      "orcidKeys": [
+        "doi:10.1002/qua.21193"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687226",
+      "title": "Hot spot occlusion from bulk water: A comprehensive study of the complex between the lysozyme HEL and the antibody FVD1.3",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp067096p",
+      "placeholder": false,
+      "doi": "10.1021/jp067096p",
+      "orcidKeys": [
+        "doi:10.1021/jp067096p"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687222",
+      "title": "Hot spots - A review of the protein-protein interface determinant amino-acid residues",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Proteins: Structure, Function and Genetics",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/prot.21396",
+      "placeholder": false,
+      "doi": "10.1002/prot.21396",
+      "orcidKeys": [
+        "doi:10.1002/prot.21396"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687230",
+      "title": "Parameterization of AZT - A widely used nucleoside inhibitor of HIV-1 reverse transcriptase",
+      "authors": "Carvalho, A.T.P., Fernandes, P.A., Ramos, M.J. · International Journal of Quantum Chemistry",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/qua.21192",
+      "placeholder": false,
+      "doi": "10.1002/qua.21192",
+      "orcidKeys": [
+        "doi:10.1002/qua.21192"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687233",
+      "title": "Ribonucleotide reductase: A critical enzyme for cancer chemotherapy and antiviral agents",
+      "authors": "Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Recent Patents on Anti-Cancer Drug Discovery",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/157489207779561408",
+      "placeholder": false,
+      "doi": "10.2174/157489207779561408",
+      "orcidKeys": [
+        "doi:10.2174/157489207779561408"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687228",
+      "title": "The carboxylate shift in zinc enzymes: A computational study",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Journal of the American Chemical Society",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ja067103n",
+      "placeholder": false,
+      "doi": "10.1021/ja067103n",
+      "orcidKeys": [
+        "doi:10.1021/ja067103n"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687220",
+      "title": "The excision mechanism in reverse transcriptase: Pyrophosphate leaving and fingers opening are uncoupled events with the analogues AZT and d4T",
+      "authors": "Carvalho, A.T.P., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp0746594",
+      "placeholder": false,
+      "doi": "10.1021/jp0746594",
+      "orcidKeys": [
+        "doi:10.1021/jp0746594"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687225",
+      "title": "Theoretical studies on farnesyltransferase: Evidence for thioether product coordination to the active-site zinc sphere",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Journal of Computational Chemistry",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.20577",
+      "placeholder": false,
+      "doi": "10.1002/jcc.20577",
+      "orcidKeys": [
+        "doi:10.1002/jcc.20577"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687234",
+      "title": "Theoretical studies on farnesyltransferase: The distances paradox explained",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Proteins: Structure, Function and Genetics",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/prot.21219",
+      "placeholder": false,
+      "doi": "10.1002/prot.21219",
+      "orcidKeys": [
+        "doi:10.1002/prot.21219"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687219",
+      "title": "Understanding ribonucleotide reductase inactivation by gemcitabine",
+      "authors": "Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Chemistry - A European Journal",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.200700260",
+      "placeholder": false,
+      "doi": "10.1002/chem.200700260",
+      "orcidKeys": [
+        "doi:10.1002/chem.200700260"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687235",
+      "title": "Unravelling hot spots: A comprehensive computational mutagenesis study",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-006-0151-z",
+      "placeholder": false,
+      "doi": "10.1007/s00214-006-0151-z",
+      "orcidKeys": [
+        "doi:10.1007/s00214-006-0151-z"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687227",
+      "title": "Vascular endothelial growth factor (VEGF) inhibition - A critical review",
+      "authors": "Sousa Moreira, I., Fernandes, P.A., Ramos, M.J. · Anti-Cancer Agents in Medicinal Chemistry",
+      "year": "2007",
+      "publicationDate": "2007",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/187152007780058687",
+      "placeholder": false,
+      "doi": "10.2174/187152007780058687",
+      "orcidKeys": [
+        "doi:10.2174/187152007780058687"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687249",
+      "title": "Atomic-level rational drug design",
+      "authors": "Ramos, M.J., Fernandes, P.A. · Current Computer-Aided Drug Design",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/157340906776056464",
+      "placeholder": false,
+      "doi": "10.2174/157340906776056464",
+      "orcidKeys": [
+        "doi:10.2174/157340906776056464"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687241",
+      "title": "Comparative evolutionary genomics of the HADH2 gene encoding Aβ-binding alcohol dehydrogenase/17β-hydroxysteroid dehydrogenase type 10 (ABAD/HSD10)",
+      "authors": "Marques, A.T., Antunes, A., Fernandes, P.A., Ramos, M.J. · BMC Genomics",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1186/1471-2164-7-202",
+      "placeholder": false,
+      "doi": "10.1186/1471-2164-7-202",
+      "orcidKeys": [
+        "doi:10.1186/1471-2164-7-202"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687252",
+      "title": "Computational studies on class I ribonucleotide reductase: Understanding the mechanisms of action and inhibition of a cornerstone enzyme for the treatment of cancer",
+      "authors": "Pereira, S., Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · European Biophysics Journal",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00249-005-0026-6",
+      "placeholder": false,
+      "doi": "10.1007/s00249-005-0026-6",
+      "orcidKeys": [
+        "doi:10.1007/s00249-005-0026-6"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687251",
+      "title": "Cu, Zn Superoxide dismutase: Distorted active site binds substrate without significant energetic cost",
+      "authors": "Branco, R.J.F., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-005-0672-x",
+      "placeholder": false,
+      "doi": "10.1007/s00214-005-0672-x",
+      "orcidKeys": [
+        "doi:10.1007/s00214-005-0672-x"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687250",
+      "title": "Dehydration of ribonucleotides catalyzed by ribonucleotide reductase: The role of the enzyme",
+      "authors": "Cerqueira, N.M.F.S.A., Fernandes, P.A., Eriksson, L.A., Ramos, M.J. · Biophysical Journal",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1529/biophysj.104.054627",
+      "placeholder": false,
+      "doi": "10.1529/biophysj.104.054627",
+      "orcidKeys": [
+        "doi:10.1529/biophysj.104.054627"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687245",
+      "title": "Detailed microscopic study of the full ZipA:FtsZ interface",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Proteins: Structure, Function and Genetics",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/prot.20944",
+      "placeholder": false,
+      "doi": "10.1002/prot.20944",
+      "orcidKeys": [
+        "doi:10.1002/prot.20944"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687246",
+      "title": "Determination of the ΔpKa between the active site cysteines of thioredoxin and DsbA",
+      "authors": "Carvalho, A.T.P., Fernandes, P.A., Ramos, M.J. · Journal of Computational Chemistry",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.20404",
+      "placeholder": false,
+      "doi": "10.1002/jcc.20404",
+      "orcidKeys": [
+        "doi:10.1002/jcc.20404"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687237",
+      "title": "Enzyme ribonucleotide reductase: Unraveling an enigmatic paradigm of enzyme inhibition by furanone derivatives",
+      "authors": "Cerqueira, N.M.F.S.A., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp0608269",
+      "placeholder": false,
+      "doi": "10.1021/jp0608269",
+      "orcidKeys": [
+        "doi:10.1021/jp0608269"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687236",
+      "title": "Insights on resistance to reverse transcriptase: The different patterns of interaction of the nucleoside reverse transcriptase inhibitors in the deoxyribonucleotide triphosphate binding site relative to the normal substrate",
+      "authors": "Carvalho, A.T.P., Fernandes, P.A., Ramos, M.J. · Journal of Medicinal Chemistry",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jm060698c",
+      "placeholder": false,
+      "doi": "10.1021/jm060698c",
+      "orcidKeys": [
+        "doi:10.1021/jm060698c"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687242",
+      "title": "Lead optimisation: Improving the affinity of the antiretrovirals nelfinavir and amprenavir for HIV-1 protease",
+      "authors": "Fernandes, P.A., Araújo, M.L.A.C., Barbosa, A.J.M., Alves, C.N., Ferreira, Z.Q., Gonzalez, C.R.-N., Lima, C.F.R.A.C., Loureiro, S.I.E., Magalhães, J.M.T., Maia, F.C., Moura, S.A., Peredo, E.M.M., Perez, M.A.S., Rodrigues, T.A.Q., Pessoa, A.M., Da Silva, C.A.M., Da Silva, J.P.A., Ramos, M.J. · Letters in Drug Design and Discovery",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/157018006777805576",
+      "placeholder": false,
+      "doi": "10.2174/157018006777805576",
+      "orcidKeys": [
+        "doi:10.2174/157018006777805576"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687239",
+      "title": "Molecular dynamics model of unliganded HIV-1 reverse transcriptase",
+      "authors": "Carvalho, A.T.P., Fernandes, P.A., Ramos, M.J. · Medicinal Chemistry",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/157340606778250270",
+      "placeholder": false,
+      "doi": "10.2174/157340606778250270",
+      "orcidKeys": [
+        "doi:10.2174/157340606778250270"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687240",
+      "title": "Molecular dynamics simulations of the enzyme Cu, Zn superoxide dismutase",
+      "authors": "Branco, R.J.F., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp056855l",
+      "placeholder": false,
+      "doi": "10.1021/jp056855l",
+      "orcidKeys": [
+        "doi:10.1021/jp056855l"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687247",
+      "title": "Molecular insights into the mechanisms of HIV-1 reverse transcriptase resistance to nucleoside analogs",
+      "authors": "Carvalho, A.P., Fernandes, P.A., Ramos, M.J. · Mini-Reviews in Medicinal Chemistry",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/138955706776876276",
+      "placeholder": false,
+      "doi": "10.2174/138955706776876276",
+      "orcidKeys": [
+        "doi:10.2174/138955706776876276"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687238",
+      "title": "Protein-ligand docking: Current status and future challenges",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Proteins: Structure, Function and Genetics",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/prot.21082",
+      "placeholder": false,
+      "doi": "10.1002/prot.21082",
+      "orcidKeys": [
+        "doi:10.1002/prot.21082"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687243",
+      "title": "Similarities and differences in the thioredoxin superfamily",
+      "authors": "Carvalho, A.P., Fernandes, P.A., Ramos, M.J. · Progress in Biophysics and Molecular Biology",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.pbiomolbio.2005.06.012",
+      "placeholder": false,
+      "doi": "10.1016/j.pbiomolbio.2005.06.012",
+      "orcidKeys": [
+        "doi:10.1016/j.pbiomolbio.2005.06.012"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687248",
+      "title": "Theoretical study of the unusual protonation properties of the active site cysteines in thioredoxin",
+      "authors": "Carvalho, A.T.P., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp053275f",
+      "placeholder": false,
+      "doi": "10.1021/jp053275f",
+      "orcidKeys": [
+        "doi:10.1021/jp053275f"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687244",
+      "title": "Unraveling the importance of protein-protein interaction: Application of a computational alanine-scanning mutagenesis to the study of the IgG1 streptococcal protein G (C2 Fragment) complex",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Journal of Physical Chemistry B",
+      "year": "2006",
+      "publicationDate": "2006",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp054760d",
+      "placeholder": false,
+      "doi": "10.1021/jp054760d",
+      "orcidKeys": [
+        "doi:10.1021/jp054760d"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687256",
+      "title": "Accuracy of the numerical solution of the Poisson-Boltzmann equation",
+      "authors": "Moreira, I.S., Fernandes, P.A., Ramos, M.J. · Journal of Molecular Structure: THEOCHEM",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.theochem.2004.12.049",
+      "placeholder": false,
+      "doi": "10.1016/j.theochem.2004.12.049",
+      "orcidKeys": [
+        "doi:10.1016/j.theochem.2004.12.049"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687257",
+      "title": "Computer modeling and research in the classroom",
+      "authors": "Ramos, M.J., Fernandes, P.A. · Journal of Chemical Education",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "http://www.scopus.com/inward/record.url?eid=2-s2.0-21244459676&partnerID=MN8TOARS",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:17687257"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687255",
+      "title": "Density-functional calculations of the Cu, Zn superoxide dismutase redox potential: The influence of active site distortion",
+      "authors": "Branco, R.J.F., Fernandes, P.A., Ramos, M.J. · Journal of Molecular Structure: THEOCHEM",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.theochem.2004.12.046",
+      "placeholder": false,
+      "doi": "10.1016/j.theochem.2004.12.046",
+      "orcidKeys": [
+        "doi:10.1016/j.theochem.2004.12.046"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584208",
+      "title": "Enzyme Ribonucleotide Reductase. The Paradigm of Enzyme Inhibition by Furanone Derivatives",
+      "authors": "Cerqueira, NMFSA, Fernandes, PA, Ramos, MJ",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1107/s0108767305079511",
+      "placeholder": false,
+      "doi": "10.1107/s0108767305079511",
+      "orcidKeys": [
+        "doi:10.1107/s0108767305079511"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687262",
+      "title": "Farnesyltransferase - New insights into the zinc-coordination sphere paradigm: Evidence for a carboxylate-shift mechanism",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Biophysical Journal",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1529/biophysj.104.048207",
+      "placeholder": false,
+      "doi": "10.1529/biophysj.104.048207",
+      "orcidKeys": [
+        "doi:10.1529/biophysj.104.048207"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687253",
+      "title": "Farnesyltransferase: Theoretical studies on peptide substrate entrance - Thiol or thiolate coordination?",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Journal of Molecular Structure: THEOCHEM",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.theochem.2005.03.022",
+      "placeholder": false,
+      "doi": "10.1016/j.theochem.2005.03.022",
+      "orcidKeys": [
+        "doi:10.1016/j.theochem.2005.03.022"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687254",
+      "title": "Foreword",
+      "authors": "Ramos, M.J., Magalhães, A.L., Melo, A.S., Fernandes, P.A. · Journal of Molecular Structure: THEOCHEM",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.theochem.2005.04.028",
+      "placeholder": false,
+      "doi": "10.1016/j.theochem.2005.04.028",
+      "orcidKeys": [
+        "doi:10.1016/j.theochem.2005.04.028"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687259",
+      "title": "New designs for inhibitors of the NF-κB: DNA binding",
+      "authors": "Fernandes, P.A., Henriques, E.S., Pande, V., Ramos, M.J., Maia, A.R.R., Almeida, A.A.S., Silva, B.F.B., Ribeiro, C.M.S., Ribeiro, C.F.B., Ribeiro, D.S.M., Fonseca, D.A.P., Cunha, E.M.S., Maia, F.R.N.C., Pereira, J.A.A., Pacheco, J.P.G., Ferreira, J.A.A.D., Matos, L.R.C., Pinto, M.A.B.P., Borges, M.C.S., Magalhães, P.J.C.R., Teixeira, P.F.R.D., Veloso, P.N.B.C., Ferreira, R.J.F., Gomes, S.S., Barros, T.F., Selão, T.S.J.T., Fernandes, V.M.M.C. · Theoretical Chemistry Accounts",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-005-0628-1",
+      "placeholder": false,
+      "doi": "10.1007/s00214-005-0628-1",
+      "orcidKeys": [
+        "doi:10.1007/s00214-005-0628-1"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687258",
+      "title": "Overview of ribonucleotide reductase inhibitors: An appealing target in anti-tumour therapy",
+      "authors": "Cerqueira, N.M.F.S.A., Pereira, S., Fernandes, P.A., Ramos, M.J. · Current Medicinal Chemistry",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.2174/0929867054020981",
+      "placeholder": false,
+      "doi": "10.2174/0929867054020981",
+      "orcidKeys": [
+        "doi:10.2174/0929867054020981"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687260",
+      "title": "Theoretical study on the inhibition of ribonucleotide reductase by 2′-mercapto-2′-deoxyribonucleoside-5′-diphosphates",
+      "authors": "Pereira, S., Fernandes, P.A., Ramos, M.J. · Journal of the American Chemical Society",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ja046662w",
+      "placeholder": false,
+      "doi": "10.1021/ja046662w",
+      "orcidKeys": [
+        "doi:10.1021/ja046662w"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687261",
+      "title": "Unraveling the mechanism of the farnesyltransferase enzyme",
+      "authors": "Sousa, S.F., Fernandes, P.A., Ramos, M.J. · Journal of Biological Inorganic Chemistry",
+      "year": "2005",
+      "publicationDate": "2005",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00775-004-0612-6",
+      "placeholder": false,
+      "doi": "10.1007/s00775-004-0612-6",
+      "orcidKeys": [
+        "doi:10.1007/s00775-004-0612-6"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687265",
+      "title": "Design of 2-cyclopentenone derivatives with enhanced NF-κB: DNA binding inhibitory properties",
+      "authors": "Fernandes, P.A., Cruz, A.I.S., Maia, A.R.R., Almeida, A.A.S., Da Silva, A.M.N., Silva, B.F.B., Ribeiro, C.M.S., Ribeiro, C.F.B., Cunha, E.M.S., Maia, F.R.N.C., Tedim, J.A.C., Ferreira, J.A.A.D., Gomes, L.C., Matos, L.R.C., Cruz, L.M.N.F.S., Pinto, M.A.B.P., Da Encarnação, M.A.R., Teixeira, P.F.R.D., Seixas, R.S.G.R., Da Quinta, R.J.A.L., Gomes, S.S., Patrício, S.G., Martins, S.D.S., Barros, T.F., Selão, T.S.J.T., Pande, V., Ramos, M.J. · Journal of Molecular Structure: THEOCHEM",
+      "year": "2004",
+      "publicationDate": "2004",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.theochem.2004.06.027",
+      "placeholder": false,
+      "doi": "10.1016/j.theochem.2004.06.027",
+      "orcidKeys": [
+        "doi:10.1016/j.theochem.2004.06.027"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687266",
+      "title": "Mechanism for ribonucleotide reductase inactivation by the anticancer drug gemcitabine",
+      "authors": "Pereira, S., Fernandes, P.A., Ramos, M.J. · Journal of Computational Chemistry",
+      "year": "2004",
+      "publicationDate": "2004",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.20054",
+      "placeholder": false,
+      "doi": "10.1002/jcc.20054",
+      "orcidKeys": [
+        "doi:10.1002/jcc.20054"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45583314",
+      "title": "Modeling chemical and biological systems: A successful course for undergraduate students",
+      "authors": "Ramos, M. J., Fernandes, P. A., Melo, A. · Journal of Chemical Education",
+      "year": "2004",
+      "publicationDate": "2004",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ed081p72",
+      "placeholder": false,
+      "doi": "10.1021/ed081p72",
+      "orcidKeys": [
+        "doi:10.1021/ed081p72"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687264",
+      "title": "New insights into a critical biological control step of the mechanism of Ribonucleotide reductase",
+      "authors": "Cerqueira, N.M.F.S.A., Fernandes, P.A., Eriksson, L.A., Ramos, M.J. · Journal of Molecular Structure: THEOCHEM",
+      "year": "2004",
+      "publicationDate": "2004",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.theochem.2003.10.073",
+      "placeholder": false,
+      "doi": "10.1016/j.theochem.2003.10.073",
+      "orcidKeys": [
+        "doi:10.1016/j.theochem.2003.10.073"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687263",
+      "title": "Ribonucleotide activation by enzyme Ribonucleotide Reductase: Understanding the role of the enzyme",
+      "authors": "Cerqueira, N.M.F.S.A., Fernandes, P.A., Eriksson, L.A., Ramos, M.J. · Journal of Computational Chemistry",
+      "year": "2004",
+      "publicationDate": "2004",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.20127",
+      "placeholder": false,
+      "doi": "10.1002/jcc.20127",
+      "orcidKeys": [
+        "doi:10.1002/jcc.20127"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687268",
+      "title": "Theoretical Insights into the Mechanism for Thiol/Disulfide Exchange",
+      "authors": "Fernandes, P.A., Ramos, M.J. · Chemistry - A European Journal",
+      "year": "2004",
+      "publicationDate": "2004",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.200305343",
+      "placeholder": false,
+      "doi": "10.1002/chem.200305343",
+      "orcidKeys": [
+        "doi:10.1002/chem.200305343"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687267",
+      "title": "Theoretical Study of Ribonucleotide Reductase Mechanism-Based Inhibition by 2′-Azido-2′-Deoxyribonucleoside 5′-Diphosphates",
+      "authors": "Pereira, S., Fernandes, P.A., Ramos, M.J. · Journal of Computational Chemistry",
+      "year": "2004",
+      "publicationDate": "2004",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/jcc.10375",
+      "placeholder": false,
+      "doi": "10.1002/jcc.10375",
+      "orcidKeys": [
+        "doi:10.1002/jcc.10375"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687271",
+      "title": "A theoretical study of radical-only and combined radical/carbocationic mechanisms of arachidonic acid cyclooxygenation by prostaglandin H synthase",
+      "authors": "Silva, P.J., Fernandes, P.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2003",
+      "publicationDate": "2003",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-003-0476-9",
+      "placeholder": false,
+      "doi": "10.1007/s00214-003-0476-9",
+      "orcidKeys": [
+        "doi:10.1007/s00214-003-0476-9"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687272",
+      "title": "New designs for MRI contrast agents",
+      "authors": "Fernandes, P.A., Carvalho, A.T.P., Marques, A.T., Pereira, A.L.F., Madeira, A.P.S., Ribeiro, A.S.P., Carvalho, A.F.R., Ricardo, E.T.A., Pinto, F.J.V., Santos, H.A., Mangericão, H.D.G., Martins, H.M., Pinto, H.D.B., Santos, H.R.R., Moreira, I.S., Azeredo, M.J.V., Abreu, R.P.S., Oliveira, R.M.S., Sousa, S.F.M., Silva, R.J.A.M., Mourão, Z.S., Ramos, M.J. · Journal of Computer-Aided Molecular Design",
+      "year": "2003",
+      "publicationDate": "2003",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1023/a:1027347527385",
+      "placeholder": false,
+      "doi": "10.1023/a:1027347527385",
+      "orcidKeys": [
+        "doi:10.1023/a:1027347527385"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45583321",
+      "title": "Pyruvate formate lyase: A new perspective",
+      "authors": "Lucas, M. D., Fernandes, P. A., Eriksson, L. A., Ramos, M. J. · Journal of Physical Chemistry B",
+      "year": "2003",
+      "publicationDate": "2003",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp0223096",
+      "placeholder": false,
+      "doi": "10.1021/jp0223096",
+      "orcidKeys": [
+        "doi:10.1021/jp0223096"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687274",
+      "title": "Theoretical studies on the mechanism of inhibition of ribonucleotide reductase by (E)-2′-fluoromethylene-2′-deoxycitidine-5′-diphosphate",
+      "authors": "Fernandes, P.A., Ramos, M.J. · Journal of the American Chemical Society",
+      "year": "2003",
+      "publicationDate": "2003",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/ja0208613",
+      "placeholder": false,
+      "doi": "10.1021/ja0208613",
+      "orcidKeys": [
+        "doi:10.1021/ja0208613"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687270",
+      "title": "Theoretical Studies on the Mode of Inhibition of Ribonucleotide Reductase by 2′-Substituted Substrate Analogues",
+      "authors": "Fernandes, P.A., Ramos, M.J. · Chemistry - A European Journal",
+      "year": "2003",
+      "publicationDate": "2003",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/chem.200304948",
+      "placeholder": false,
+      "doi": "10.1002/chem.200304948",
+      "orcidKeys": [
+        "doi:10.1002/chem.200304948"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687275",
+      "title": "The reduction of ribonucleotides catalyzed by the enzyme ribonucleotide reductase",
+      "authors": "Fernandes, P.A., Eriksson, L.A., Ramos, M.J. · Theoretical Chemistry Accounts",
+      "year": "2002",
+      "publicationDate": "2002",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1007/s00214-002-0393-3",
+      "placeholder": false,
+      "doi": "10.1007/s00214-002-0393-3",
+      "orcidKeys": [
+        "doi:10.1007/s00214-002-0393-3"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45583325",
+      "title": "Molecular simulation of the interface between two immiscible electrolyte solutions",
+      "authors": "Fernandes, P. A., Cordeiro, Mnds, Gomes, Janf · Journal of Physical Chemistry B",
+      "year": "2001",
+      "publicationDate": "2001",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp002571j",
+      "placeholder": false,
+      "doi": "10.1021/jp002571j",
+      "orcidKeys": [
+        "doi:10.1021/jp002571j"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-177584209",
+      "title": "Flocculation of Saccharomyces cerevisiae is induced by transformation with the GAP1 gene from Kluyveromyces marxianus",
+      "authors": "Falcao Moreira, R, Ferreira Da Silva, F, Fernandes, PA, Moradas Ferreira, P · YEAST",
+      "year": "2000",
+      "publicationDate": "2000",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/(sici)1097-0061(200002)16:3<231::aid-yea530>3.0.co;2-c",
+      "placeholder": false,
+      "doi": "10.1002/(sici)1097-0061(200002)16:3<231::aid-yea530>3.0.co;2-c",
+      "orcidKeys": [
+        "doi:10.1002/(sici)1097-0061(200002)16:3<231::aid-yea530>3.0.co;2-c"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687277",
+      "title": "Influence of Ion Size and Charge in Ion Transfer Processes Across a Liquid|Liquid Interface",
+      "authors": "Fernandes, P.A., Natália, M., Cordeiro, D.S., Gomes, J.A.N.F. · Journal of Physical Chemistry B",
+      "year": "2000",
+      "publicationDate": "2000",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp993045z",
+      "placeholder": false,
+      "doi": "10.1021/jp993045z",
+      "orcidKeys": [
+        "doi:10.1021/jp993045z"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-45583327",
+      "title": "Simulation of liquid/liquid interfaces and ion transfer",
+      "authors": "Gomes, Janf, Fernandes, P. A., Natalia, M., Cordeiro, D. S. · Abstracts of Papers of the American Chemical Society",
+      "year": "2000",
+      "publicationDate": "2000",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "http://gateway.webofknowledge.com/gateway/Gateway.cgi?GWVersion=2&SrcAuth=ORCID&SrcApp=OrcidOrg&DestLinkType=FullRecord&DestApp=WOS_CPL&KeyUT=WOS:000166091201182&KeyUID=WOS:000166091201182",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:45583327"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687281",
+      "title": "Molecular dynamics simulation of liquid 2-heptanone, pure and saturated with water",
+      "authors": "Fernandes, P.A., Cordeiro, M.N.D.S., Gomes, J.A.N.F. · Journal of Physical Chemistry B",
+      "year": "1999",
+      "publicationDate": "1999",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp983170v",
+      "placeholder": false,
+      "doi": "10.1021/jp983170v",
+      "orcidKeys": [
+        "doi:10.1021/jp983170v"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687280",
+      "title": "Molecular dynamics simulation of the water/1,2-dichloroethane interface",
+      "authors": "Fernandes, P.A., Cordeiro, M.N.D.S., Gomes, J.A.N.F. · Journal of Molecular Structure: THEOCHEM",
+      "year": "1999",
+      "publicationDate": "1999",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/s0166-1280(98)00405-9",
+      "placeholder": false,
+      "doi": "10.1016/s0166-1280(98)00405-9",
+      "orcidKeys": [
+        "doi:10.1016/s0166-1280(98)00405-9"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687279",
+      "title": "Molecular dynamics simulation of the water/2-heptanone liquid-liquid interface",
+      "authors": "Fernandes, P.A., Cordeiro, M.N.D.S., Gomes, J.A.N.F. · Journal of Physical Chemistry B",
+      "year": "1999",
+      "publicationDate": "1999",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp9844213",
+      "placeholder": false,
+      "doi": "10.1021/jp9844213",
+      "orcidKeys": [
+        "doi:10.1021/jp9844213"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-90168757",
+      "title": "Molecular Dynamics Study of the Transfer of Iodide across Two Liquid/Liquid Interfaces",
+      "authors": "Fernandes, P.A., Cordeiro, M.N.D.S., Gomes, J.A.N.F. · Journal of Physical Chemistry B",
+      "year": "1999",
+      "publicationDate": "1999",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jp9916945",
+      "placeholder": false,
+      "doi": "10.1021/jp9916945",
+      "orcidKeys": [
+        "doi:10.1021/jp9916945"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-159746785",
+      "title": "Kluyveromyces marxianus flocculence and growth at high temperature is dependent on the presence of the protein p37",
+      "authors": "Moreira, RF, Fernandes, PA, Moradas Ferreira, P · MICROBIOLOGY-UK",
+      "year": "1998",
+      "publicationDate": "1998",
+      "topic": "Publications",
+      "abstract": "A Kluyveromyces marxianus mutant deficient in p37, a glyceraldehyde-3-phosphate dehydrogenase (GAPDH)-like protein, was obtained and characterized with respect to flocculation behaviour, resistance to temperatures above the optimum for growth, morphology, growth, calcofluor white sensitivity and GAPDH activity. In YPD media, the mutant cells were unable to flocculate and were thermosensitive. However, this thermosensitivity could be overcome by the presence of calcium. Calcofluor white was toxic to the mutant, indicating that the mutation affects cell wall structure. The contribution of p37 to total GAPDH activity was 25% when cells were using glucose as carbon source and 50% when cells were growing in 3% ethanol. These results indicate that p37 is likely to be involved in thermotolerance and flocculation, which can be related to its contribution to cell wall integrity.",
+      "url": "https://www.authenticus.pt/P-001-8DC",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2748-4722:159746785"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-159746790",
+      "title": "CHARACTERIZATION OF THE GLYCERALDEHYDE-3-PHOSPHATE DEHYDROGENASE GENE FAMILY FROM KLUYVEROMYCES-MARXIANUS - POLYMERASE CHAIN REACTION-SINGLE-STRAND CONFORMATION POLYMORPHISM AS A TOOL FOR THE STUDY OF MULTIGENIC FAMILIES",
+      "authors": "FERNANDES, PA, SENAESTEVES, M, MORADASFERREIRA, P · YEAST",
+      "year": "1995",
+      "publicationDate": "1995",
+      "topic": "Publications",
+      "abstract": "Three glyceraldehyde-3-phosphate dehydrogenase (GAPDH) genes from Kluyveromyces marxianus were identified and characterized. The coding region of two of them (GAP2 and GAP3) is very similar (99.6% homology). The other gene (GAP1) is only 86% homologous to GAP2 or GAP3 and is responsible for the expression of Gap1p. This protein is extremely homologous to the K. marxianus cell wall protein p37, presumably involved in flocculation. However, no leader sequence could be detected in this gene. The identification of the three genes was possible with the use of polymerase chain reaction-single-strand conformation polymorphism (PCR-SSCP), as it permits us to overcome the difficulties caused by the high homology amongst the genes. Expression of the GAPDH genes under different carbon sources (glucose or ethanol) was assessed either by Northern blot or reverse transcription-PCR SSCP analysis, revealing that genes GAP1 and GAP2, but not GAP3, are transcribed. The results also indicate that the transcription of the gene encoding the cell wall protein p37 (Gap1p) is not dependent on the carbon source, in contrast with the expression of the gene GAP2, which is affected in cells growing in a glucose-depleted medium.",
+      "url": "https://doi.org/10.1002/yea.320110804",
+      "placeholder": false,
+      "doi": "10.1002/yea.320110804",
+      "orcidKeys": [
+        "doi:10.1002/yea.320110804"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-17687282",
+      "title": "Path integral Monte Carlo simulations: Study of the efficiency of energy estimators",
+      "authors": "Fernandes, P.A., Carvalho, A.P., Ramalho, J.P.P. · The Journal of Chemical Physics",
+      "year": "1995",
+      "publicationDate": "1995",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1063/1.470554",
+      "placeholder": false,
+      "doi": "10.1063/1.470554",
+      "orcidKeys": [
+        "doi:10.1063/1.470554"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-159746795",
+      "title": "YEAST FLOCCULATION - THE ROLE OF CELL-WALL PROTEINS",
+      "authors": "MORADASFERREIRA, P, FERNANDES, PA, COSTA, MJ · COLLOIDS AND SURFACES B-BIOINTERFACES",
+      "year": "1994",
+      "publicationDate": "1994",
+      "topic": "Publications",
+      "abstract": "Yeast flocculation results from the interaction of different cell wall components, including carbohydrates and proteins. In addition to the interactions involving aminoacyl carboxyl groups, experimental data support the role of Ca2+ as a modulator of a surface lectin conformation, thus indicating the important role of the protein moiety. The identification of specific proteins responsible for the cell interactions leading to flocculation (floeculins) has revealed proteins with different molecular mass in Saccharomyces cerevisiae. In both Hansenula anomala and Kluyveromyces marxianus, proteins with molecular masses of 37 kDa were identified as putative floeculins. Recent results indicated that the protein (p37) in K. marxianus is a glyceraldehyde-3-phosphate dehydrogenase-like protein, and in this yeast as in other cell types, this protein is associated with cell adhesion. In contrast to K. marxianus, flocculent S. cerevisiae do not accumulate a p37 in the cell wall. However, in S. cerevisiae NCYC 1195 the accumulation of proteins with molecular masses of 54 and 67 kDa in the cell surface is well correlated with the development of flocculation. So far, two types of surface lectins have been suggested as being implicated in S. cerevisiae flocculation and it is likely that yeast cells can also possess specific receptors that are probably the side chains of the mannoproteins intrinsic to the yeast cell wall. An analysis of cell wall proteins from different flocculent yeast strains and the putative role of specific proteins as floeculins is discussed. © 1994.",
+      "url": "https://doi.org/10.1016/0927-7765(94)80030-8",
+      "placeholder": false,
+      "doi": "10.1016/0927-7765(94)80030-8",
+      "orcidKeys": [
+        "doi:10.1016/0927-7765(94)80030-8"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-159746797",
+      "title": "FLOCCULATION OF KLUYVEROMYCES-MARXIANUS IS INDUCED BY A TEMPERATURE UPSHIFT",
+      "authors": "FERNANDES, PA, SOUSA, M, MORADASFERREIRA, P · YEAST",
+      "year": "1993",
+      "publicationDate": "1993",
+      "topic": "Publications",
+      "abstract": "An upshift of the growth temperature from 26 to 40-degrees-C in the presence of calcium leads to the aggregation of Kluyveromyces marxianus cells and to the formation of flocs. Analysis of cell wall proteins, either by sodium dodecyl sulphate-polyacrylamide gel electrophoresis of extractable mannoproteins or by immunolocalization. revealed an accumulation of a protein with Mr 37 kDa (p37), upon flocculation. Immunological studies confirmed the homology of this protein with the glycolytic enzyme glyceraldehyde-3-phosphate dehydrogenase (GAPDH). When mRNA isolated from cells growing at 40-degrees-C was translated in vitro, a 35 kDa newly labelled protein was synthesized and immunoprecipitation assays showed that this protein is recognized by p37-antiserum, suggesting that the 35 kDa polypeptide might be an unglycosylated precursor form of p37. The results indicated that the presence of this cell wall mannoprotein closely related to GAPDH is dependent on the growth temperature, suggesting its role as adhesin.",
+      "url": "https://doi.org/10.1002/yea.320090806",
+      "placeholder": false,
+      "doi": "10.1002/yea.320090806",
+      "orcidKeys": [
+        "doi:10.1002/yea.320090806"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-159746799",
+      "title": "A PROTEIN HOMOLOGOUS TO GLYCERALDEHYDE-3-PHOSPHATE DEHYDROGENASE IS INDUCED IN THE CELL-WALL OF A FLOCCULANT KLUYVEROMYCES-MARXIANUS",
+      "authors": "FERNANDES, PA, KEEN, JN, FINDLAY, JBC, MORADASFERREIRA, P · BIOCHIMICA ET BIOPHYSICA ACTA",
+      "year": "1992",
+      "publicationDate": "1992",
+      "topic": "Publications",
+      "abstract": "A protein with an apparent molecular weight of 37000 (p37) is present in very large amounts in the cell wall of iKluyveromyces marxianus, after the induction of flocculation of the yeast. This protein was isolated by preparative gel electrophoresis and its purity checked by SDS-PAGE and reverse-phase HPLC. SDS-PAGE, endoglycosidase-H treatment and peptide sequencing indicated that p37 is a glycoprotein with a high identity to cytosolic glyceraldehyde-3-phosphate dehydrogenase from Saccharomyces cerevisiae. Polyclonal antibodies were used for Western blot analysis and immunocytochemistry, which showed that p37 is present in the cell wall of non-flocculent K. marxianus and, therefore, is a constitutive protein of the cell wall.",
+      "url": "https://doi.org/10.1016/0167-4838(92)90076-p",
+      "placeholder": false,
+      "doi": "10.1016/0167-4838(92)90076-p",
+      "orcidKeys": [
+        "doi:10.1016/0167-4838(92)90076-p"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000327484722-178671723",
+      "title": "Cold-Active Starch-Degrading Enzymes from a Cold and Alkaline Greenland Environment: Role of Ca2+ Ions and Conformational Dynamics in Psychrophilicity",
+      "authors": "Citation details not supplied in ORCID",
+      "year": "",
+      "publicationDate": "",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.20944/preprints202502.1231.v1",
+      "placeholder": false,
+      "doi": "10.20944/preprints202502.1231.v1",
+      "orcidKeys": [
+        "doi:10.20944/preprints202502.1231.v1"
+      ],
+      "source": "orcid"
     }
   ],
   "members": [
@@ -85,7 +7093,445 @@ window.HPCMM_CONTENT = {
       "interests": "Molecular simulation; numerical methods; high performance computing.",
       "paperIds": [
         "paper-1",
-        "paper-2"
+        "paper-2",
+        "orcid-0000000327484722-216241860",
+        "orcid-0000000327484722-203692299",
+        "orcid-0000000327484722-205519038",
+        "orcid-0000000327484722-198882477",
+        "orcid-0000000327484722-223024523",
+        "orcid-0000000327484722-226233483",
+        "orcid-0000000327484722-198632316",
+        "orcid-0000000327484722-175265452",
+        "orcid-0000000327484722-174862785",
+        "orcid-0000000327484722-182381409",
+        "orcid-0000000327484722-180370096",
+        "orcid-0000000327484722-200379848",
+        "orcid-0000000327484722-208983481",
+        "orcid-0000000327484722-173079073",
+        "orcid-0000000327484722-175401860",
+        "orcid-0000000327484722-191654189",
+        "orcid-0000000327484722-193241970",
+        "orcid-0000000327484722-184067319",
+        "orcid-0000000327484722-180270106",
+        "orcid-0000000327484722-208983480",
+        "orcid-0000000327484722-200379852",
+        "orcid-0000000327484722-168482068",
+        "orcid-0000000327484722-173079077",
+        "orcid-0000000327484722-179271238",
+        "orcid-0000000327484722-189187812",
+        "orcid-0000000327484722-179271243",
+        "orcid-0000000327484722-176047800",
+        "orcid-0000000327484722-176047796",
+        "orcid-0000000327484722-172232615",
+        "orcid-0000000327484722-177585046",
+        "orcid-0000000327484722-153808988",
+        "orcid-0000000327484722-179271244",
+        "orcid-0000000327484722-179271239",
+        "orcid-0000000327484722-179271240",
+        "orcid-0000000327484722-177584174",
+        "orcid-0000000327484722-166198473",
+        "orcid-0000000327484722-147012414",
+        "orcid-0000000327484722-176047794",
+        "orcid-0000000327484722-162943014",
+        "orcid-0000000327484722-176047805",
+        "orcid-0000000327484722-170103883",
+        "orcid-0000000327484722-152140704",
+        "orcid-0000000327484722-131759381",
+        "orcid-0000000327484722-132534283",
+        "orcid-0000000327484722-177584175",
+        "orcid-0000000327484722-177584176",
+        "orcid-0000000327484722-179271241",
+        "orcid-0000000327484722-177585040",
+        "orcid-0000000327484722-143530553",
+        "orcid-0000000327484722-121464397",
+        "orcid-0000000327484722-124970161",
+        "orcid-0000000327484722-177584195",
+        "orcid-0000000327484722-133034325",
+        "orcid-0000000327484722-179271242",
+        "orcid-0000000327484722-135838767",
+        "orcid-0000000327484722-128909484",
+        "orcid-0000000327484722-159748712",
+        "orcid-0000000327484722-208983482",
+        "orcid-0000000327484722-133665081",
+        "orcid-0000000327484722-177584196",
+        "orcid-0000000327484722-177584167",
+        "orcid-0000000327484722-115466675",
+        "orcid-0000000327484722-115020913",
+        "orcid-0000000327484722-208983483",
+        "orcid-0000000327484722-177584178",
+        "orcid-0000000327484722-109241361",
+        "orcid-0000000327484722-107136129",
+        "orcid-0000000327484722-109241218",
+        "orcid-0000000327484722-177584197",
+        "orcid-0000000327484722-106120038",
+        "orcid-0000000327484722-177584198",
+        "orcid-0000000327484722-106648753",
+        "orcid-0000000327484722-111841029",
+        "orcid-0000000327484722-159748652",
+        "orcid-0000000327484722-116812009",
+        "orcid-0000000327484722-177584177",
+        "orcid-0000000327484722-116372720",
+        "orcid-0000000327484722-109241264",
+        "orcid-0000000327484722-109241923",
+        "orcid-0000000327484722-177584166",
+        "orcid-0000000327484722-177584168",
+        "orcid-0000000327484722-107000214",
+        "orcid-0000000327484722-113319741",
+        "orcid-0000000327484722-112955355",
+        "orcid-0000000327484722-208983484",
+        "orcid-0000000327484722-105181906",
+        "orcid-0000000327484722-177584180",
+        "orcid-0000000327484722-100573558",
+        "orcid-0000000327484722-92420673",
+        "orcid-0000000327484722-99567275",
+        "orcid-0000000327484722-95903058",
+        "orcid-0000000327484722-109241518",
+        "orcid-0000000327484722-90168691",
+        "orcid-0000000327484722-177584181",
+        "orcid-0000000327484722-90168581",
+        "orcid-0000000327484722-177584179",
+        "orcid-0000000327484722-109239920",
+        "orcid-0000000327484722-107000219",
+        "orcid-0000000327484722-109241588",
+        "orcid-0000000327484722-98139109",
+        "orcid-0000000327484722-99412875",
+        "orcid-0000000327484722-90168701",
+        "orcid-0000000327484722-109241142",
+        "orcid-0000000327484722-86187839",
+        "orcid-0000000327484722-93092163",
+        "orcid-0000000327484722-92122428",
+        "orcid-0000000327484722-76054839",
+        "orcid-0000000327484722-78764321",
+        "orcid-0000000327484722-76878151",
+        "orcid-0000000327484722-79815440",
+        "orcid-0000000327484722-90168559",
+        "orcid-0000000327484722-71357396",
+        "orcid-0000000327484722-78351235",
+        "orcid-0000000327484722-72616541",
+        "orcid-0000000327484722-90168686",
+        "orcid-0000000327484722-78725684",
+        "orcid-0000000327484722-68905623",
+        "orcid-0000000327484722-72603240",
+        "orcid-0000000327484722-72603242",
+        "orcid-0000000327484722-227274260",
+        "orcid-0000000327484722-78652772",
+        "orcid-0000000327484722-73359527",
+        "orcid-0000000327484722-177584169",
+        "orcid-0000000327484722-82586763",
+        "orcid-0000000327484722-63548330",
+        "orcid-0000000327484722-177584170",
+        "orcid-0000000327484722-63548108",
+        "orcid-0000000327484722-63548389",
+        "orcid-0000000327484722-177584199",
+        "orcid-0000000327484722-90168583",
+        "orcid-0000000327484722-58676292",
+        "orcid-0000000327484722-177584173",
+        "orcid-0000000327484722-55647919",
+        "orcid-0000000327484722-63548280",
+        "orcid-0000000327484722-55647920",
+        "orcid-0000000327484722-55647921",
+        "orcid-0000000327484722-66354385",
+        "orcid-0000000327484722-63549344",
+        "orcid-0000000327484722-63548189",
+        "orcid-0000000327484722-58249202",
+        "orcid-0000000327484722-63548356",
+        "orcid-0000000327484722-63547976",
+        "orcid-0000000327484722-60845661",
+        "orcid-0000000327484722-55647922",
+        "orcid-0000000327484722-177584171",
+        "orcid-0000000327484722-55647923",
+        "orcid-0000000327484722-55647924",
+        "orcid-0000000327484722-45920384",
+        "orcid-0000000327484722-55647925",
+        "orcid-0000000327484722-177584182",
+        "orcid-0000000327484722-55648102",
+        "orcid-0000000327484722-55647926",
+        "orcid-0000000327484722-55647927",
+        "orcid-0000000327484722-55647928",
+        "orcid-0000000327484722-55647929",
+        "orcid-0000000327484722-55647930",
+        "orcid-0000000327484722-55647931",
+        "orcid-0000000327484722-55647932",
+        "orcid-0000000327484722-55647933",
+        "orcid-0000000327484722-55647934",
+        "orcid-0000000327484722-55647935",
+        "orcid-0000000327484722-55647936",
+        "orcid-0000000327484722-55647937",
+        "orcid-0000000327484722-55647938",
+        "orcid-0000000327484722-55647939",
+        "orcid-0000000327484722-55647940",
+        "orcid-0000000327484722-45582622",
+        "orcid-0000000327484722-45582623",
+        "orcid-0000000327484722-45582624",
+        "orcid-0000000327484722-45582625",
+        "orcid-0000000327484722-45582626",
+        "orcid-0000000327484722-90168544",
+        "orcid-0000000327484722-45582627",
+        "orcid-0000000327484722-45582628",
+        "orcid-0000000327484722-45582629",
+        "orcid-0000000327484722-177584200",
+        "orcid-0000000327484722-45582630",
+        "orcid-0000000327484722-45582631",
+        "orcid-0000000327484722-45582632",
+        "orcid-0000000327484722-45582633",
+        "orcid-0000000327484722-35419347",
+        "orcid-0000000327484722-45582634",
+        "orcid-0000000327484722-45582635",
+        "orcid-0000000327484722-45582636",
+        "orcid-0000000327484722-45582637",
+        "orcid-0000000327484722-45582638",
+        "orcid-0000000327484722-90168560",
+        "orcid-0000000327484722-177584183",
+        "orcid-0000000327484722-29653213",
+        "orcid-0000000327484722-45583199",
+        "orcid-0000000327484722-29653214",
+        "orcid-0000000327484722-29653215",
+        "orcid-0000000327484722-29653216",
+        "orcid-0000000327484722-29653217",
+        "orcid-0000000327484722-90168648",
+        "orcid-0000000327484722-29653218",
+        "orcid-0000000327484722-29653219",
+        "orcid-0000000327484722-29653220",
+        "orcid-0000000327484722-29653221",
+        "orcid-0000000327484722-29653222",
+        "orcid-0000000327484722-29653223",
+        "orcid-0000000327484722-29653224",
+        "orcid-0000000327484722-29653225",
+        "orcid-0000000327484722-29653226",
+        "orcid-0000000327484722-37033192",
+        "orcid-0000000327484722-29653227",
+        "orcid-0000000327484722-29653228",
+        "orcid-0000000327484722-29653229",
+        "orcid-0000000327484722-29653230",
+        "orcid-0000000327484722-29653231",
+        "orcid-0000000327484722-29653232",
+        "orcid-0000000327484722-17687087",
+        "orcid-0000000327484722-29653233",
+        "orcid-0000000327484722-37033193",
+        "orcid-0000000327484722-29653234",
+        "orcid-0000000327484722-29653235",
+        "orcid-0000000327484722-29653236",
+        "orcid-0000000327484722-29653237",
+        "orcid-0000000327484722-17687115",
+        "orcid-0000000327484722-17687112",
+        "orcid-0000000327484722-17687101",
+        "orcid-0000000327484722-17687093",
+        "orcid-0000000327484722-17687106",
+        "orcid-0000000327484722-17687102",
+        "orcid-0000000327484722-17687091",
+        "orcid-0000000327484722-17687089",
+        "orcid-0000000327484722-17687114",
+        "orcid-0000000327484722-17687110",
+        "orcid-0000000327484722-17687111",
+        "orcid-0000000327484722-17687113",
+        "orcid-0000000327484722-17687104",
+        "orcid-0000000327484722-17687092",
+        "orcid-0000000327484722-17687105",
+        "orcid-0000000327484722-17687107",
+        "orcid-0000000327484722-37032796",
+        "orcid-0000000327484722-17687090",
+        "orcid-0000000327484722-17687096",
+        "orcid-0000000327484722-17687099",
+        "orcid-0000000327484722-17687100",
+        "orcid-0000000327484722-17687095",
+        "orcid-0000000327484722-17687109",
+        "orcid-0000000327484722-17687097",
+        "orcid-0000000327484722-17687108",
+        "orcid-0000000327484722-17687094",
+        "orcid-0000000327484722-17687088",
+        "orcid-0000000327484722-227274259",
+        "orcid-0000000327484722-17687103",
+        "orcid-0000000327484722-17687098",
+        "orcid-0000000327484722-17687130",
+        "orcid-0000000327484722-17687134",
+        "orcid-0000000327484722-17687117",
+        "orcid-0000000327484722-17687126",
+        "orcid-0000000327484722-17687135",
+        "orcid-0000000327484722-177584201",
+        "orcid-0000000327484722-17687121",
+        "orcid-0000000327484722-17687139",
+        "orcid-0000000327484722-17687127",
+        "orcid-0000000327484722-17687120",
+        "orcid-0000000327484722-17687132",
+        "orcid-0000000327484722-17687133",
+        "orcid-0000000327484722-17687122",
+        "orcid-0000000327484722-17687137",
+        "orcid-0000000327484722-17687128",
+        "orcid-0000000327484722-36622753",
+        "orcid-0000000327484722-17687129",
+        "orcid-0000000327484722-17687136",
+        "orcid-0000000327484722-177584202",
+        "orcid-0000000327484722-17687123",
+        "orcid-0000000327484722-17687124",
+        "orcid-0000000327484722-17687125",
+        "orcid-0000000327484722-17687138",
+        "orcid-0000000327484722-17687131",
+        "orcid-0000000327484722-17687118",
+        "orcid-0000000327484722-17687150",
+        "orcid-0000000327484722-17687152",
+        "orcid-0000000327484722-17687142",
+        "orcid-0000000327484722-17687144",
+        "orcid-0000000327484722-17687154",
+        "orcid-0000000327484722-177584203",
+        "orcid-0000000327484722-17687155",
+        "orcid-0000000327484722-17687145",
+        "orcid-0000000327484722-17687148",
+        "orcid-0000000327484722-17687156",
+        "orcid-0000000327484722-17687151",
+        "orcid-0000000327484722-17687153",
+        "orcid-0000000327484722-17687141",
+        "orcid-0000000327484722-17687149",
+        "orcid-0000000327484722-17687146",
+        "orcid-0000000327484722-17687143",
+        "orcid-0000000327484722-17687147",
+        "orcid-0000000327484722-177584184",
+        "orcid-0000000327484722-177585037",
+        "orcid-0000000327484722-17687140",
+        "orcid-0000000327484722-17687160",
+        "orcid-0000000327484722-17687163",
+        "orcid-0000000327484722-17687174",
+        "orcid-0000000327484722-17687170",
+        "orcid-0000000327484722-17687169",
+        "orcid-0000000327484722-177584204",
+        "orcid-0000000327484722-17687168",
+        "orcid-0000000327484722-17687157",
+        "orcid-0000000327484722-17687164",
+        "orcid-0000000327484722-17687166",
+        "orcid-0000000327484722-17687165",
+        "orcid-0000000327484722-17687175",
+        "orcid-0000000327484722-17687158",
+        "orcid-0000000327484722-17687176",
+        "orcid-0000000327484722-17687159",
+        "orcid-0000000327484722-17687162",
+        "orcid-0000000327484722-17687167",
+        "orcid-0000000327484722-17687173",
+        "orcid-0000000327484722-17687172",
+        "orcid-0000000327484722-177585038",
+        "orcid-0000000327484722-17687161",
+        "orcid-0000000327484722-17687171",
+        "orcid-0000000327484722-17687181",
+        "orcid-0000000327484722-17687184",
+        "orcid-0000000327484722-17687187",
+        "orcid-0000000327484722-17687177",
+        "orcid-0000000327484722-17687178",
+        "orcid-0000000327484722-90168682",
+        "orcid-0000000327484722-177584205",
+        "orcid-0000000327484722-17687188",
+        "orcid-0000000327484722-17687186",
+        "orcid-0000000327484722-17687180",
+        "orcid-0000000327484722-17687189",
+        "orcid-0000000327484722-17687185",
+        "orcid-0000000327484722-177585039",
+        "orcid-0000000327484722-17687182",
+        "orcid-0000000327484722-17687179",
+        "orcid-0000000327484722-177584172",
+        "orcid-0000000327484722-17687183",
+        "orcid-0000000327484722-17687194",
+        "orcid-0000000327484722-17687191",
+        "orcid-0000000327484722-17687201",
+        "orcid-0000000327484722-177584206",
+        "orcid-0000000327484722-17687190",
+        "orcid-0000000327484722-17687196",
+        "orcid-0000000327484722-177584207",
+        "orcid-0000000327484722-17687202",
+        "orcid-0000000327484722-17687197",
+        "orcid-0000000327484722-17687198",
+        "orcid-0000000327484722-17687195",
+        "orcid-0000000327484722-17687200",
+        "orcid-0000000327484722-90168592",
+        "orcid-0000000327484722-17687199",
+        "orcid-0000000327484722-17687193",
+        "orcid-0000000327484722-17687192",
+        "orcid-0000000327484722-17687208",
+        "orcid-0000000327484722-17687213",
+        "orcid-0000000327484722-17687206",
+        "orcid-0000000327484722-17687210",
+        "orcid-0000000327484722-17687212",
+        "orcid-0000000327484722-17687205",
+        "orcid-0000000327484722-17687209",
+        "orcid-0000000327484722-17687216",
+        "orcid-0000000327484722-17687203",
+        "orcid-0000000327484722-17687214",
+        "orcid-0000000327484722-17687207",
+        "orcid-0000000327484722-17687204",
+        "orcid-0000000327484722-17687211",
+        "orcid-0000000327484722-17687215",
+        "orcid-0000000327484722-17687217",
+        "orcid-0000000327484722-17687224",
+        "orcid-0000000327484722-17687223",
+        "orcid-0000000327484722-17687229",
+        "orcid-0000000327484722-90168579",
+        "orcid-0000000327484722-17687221",
+        "orcid-0000000327484722-17687232",
+        "orcid-0000000327484722-17687218",
+        "orcid-0000000327484722-17687231",
+        "orcid-0000000327484722-17687226",
+        "orcid-0000000327484722-17687222",
+        "orcid-0000000327484722-17687230",
+        "orcid-0000000327484722-17687233",
+        "orcid-0000000327484722-17687228",
+        "orcid-0000000327484722-17687220",
+        "orcid-0000000327484722-17687225",
+        "orcid-0000000327484722-17687234",
+        "orcid-0000000327484722-17687219",
+        "orcid-0000000327484722-17687235",
+        "orcid-0000000327484722-17687227",
+        "orcid-0000000327484722-17687249",
+        "orcid-0000000327484722-17687241",
+        "orcid-0000000327484722-17687252",
+        "orcid-0000000327484722-17687251",
+        "orcid-0000000327484722-17687250",
+        "orcid-0000000327484722-17687245",
+        "orcid-0000000327484722-17687246",
+        "orcid-0000000327484722-17687237",
+        "orcid-0000000327484722-17687236",
+        "orcid-0000000327484722-17687242",
+        "orcid-0000000327484722-17687239",
+        "orcid-0000000327484722-17687240",
+        "orcid-0000000327484722-17687247",
+        "orcid-0000000327484722-17687238",
+        "orcid-0000000327484722-17687243",
+        "orcid-0000000327484722-17687248",
+        "orcid-0000000327484722-17687244",
+        "orcid-0000000327484722-17687256",
+        "orcid-0000000327484722-17687257",
+        "orcid-0000000327484722-17687255",
+        "orcid-0000000327484722-177584208",
+        "orcid-0000000327484722-17687262",
+        "orcid-0000000327484722-17687253",
+        "orcid-0000000327484722-17687254",
+        "orcid-0000000327484722-17687259",
+        "orcid-0000000327484722-17687258",
+        "orcid-0000000327484722-17687260",
+        "orcid-0000000327484722-17687261",
+        "orcid-0000000327484722-17687265",
+        "orcid-0000000327484722-17687266",
+        "orcid-0000000327484722-45583314",
+        "orcid-0000000327484722-17687264",
+        "orcid-0000000327484722-17687263",
+        "orcid-0000000327484722-17687268",
+        "orcid-0000000327484722-17687267",
+        "orcid-0000000327484722-17687271",
+        "orcid-0000000327484722-17687272",
+        "orcid-0000000327484722-45583321",
+        "orcid-0000000327484722-17687274",
+        "orcid-0000000327484722-17687270",
+        "orcid-0000000327484722-17687275",
+        "orcid-0000000327484722-45583325",
+        "orcid-0000000327484722-177584209",
+        "orcid-0000000327484722-17687277",
+        "orcid-0000000327484722-45583327",
+        "orcid-0000000327484722-17687281",
+        "orcid-0000000327484722-17687280",
+        "orcid-0000000327484722-17687279",
+        "orcid-0000000327484722-90168757",
+        "orcid-0000000327484722-159746785",
+        "orcid-0000000327484722-159746790",
+        "orcid-0000000327484722-17687282",
+        "orcid-0000000327484722-159746795",
+        "orcid-0000000327484722-159746797",
+        "orcid-0000000327484722-159746799",
+        "orcid-0000000327484722-178671723"
       ],
       "placeholder": true,
       "orcid": "0000-0003-2748-4722",
