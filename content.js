@@ -3,11 +3,11 @@ window.HPCMM_CONTENT = {
   "schemaVersion": 1,
   "group": {
     "shortName": "HPC-MM",
-    "name": "High Performance Computing in Molecular Modeling",
+    "name": "High Performance Computing in Molecular Modelling",
     "tagline": "Molecular simulation, numerical methods, and scientific software for studying complex molecular systems.",
-    "intro": "We study molecular systems and develop computational methods for their simulation.",
-    "about": "The proposed research programme connects molecular modeling with high performance computing, with an emphasis on efficient algorithms and reproducible scientific software.",
-    "note": "Proposed group description · replace with the group’s approved mission and institutional affiliation."
+    "intro": "We use high-performance computing to investigate chemical and biochemical systems at atomic and electronic scales.",
+    "about": "Our research spans proteins, enzymes, DNA, RNA, biological membranes and small molecules, including potential medicines, in aqueous environments relevant to their function. We also investigate functional materials and their interactions with biomolecules, including systems based on carbon nanotubes and graphene.\n\nBy connecting molecular structure and dynamics with physicochemical properties, we aim to understand how these systems can be tailored for specific applications. Our simulations draw on classical and quantum mechanics to explore molecular behaviour and develop predictive models, with careful attention to the assumptions and limitations of each method.",
+    "note": ""
   },
   "images": {
     "cover": {
