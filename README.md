@@ -4,7 +4,7 @@
 Unzip the download and upload ALL files into the same GitHub folder as your existing index.html. Replace matching files. Keep the current Pages settings. Relative links work at both a root domain and /hpcmm-website/.
 
 ## Everyday updates — no HTML editing
-1. Open your website and select **Edit website content** in the footer (or open editor.html).
+1. Open editor.html directly, or bookmark your website address followed by /editor.html. There is no editing link on the public website.
 2. Use the sections to edit the group introduction, research, publications, members, software, news, and contact details.
 3. For each member, enter their biography and interests, and tick the papers that belong to them. Adding members automatically creates a working profile link; no extra HTML file is needed.
 4. In **Cover & group photos**, choose the two images separately. Add an accessibility description and caption/credit for each. Both remain placeholders until supplied. PNG, JPG and WebP up to 5 MB per image are accepted. Photos are preserved at their original proportions, without cropping faces.
@@ -29,3 +29,16 @@ Every example member, paper, research area, news item and software entry has a c
 - favicon.svg: provisional group icon.
 
 No dependencies or build process. JavaScript is required for content rendering and the editor. Open editor.html locally after extracting the ZIP, or use the hosted editor. GitHub Pages is not changed by simply opening or using the form.
+
+## ORCID and automatic updates
+Member forms now accept an ORCID iD, import public works for review, and provide a weekly-update checkbox. See SETUP-AUTOMATIC-UPDATES.md for the one-time GitHub Actions installation. The workflow is supplied but has not been installed in your GitHub account. No passwords or API keys are embedded.
+
+## Group and member photos, links, and latest papers
+The group photograph appears beside The group text. On smaller screens it moves beneath the text. Each member has an optional photograph picker in their own form; the image appears in the directory and on their profile. Profile fields support CIÊNCIAVITAE, ResearchGate, LinkedIn, a personal website and email. ORCID uses the existing ORCID field. Empty fields are hidden on the public pages. Email addresses entered here are displayed publicly as mail links.
+
+The homepage automatically displays the five most recent distinct group publications. Publication date accepts YYYY, YYYY-MM or YYYY-MM-DD. ORCID imports retain month/day when available. If only a year is available, papers with known dates in that year are ordered ahead of year-only entries; undated entries appear last, and ties use the title. Dates should reflect publication dates rather than upload dates. Member profiles retain their full publication lists, newest first. Matching DOI links are displayed only once.
+
+Photos are embedded in content.js. Each photo may be up to 5 MB, but the entire content file is limited to 24 MB for convenient upload. Resize member portraits before importing them; a few hundred pixels wide is usually enough. Existing content files can be loaded into the updated editor to add the new fields without re-entering your data.
+
+## Updating an existing populated website
+Keep a backup of your current content.js. If you already entered real group content, retain that file when uploading the new layout/editor files. The updated editor migrates older content when opened; download it again after adding the new profile fields. Do not replace real data with the example content.js from this ZIP.

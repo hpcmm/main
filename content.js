@@ -1,4 +1,4 @@
-// Edit using editor.html, then upload this file to GitHub.
+// Edit using editor.html.
 window.HPCMM_CONTENT = {
   "schemaVersion": 1,
   "group": {
@@ -50,7 +50,8 @@ window.HPCMM_CONTENT = {
       "topic": "Simulation",
       "abstract": "Illustrative abstract: this entry demonstrates how a study of molecular free energy landscapes could be presented. It does not describe a real publication. Replace the title, authors, journal, year, abstract, and DOI with verified information.",
       "url": "",
-      "placeholder": true
+      "placeholder": true,
+      "publicationDate": ""
     },
     {
       "id": "paper-2",
@@ -60,7 +61,8 @@ window.HPCMM_CONTENT = {
       "topic": "Computing",
       "abstract": "Illustrative abstract: a place for research on efficient simulation across computing architectures. This is a fictional publication for layout purposes.",
       "url": "",
-      "placeholder": true
+      "placeholder": true,
+      "publicationDate": ""
     },
     {
       "id": "paper-3",
@@ -70,7 +72,8 @@ window.HPCMM_CONTENT = {
       "topic": "Machine learning",
       "abstract": "Illustrative abstract: a place for work combining physical modeling and data-driven methods. This is a fictional publication for layout purposes.",
       "url": "",
-      "placeholder": true
+      "placeholder": true,
+      "publicationDate": ""
     }
   ],
   "members": [
@@ -84,7 +87,20 @@ window.HPCMM_CONTENT = {
         "paper-1",
         "paper-2"
       ],
-      "placeholder": true
+      "placeholder": true,
+      "orcid": "",
+      "autoSync": false,
+      "orcidExcluded": [],
+      "photo": {
+        "src": "",
+        "alt": "",
+        "caption": ""
+      },
+      "cienciavitae": "",
+      "researchgate": "",
+      "linkedin": "",
+      "website": "",
+      "email": ""
     },
     {
       "id": "postdoctoral-researcher",
@@ -95,7 +111,20 @@ window.HPCMM_CONTENT = {
       "paperIds": [
         "paper-1"
       ],
-      "placeholder": true
+      "placeholder": true,
+      "orcid": "",
+      "autoSync": false,
+      "orcidExcluded": [],
+      "photo": {
+        "src": "",
+        "alt": "",
+        "caption": ""
+      },
+      "cienciavitae": "",
+      "researchgate": "",
+      "linkedin": "",
+      "website": "",
+      "email": ""
     },
     {
       "id": "doctoral-researcher",
@@ -106,7 +135,20 @@ window.HPCMM_CONTENT = {
       "paperIds": [
         "paper-3"
       ],
-      "placeholder": true
+      "placeholder": true,
+      "orcid": "",
+      "autoSync": false,
+      "orcidExcluded": [],
+      "photo": {
+        "src": "",
+        "alt": "",
+        "caption": ""
+      },
+      "cienciavitae": "",
+      "researchgate": "",
+      "linkedin": "",
+      "website": "",
+      "email": ""
     },
     {
       "id": "research-software-engineer",
@@ -117,7 +159,20 @@ window.HPCMM_CONTENT = {
       "paperIds": [
         "paper-2"
       ],
-      "placeholder": true
+      "placeholder": true,
+      "orcid": "",
+      "autoSync": false,
+      "orcidExcluded": [],
+      "photo": {
+        "src": "",
+        "alt": "",
+        "caption": ""
+      },
+      "cienciavitae": "",
+      "researchgate": "",
+      "linkedin": "",
+      "website": "",
+      "email": ""
     }
   ],
   "software": [
