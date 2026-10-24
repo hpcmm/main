@@ -1,0 +1,12 @@
+Verification completed 24 October 2026
+Source commit: f274baf1bafe5b20a38c142a5b0c0892b3fa0eae
+All recovered source files retained.
+content.js and all three image assets preserved byte for byte.
+Content: 4 members, 473 publications.
+All HTML local src/href targets exist. All three non-empty content image paths exist, with exact case.
+All 9 JavaScript/CommonJS files pass Node syntax checks.
+Browser verification under /repaired-site/: homepage renders; all three images decode (widths 1800, 1500, 900 pixels); Pedro Paiva profile renders with portrait; editor loads Ready to edit.
+Live homepage returned HTTP 200; public latest Pages run 40097125070 succeeded.
+Changed existing files: SETUP-AUTOMATIC-UPDATES.md, editor.html, README.md, PERFORMANCE-CHANGES.md. Changes correct inconsistent deployment/photo instructions; no research content changed.
+Original requested ZIPs were unavailable; comparison is to the recovered repository, not those ZIP files.
+No production changes performed.
