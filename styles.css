@@ -27,3 +27,5 @@ h1{font-size:clamp(39px,4.15vw,59px);letter-spacing:-1.9px;line-height:1.14;marg
 /* Consistent heading capitals, including content added in the editor. */
 h1,h2,h3{text-transform:capitalize}
 .brand{min-width:44px;min-height:44px}
+
+#more-publications[hidden]{display:none}
