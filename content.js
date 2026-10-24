@@ -27,6 +27,18 @@ window.HPCMM_CONTENT = {
       "description": "Atomistic and multiscale models of molecular structure, dynamics, and interactions.",
       "details": "Potential topics include molecular dynamics, free energy calculations, and enhanced sampling. Confirm the group’s actual projects before publication.",
       "placeholder": true
+    },
+    {
+      "title": "Scalable computing",
+      "description": "Parallel algorithms, GPU acceleration, and efficient use of computing resources.",
+      "details": "Potential topics include GPU acceleration, parallel algorithms, and performance portability across computing systems.",
+      "placeholder": true
+    },
+    {
+      "title": "Data-driven discovery",
+      "description": "Machine learning methods for molecular representations and computational models.",
+      "details": "Potential topics include machine-learned potentials, molecular representations, and reproducible analysis workflows.",
+      "placeholder": true
     }
   ],
   "publications": [
@@ -7570,10 +7582,16 @@ window.HPCMM_CONTENT = {
   ],
   "software": [
     {
-      "title": "pKaRaptor",
-      "description": "pKaRaptor is a Python toolkit for integrating protein pKa predictions with residue-level structural environments. It produces an interactive HTML dashboard in which protonation and tautomer assignments remain explicit user decisions.",
-      "url": "https://github.com/jmargaridars/pkaraptor",
-      "placeholder": false
+      "title": "Molecular simulation toolkit",
+      "description": "An example home for simulation utilities, documentation, and reproducible workflows.",
+      "url": "",
+      "placeholder": true
+    },
+    {
+      "title": "Performance benchmark suite",
+      "description": "An example collection of benchmarks for evaluating molecular computing methods.",
+      "url": "",
+      "placeholder": true
     }
   ],
   "news": [
