@@ -31,3 +31,5 @@ h1,h2,h3{text-transform:capitalize}
 #more-publications[hidden]{display:none}
 
 .publication-year-heading{font-size:25px;color:var(--teal);margin:32px 0 12px}.publication-year-heading:first-child{margin-top:20px}
+
+.more-publications{display:inline-flex;align-items:center;gap:16px;min-height:44px;padding:8px 0;border:0;border-bottom:1px solid #adbebd;border-radius:0;background:transparent;color:var(--teal);font:inherit;font-size:13px}.more-publications:hover{color:var(--navy);border-color:var(--navy)}#publication-count{font-size:12px;margin:22px 0 4px}
