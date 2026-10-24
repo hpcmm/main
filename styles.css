@@ -29,3 +29,5 @@ h1,h2,h3{text-transform:capitalize}
 .brand{min-width:44px;min-height:44px}
 
 #more-publications[hidden]{display:none}
+
+.publication-year-heading{font-size:25px;color:var(--teal);margin:32px 0 12px}.publication-year-heading:first-child{margin-top:20px}
