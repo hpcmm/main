@@ -8075,7 +8075,7 @@ window.HPCMM_CONTENT = {
     },
     {
       "id": "postdoctoral-researcher",
-      "name": "Pedro Pava",
+      "name": "Pedro Paiva",
       "role": "Junior Researcher",
       "biography": "Pedro Paiva graduated in Biochemistry (2012) from the University of Porto, where he also obtained an MSc in Biochemistry (2014) and a PhD in Sustainable Chemistry / Medical Biochemistry and Biophysics (2022). He is a computational biochemist (Junior Researcher) at the Faculty of Sciences, University of Porto, working within the En'Zync consortium (Novo Nordisk Foundation) on the enzymatic deconstruction of plastics. He integrates molecular docking, molecular dynamics, and QM/MM to resolve enzyme catalytic mechanisms and conformational dynamics at the atomic level, with a current focus on discovering and engineering enzymes that degrade polyurethanes and polyesters. His research has appeared in journals including Chemical Reviews, Angewandte Chemie, ACS Catalysis, Chem Catalysis and Chemical Science, and is supported by competitive EuroHPC and national (CPCA) supercomputing awards. Alongside his research, he acts as PI and co-PI on funded projects, mentors graduate and undergraduate students, and reviews for journals such as Chemical Science and Nature Communications.",
       "interests": "",
