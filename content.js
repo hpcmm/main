@@ -593,7 +593,7 @@ window.HPCMM_CONTENT = {
     {
       "id": "orcid-0000000327484722-166198473",
       "title": "QM/MM Study of the Reaction Mechanism of L‑Tyrosine Hydroxylation Catalyzed by the Enzyme CYP76AD1",
-      "authors": "João P. M. Sousa, Maria J. Ramos, Pedro A. Fernandes · The Journal of Physical Chemistry B",
+      "authors": "João P. M. Sousa, Maria J. Ramos, Pedro A. Fernandes · The Journal of Physical Chemistry B",
       "year": "2024",
       "publicationDate": "2024-10-03",
       "topic": "Publications",
@@ -1441,7 +1441,7 @@ window.HPCMM_CONTENT = {
     {
       "id": "orcid-0000000327484722-92420673",
       "title": "Alkyl vs Aryl Modifications: A Comparative Study on Modular Modifications of Triphenylphosphonium Mitochondrial Vectors",
-      "authors": "How Chee Ong, João T.S. Coimbra, Maria João Ramos, Bengang Xing, Pedro Alexandrino Fernandes, Felipe Garcia",
+      "authors": "How Chee Ong, João T.S. Coimbra, Maria João Ramos, Bengang Xing, Pedro Alexandrino Fernandes, Felipe Garcia",
       "year": "2021",
       "publicationDate": "2021-04-19",
       "topic": "Publications",
@@ -9809,7 +9809,7 @@ window.HPCMM_CONTENT = {
     {
       "id": "orcid-0000000191387498-92419233",
       "title": "Alkyl vs Aryl Modifications: A Comparative Study on Modular Modifications of Triphenylphosphonium Mitochondrial Vectors",
-      "authors": "How Chee Ong, João T.S. Coimbra, Maria João Ramos, Bengang Xing, Pedro Alexandrino Fernandes, Felipe Garcia",
+      "authors": "How Chee Ong, João T.S. Coimbra, Maria João Ramos, Bengang Xing, Pedro Alexandrino Fernandes, Felipe Garcia",
       "year": "2021",
       "publicationDate": "2021-04-19",
       "topic": "Publications",
@@ -10273,7 +10273,7 @@ window.HPCMM_CONTENT = {
     {
       "id": "orcid-0000000211230413-69767743",
       "title": "Recent Advances in Understanding Biological GTP Hydrolysis through Molecular Simulation",
-      "authors": "Ana Rita Calixto, Cátia Moreira, Shina Caroline Lynn Kamerlin · ACS Omega",
+      "authors": "Ana Rita Calixto, Cátia Moreira, Shina Caroline Lynn Kamerlin · ACS Omega",
       "year": "2020",
       "publicationDate": "2020-03-10",
       "topic": "Publications",
