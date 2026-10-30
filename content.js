@@ -593,7 +593,7 @@ window.HPCMM_CONTENT = {
     {
       "id": "orcid-0000000327484722-166198473",
       "title": "QM/MM Study of the Reaction Mechanism of L‑Tyrosine Hydroxylation Catalyzed by the Enzyme CYP76AD1",
-      "authors": "João P. M. Sousa, Maria J. Ramos, Pedro A. Fernandes · The Journal of Physical Chemistry B",
+      "authors": "João P. M. Sousa, Maria J. Ramos, Pedro A. Fernandes · The Journal of Physical Chemistry B",
       "year": "2024",
       "publicationDate": "2024-10-03",
       "topic": "Publications",
@@ -1441,7 +1441,7 @@ window.HPCMM_CONTENT = {
     {
       "id": "orcid-0000000327484722-92420673",
       "title": "Alkyl vs Aryl Modifications: A Comparative Study on Modular Modifications of Triphenylphosphonium Mitochondrial Vectors",
-      "authors": "How Chee Ong, João T.S. Coimbra, Maria João Ramos, Bengang Xing, Pedro Alexandrino Fernandes, Felipe Garcia",
+      "authors": "How Chee Ong, João T.S. Coimbra, Maria João Ramos, Bengang Xing, Pedro Alexandrino Fernandes, Felipe Garcia",
       "year": "2021",
       "publicationDate": "2021-04-19",
       "topic": "Publications",
@@ -9773,6 +9773,934 @@ window.HPCMM_CONTENT = {
         "doi:10.1016/0301-0104(82)85189-6"
       ],
       "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000191387498-213687222",
+      "title": "Achieving stable blue coloration of anthocyanins through pH-Modulated protein complexation",
+      "authors": "Wenxin Wang, Susana Soares, João T.S. Coimbra, Rui P.P. Neves, Ricardo Dias, Peiqing Yang, Zhenzhen Xu, Victor Freitas, Joana Oliveira, Xiaojun Liao · Journal of Advanced Research",
+      "year": "2026",
+      "publicationDate": "2026-05",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.jare.2026.05.009",
+      "placeholder": false,
+      "doi": "10.1016/j.jare.2026.05.009",
+      "orcidKeys": [
+        "doi:10.1016/j.jare.2026.05.009"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000191387498-187934015",
+      "title": "Achieving a dramatic blue colour stability in anthocyanins bearing acylated sugars in position 3′,5′",
+      "authors": "Joana Oliveira, João T. S. Coimbra, Victor Freitas, Peiqing Yang, Nuno Basílio, Fernando Pina · Chemical Communications",
+      "year": "2025",
+      "publicationDate": "2025",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1039/d5cc03251b",
+      "placeholder": false,
+      "doi": "10.1039/d5cc03251b",
+      "orcidKeys": [
+        "doi:10.1039/d5cc03251b"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000191387498-92419233",
+      "title": "Alkyl vs Aryl Modifications: A Comparative Study on Modular Modifications of Triphenylphosphonium Mitochondrial Vectors",
+      "authors": "How Chee Ong, João T.S. Coimbra, Maria João Ramos, Bengang Xing, Pedro Alexandrino Fernandes, Felipe Garcia",
+      "year": "2021",
+      "publicationDate": "2021-04-19",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.26434/chemrxiv.14445327",
+      "placeholder": false,
+      "doi": "10.26434/chemrxiv.14445327",
+      "orcidKeys": [
+        "doi:10.26434/chemrxiv.14445327"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000191387498-50266371",
+      "title": "Drug transport across cell membranes",
+      "authors": "João Tiago Soares Coimbra",
+      "year": "2017",
+      "publicationDate": "2017",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "http://hdl.handle.net/10216/104421",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-9138-7498:50266371"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000191387498-52717152",
+      "title": "Exploring the permeation of free and copper-complexed fluoroquinolones across the bacterial membrane",
+      "authors": "Sousa, Carla F, Coimbra, João TS, Ferreira, M, Fernandes, Pedro A, Gameiro, P · 19th IUPAB Congress / 11th EBSA Congress",
+      "year": "2017",
+      "publicationDate": "2017-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0001-9138-7498",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-9138-7498:52717152"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000191387498-67048180",
+      "title": "Proteínas de Transporte",
+      "authors": "João Coimbra · Revista de Ciência Elementar",
+      "year": "2015",
+      "publicationDate": "2015-06-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.24927/rce2015.147",
+      "placeholder": false,
+      "doi": "10.24927/rce2015.147",
+      "orcidKeys": [
+        "doi:10.24927/rce2015.147"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000191387498-20575746",
+      "title": "P2X7-induced zeiosis promotes osteogenic differentiation and mineralization of postmenopausal bone marrow-derived mesenchymal stem cells",
+      "authors": "Noronha-Matos, J.B., Coimbra, J., Sá-e-Sousa, A., Rocha, R., Marinhas, J., Freitas, R., Guerra-Gomes, S., Ferreirinha, F., Costa, M.A., Correia-de-Sá, P. · FASEB Journal",
+      "year": "2014",
+      "publicationDate": "2014",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1096/fj.14-257923",
+      "placeholder": false,
+      "doi": "10.1096/fj.14-257923",
+      "orcidKeys": [
+        "doi:10.1096/fj.14-257923"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000191387498-153889126",
+      "title": "Parameterization of Lipidic Components for Computational Simulation of Biomembranes through Molecular Dynamics",
+      "authors": "Coimbra, João TS · Universidade do Porto Faculdade de Ciências; Universidade do Porto Instituto de Ciências Biomédicas Abel Salazar",
+      "year": "2011",
+      "publicationDate": "2011-10-31",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0001-9138-7498",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-9138-7498:153889126"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-208864239",
+      "title": "A Mecânica Quântica Aplicada à Catálise Enzimática: Perspetivas de um Percurso Científico (Quantum Mechanics Applied to Enzymatic Catalysis, perspectives on a scientific trajectory)",
+      "authors": "A. V. Pinto, Ana Rita Calixto, António J. M. Ribeiro, R. da Silva, Joana, João P.M. Sousa, Coimbra, João TS, Castro-Amorim, J, et al. Corresponding author: Ramos, Maria João. · Boletim da Sociedade Portuguesa de Química",
+      "year": "2026",
+      "publicationDate": "2026",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0003-2032-9308",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2032-9308:208864239"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-208858849",
+      "title": "Methods for the establishment of enzymatic mechanisms - from QM to ML",
+      "authors": "Neves, Rui P. P., Coimbra, João TS, Paiva, Pedro, Raucci, Umberto, Das, Sudip, Ana Rita Calixto, António J. M. Ribeiro, et al. Autor correspondente: Ramos, Maria João.",
+      "year": "2026",
+      "publicationDate": "2026-03-18",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.26434/chemrxiv.15001047",
+      "placeholder": false,
+      "doi": "10.26434/chemrxiv.15001047",
+      "orcidKeys": [
+        "doi:10.26434/chemrxiv.15001047"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-184850184",
+      "title": "A Machine Learning-Driven, Probability-Based Approach to Enzyme Catalysis",
+      "authors": "Sudip Das, Umberto Raucci, Enrico Trizio, Peilin Kang, Rui P.P. Neves, Maria J. Ramos, Michele Parrinello · ACS Catalysis",
+      "year": "2025",
+      "publicationDate": "2025-06-06",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.5c02431",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.5c02431",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.5c02431"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-208864132",
+      "title": "A Machine Learning-Driven, Probability-Based Approach to Enzyme Catalysis",
+      "authors": "Das, Sudip, Raucci, Umberto, Trizio, Enrico, Kang, Peilin, Neves, Rui, Ramos, Maria, Parrinello, Michele",
+      "year": "2025",
+      "publicationDate": "2025-04",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.26434/chemrxiv-2025-dqb0g",
+      "placeholder": false,
+      "doi": "10.26434/chemrxiv-2025-dqb0g",
+      "orcidKeys": [
+        "doi:10.26434/chemrxiv-2025-dqb0g"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-176553188",
+      "title": "Correlating enzymatic reactivity for different substrates using transferable data-driven collective variables",
+      "authors": "Dr. Sudip Das, Umberto Raucci, Rui P. P. Neves, Maria Joao Ramos, Parrinello Michele · Proceedings of the National Academy of Sciences",
+      "year": "2024",
+      "publicationDate": "2024-12-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1073/pnas.2416621121",
+      "placeholder": false,
+      "doi": "10.1073/pnas.2416621121",
+      "orcidKeys": [
+        "doi:10.1073/pnas.2416621121"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-208864209",
+      "title": "Correlating Enzymatic Reactivity for Different Substrates using Transferable Data-Driven Collective Variables",
+      "authors": "Das, Sudip, Raucci, Umberto, Neves, Rui P.P., Ramos, Maria J., Parrinello, Michele",
+      "year": "2024",
+      "publicationDate": "2024-06-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.26434/chemrxiv-2024-1xhm0",
+      "placeholder": false,
+      "doi": "10.26434/chemrxiv-2024-1xhm0",
+      "orcidKeys": [
+        "doi:10.26434/chemrxiv-2024-1xhm0"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-155489984",
+      "title": "Feedback Inhibition of DszC, a Crucial Enzyme for Crude Oil Biodessulfurization",
+      "authors": "Rui P. P. Neves, Bruno Araújo, Maria J. Ramos, Pedro A. Fernandes · Zenodo",
+      "year": "2024",
+      "publicationDate": "2024-03-14",
+      "topic": "Publications",
+      "abstract": "Raw data for docking calculations ran with AutoDock Vina 4 Raw data for conventional MD simulations ran with Gromacs 2018.3 Input files to reproduce all calculations and simulations performed in the work Code written to perform data analysis and represenation Raw data for the analyses leading to the presented and discussed results in the manuscript",
+      "url": "https://doi.org/10.5281/zenodo.10817995",
+      "placeholder": false,
+      "doi": "10.5281/zenodo.10817995",
+      "orcidKeys": [
+        "doi:10.5281/zenodo.10817995"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-155489988",
+      "title": "Feedback Inhibition of DszC, a Crucial Enzyme for Crude Oil Biodessulfurization",
+      "authors": "Rui P. P. Neves, Bruno Araújo, Maria J. Ramos, Pedro A. Fernandes · Zenodo",
+      "year": "2024",
+      "publicationDate": "2024-03-14",
+      "topic": "Publications",
+      "abstract": "Raw data for docking calculations ran with AutoDock Vina 4 Raw data for conventional MD simulations ran with Gromacs 2018.3 Input files to reproduce all calculations and simulations performed in the work Code written to perform data analysis and represenation Raw data for the analyses leading to the presented and discussed results in the manuscript",
+      "url": "https://doi.org/10.5281/zenodo.10817996",
+      "placeholder": false,
+      "doi": "10.5281/zenodo.10817996",
+      "orcidKeys": [
+        "doi:10.5281/zenodo.10817996"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-163863220",
+      "title": "QM/MM MD Study on the Reaction Mechanism of Thymidine Phosphorylation Catalyzed by the Enzyme <i>Thermotoga maritima</i> Thymidine Kinase 1",
+      "authors": "Makurat, Samanta, Neves, Rui P. P., Ramos, Maria J., Rak, Janusz, Autor correspondente: Makurat, Samanta. · ACS Catalysis",
+      "year": "2024",
+      "publicationDate": "2024-06-17",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.4c01867",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.4c01867",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.4c01867"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-208864216",
+      "title": "How and When Does an Enzyme React? Unraveling a-Amylase Catalytic Activity with Enhanced Sampling Techniques",
+      "authors": "Das, Sudip, Raucci, Umberto, Neves, Rui P. P., Ramos, Maria, Parrinello, Michele",
+      "year": "2023",
+      "publicationDate": "2023-04-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.26434/chemrxiv-2023-h1498",
+      "placeholder": false,
+      "doi": "10.26434/chemrxiv-2023-h1498",
+      "orcidKeys": [
+        "doi:10.26434/chemrxiv-2023-h1498"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-49102197",
+      "title": "QM/MM Study of the Reaction Mechanism of the Dehydratase Domain from Mammalian Fatty Acid Synthase",
+      "authors": "Fabiola E. Medina, Rui P. P. Neves, Maria J. Ramos, Pedro A. Fernandes · ACS Catalysis",
+      "year": "2018",
+      "publicationDate": "2018-11-02",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acscatal.8b02616",
+      "placeholder": false,
+      "doi": "10.1021/acscatal.8b02616",
+      "orcidKeys": [
+        "doi:10.1021/acscatal.8b02616"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000320329308-54227912",
+      "title": "Metals'Data for Biomolecular Force Fields",
+      "authors": "Rui Pedro Pimenta Das Neves",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "http://hdl.handle.net/10216/92819",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0003-2032-9308:54227912"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209333745",
+      "title": "A Mecânica Quântica Aplicada à Catálise Enzimática: Perspetivas de um Percurso Científico",
+      "authors": "A. V. Pinto, Ana Rita Calixto, António J. M. Ribeiro, R. da Silva, Joana, João P.M. Sousa, Coimbra, João TS, Castro-Amorim, Juliana, et al. Corresponding author: Ramos, Maria João. · Boletim da Sociedade Portuguesa de Química",
+      "year": "2026",
+      "publicationDate": "2026",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209333745"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209333719",
+      "title": "Methods for the establishment of enzymatic mechanisms -from QM to ML",
+      "authors": "Neves, Rui P. P., Coimbra, João TS, Paiva, Pedro, Umberto Raucci, Sudip Das, Ana Rita Calixto, António J. M. Ribeiro, et al.",
+      "year": "2026",
+      "publicationDate": "2026",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001047/v2",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209333719"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209336224",
+      "title": "Unraveling NS2B-NS3 Protease Dynamics: Key Insights for Antiviral Drug Design",
+      "authors": "Fernandes, Pedro Alexandrino, Ramos, Maria João · 13th Triennial Congress of the World Association of Theoretical and Computational Chemists (WATOC 2025)",
+      "year": "2025",
+      "publicationDate": "2025-06-24",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209336224"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-166094161",
+      "title": "Catalytic Redundancies and Conformational Plasticity Drives Selectivity and Promiscuity in Quorum Quenching Lactonases",
+      "authors": "Marina Corbella, Joe Bravo, Andrey O. Demkiv, Ana Rita Calixto, Kitty Sompiyachoke, Celine Bergonzi, Alfie-Louise R. Brownless, Mikael H. Elias, Shina Caroline Lynn Kamerlin · JACS Au",
+      "year": "2024",
+      "publicationDate": "2024-09-23",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jacsau.4c00404",
+      "placeholder": false,
+      "doi": "10.1021/jacsau.4c00404",
+      "orcidKeys": [
+        "doi:10.1021/jacsau.4c00404"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209293503",
+      "title": "Sequence – Dynamics – Function Relationships in Protein Tyrosine Phosphatases",
+      "authors": "Crean, Rory M., Corbella, Marina, Ana Rita Calixto, Hengge, Alvan C., Kamerlin, S. C. L. · QRB Discovery",
+      "year": "2024",
+      "publicationDate": "2024-01-24",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1017/qrd.2024.3",
+      "placeholder": false,
+      "doi": "10.1017/qrd.2024.3",
+      "orcidKeys": [
+        "doi:10.1017/qrd.2024.3"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-113516345",
+      "title": "Correction to “Loop Dynamics and Enzyme Catalysis in Protein Tyrosine Phosphatases”",
+      "authors": "Rory M. Crean, Michal Biler, Marina Corbella, Ana R. Calixto, Marc W. van der Kamp, Alvan C. Hengge, Shina C. L. Kamerlin · Journal of the American Chemical Society",
+      "year": "2022",
+      "publicationDate": "2022-06-08",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jacs.2c04624",
+      "placeholder": false,
+      "doi": "10.1021/jacs.2c04624",
+      "orcidKeys": [
+        "doi:10.1021/jacs.2c04624"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-127725355",
+      "title": "Insights into the importance of WPD-loop sequence for activity and structure in protein tyrosine phosphatases",
+      "authors": "Ruidan Shen, Rory M. Crean, Keith J. Olsen, Marina Corbella, Ana R. Calixto, Teisha Richan, Tiago A. S. Brandão, Ryan D. Berry, Alex Tolman, J. Patrick Loria, Sean J. Johnson, Shina C. L. Kamerlin, Alvan C. Hengge · Chemical Science",
+      "year": "2022",
+      "publicationDate": "2022",
+      "topic": "Publications",
+      "abstract": "<jats:p>Protein tyrosine phosphatases have a key catalytic residue on a mobile loop (the WPD-loop), making the connections between this loop sequence and its dynamics, together with the dynamics of other mobile loops, particularly important.</jats:p>",
+      "url": "https://doi.org/10.1039/d2sc04135a",
+      "placeholder": false,
+      "doi": "10.1039/d2sc04135a",
+      "orcidKeys": [
+        "doi:10.1039/d2sc04135a"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209333083",
+      "title": "Understanding Biological GTP Hydrolysis through Molecular Simulation",
+      "authors": "Ana Rita Calixto, Cátia Moreira, Anna Pabis, Carsten Kötting, Klaus Gerwert, Till Rudack, Kamerlin, Shina Caroline Lynn · 12th WATOC",
+      "year": "2022",
+      "publicationDate": "2022-06",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209333083"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209333084",
+      "title": "Unraveling the catalytic mechanism of GTP hydrolysis by GTPases using computational approaches",
+      "authors": "Ana Rita Calixto, Cátia Moreira, Anna Pabis, Carsten Kötting, Klaus Gerwert, Till Rudack, Kamerlin, Shina Caroline Lynn · ACS Spring Meeting: Macromolecular Chemistry: The Second Century",
+      "year": "2021",
+      "publicationDate": "2021-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209333084"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209299983",
+      "title": "Computational modeling of biological phosphate hydrolysis",
+      "authors": "Ana Rita Calixto · LatinXChem Twitter Conference",
+      "year": "2020",
+      "publicationDate": "2020-09-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209299983"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209293504",
+      "title": "Contribution of oxyanion stabilization to kemp eliminase efficiency - Faculty Opinions",
+      "authors": "Ana Rita Calixto, Shina Caroline Lynn Kamerlin",
+      "year": "2020",
+      "publicationDate": "2020-06-25",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3410/f.738151194.793575634",
+      "placeholder": false,
+      "doi": "10.3410/f.738151194.793575634",
+      "orcidKeys": [
+        "doi:10.3410/f.738151194.793575634"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-69767743",
+      "title": "Recent Advances in Understanding Biological GTP Hydrolysis through Molecular Simulation",
+      "authors": "Ana Rita Calixto, Cátia Moreira, Shina Caroline Lynn Kamerlin · ACS Omega",
+      "year": "2020",
+      "publicationDate": "2020-03-10",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acsomega.0c00240",
+      "placeholder": false,
+      "doi": "10.1021/acsomega.0c00240",
+      "orcidKeys": [
+        "doi:10.1021/acsomega.0c00240"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-58613953",
+      "title": "GTP Hydrolysis Without an Active Site Base: A Unifying Mechanism for Ras and Related GTPases",
+      "authors": "Ana R. Calixto, Cátia Moreira, Anna Pabis, Carsten Kötting, Klaus Gerwert, Till Rudack, Shina C. L. Kamerlin · Journal of the American Chemical Society",
+      "year": "2019",
+      "publicationDate": "2019-06",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/jacs.9b03193",
+      "placeholder": false,
+      "doi": "10.1021/jacs.9b03193",
+      "orcidKeys": [
+        "doi:10.1021/jacs.9b03193"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-63745212",
+      "title": "The role of ligand-gated conformational changes in enzyme catalysis",
+      "authors": "Cátia Moreira, Ana Rita Calixto, John P. Richard, Shina Caroline Lynn Kamerlin · Biochemical Society Transactions",
+      "year": "2019",
+      "publicationDate": "2019-10-31",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1042/bst20190298",
+      "placeholder": false,
+      "doi": "10.1042/bst20190298",
+      "orcidKeys": [
+        "doi:10.1042/bst20190298"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209333718",
+      "title": "Foldamer hypothesis for the growth and sequence differentiation of prebiotic polymers - Faculty Opinions",
+      "authors": "Ana Rita Calixto, Shina Caroline Lynn Kamerlin",
+      "year": "2018",
+      "publicationDate": "2018-10-30",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.3410/f.729083320.793552002",
+      "placeholder": false,
+      "doi": "10.3410/f.729083320.793552002",
+      "orcidKeys": [
+        "doi:10.3410/f.729083320.793552002"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209299985",
+      "title": "The Influence of conformational diversity on enzyme catalysis",
+      "authors": "Ana Rita Calixto, Maria João Ramos, Pedro Alexandrino Fernandes · 6th Meeting of Young Researchers in Structural Computational Biology",
+      "year": "2018",
+      "publicationDate": "2018-12-21",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209299985"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-69453361",
+      "title": "The origin of the catalytic power of enzymes",
+      "authors": "Calixto, Ana Rita · Universidade do Porto",
+      "year": "2018",
+      "publicationDate": "2018-09-11",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://hdl.handle.net/10216/115766",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:69453361"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209299986",
+      "title": "The relationship between conformational fluctuations and activation energies of the HIV-1 protease catalytic mechanism",
+      "authors": "Ana Rita Calixto, Maria João Ramos, Pedro  Alexandrino Fernandes · 8th International Theoretical Biophysics Symposium",
+      "year": "2017",
+      "publicationDate": "2017-06-26",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209299986"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209299987",
+      "title": "The influence of protein motions and frozen atoms on the energetic barrier of HIV-1 protease’s catalytic mechanism - A QM/MM study",
+      "authors": "Ana Rita Calixto, Maria João Ramos, Pedro Alexandrino Fernandes · 5th Portuguese Young Chemists Meeting and 1st European Young Chemists Meeting",
+      "year": "2016",
+      "publicationDate": "2016-04-26",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209299987"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209299988",
+      "title": "Complicações vasculares associadas à Diabetes",
+      "authors": "Raquel Costa, Raquel Costa Almeida, Ana Rita Calixto, Ilda Rodrigues, Luisa Guardão, João Tiago Guimarães, Rita Negrão, Raquel Soares · 11º Congresso Português de Diabetes",
+      "year": "2014",
+      "publicationDate": "2014-03-06",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209299988"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209299989",
+      "title": "Elucidating the catalytic mechanism of human renin with a QM/MM study",
+      "authors": "Ana Rita Calixto, Natércia Fernandes Brás, Pedro  Alexandrino Fernandes, Maria João Ramos · XVIII National Meeting from the Portuguese Chemical Society",
+      "year": "2013",
+      "publicationDate": "2013-06-12",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209299989"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-69453362",
+      "title": "Elucidating the catalytic mechanism of human renin with hybrid quantum mechanics and molecular mechanics studies",
+      "authors": "Calixto, Ana Rita · Universidade do Porto",
+      "year": "2013",
+      "publicationDate": "2013-11-06",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://hdl.handle.net/10216/69472",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:69453362"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209299990",
+      "title": "A QM-MMM investigation of the catalytic mechanism of human renin protease",
+      "authors": "Ana Rita Calixto, Natércia Fernandes Brás, Pedro  Alexandrino Fernandes, Maria João Ramos · XVIII Luso Galician Meeting of Chemistry",
+      "year": "2012",
+      "publicationDate": "2012-11-28",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209299990"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000211230413-209299991",
+      "title": "Computational study of the catalytic mechanism of Human Renin protease",
+      "authors": "Ana Rita Calixto, Natércia Fernandes Brás, Pedro Alexandrino Fernandes, Maria João Ramos · 5th Meeting of Young Researchers of University of Porto (IJUP 2012)",
+      "year": "2012",
+      "publicationDate": "2012-02-22",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0002-1123-0413",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0002-1123-0413:209299991"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-209088878",
+      "title": "A Mecânica Quântica Aplicada à Catálise Enzimática: Perspetivas de um Percurso Científico (Quantum Mechanics Applied to Enzymatic Catalysis, perspectives on a scientific trajectory)",
+      "authors": "A. V. Pinto, Ana Rita Calixto, António J. M. Ribeiro, R. da Silva, Joana, João P.M. Sousa, Coimbra, João TS, Castro-Amorim, Juliana, et al. Corresponding author: Ramos, Maria João. · Boletim da Sociedade Portuguesa de Química",
+      "year": "2026",
+      "publicationDate": "2026",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0001-7015-5460",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-7015-5460:209088878"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-209089429",
+      "title": "Methods for the establishment of enzymatic mechanisms - from QM to ML",
+      "authors": "Neves, Rui P. P., Coimbra, João TS, Paiva, Pedro, Umberto Raucci, Sudip Das, Ana Rita Calixto, António J. M. Ribeiro, et al.",
+      "year": "2026",
+      "publicationDate": "2026-03",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://chemrxiv.org/doi/full/10.26434/chemrxiv.15001047/v1",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-7015-5460:209089429"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-190977681",
+      "title": "Design, Synthesis and Biological Evaluation of Chromeno[3,4-<i>b</i>]xanthones as Multifunctional Agents for Alzheimer’s Disease",
+      "authors": "Daniela Malafaia, Natércia F. Brás, Anna Sampietro, Inês Quintelas, Pedro Ferreira, Lúcia Melo, Joana Saavedra, Loreto Martinez-Gonzalez, Marisa Pereira, Jessica Sarabando, Leo König, Isabel Cardoso, Daniela Ribeiro, Ana R. Soares, Raimon Sabaté, Gert Fricker, Ana Martinez, Pedro A. Fernandes, Artur M. S. Silva, Hélio M. T. Albuquerque · ACS Chemical Neuroscience",
+      "year": "2025",
+      "publicationDate": "2025-08-06",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1021/acschemneuro.5c00425",
+      "placeholder": false,
+      "doi": "10.1021/acschemneuro.5c00425",
+      "orcidKeys": [
+        "doi:10.1021/acschemneuro.5c00425"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-202296926",
+      "title": "The Importance of Being Imperfect: Structure and Function of Bacterial Amyloid",
+      "authors": "Samuel Peña‐Díaz, Yanting Jiang, Zhefei Zhang, Anders Daugberg, Pedro Ferreira, Marcos López Hernández, Chandrika Mittal, Maria Joao Ramos, Jan Skov Pedersen, Morten Kam Dahl Dueholm, Cao Qin, Huabing Wang, Daniel E. Otzen · Advanced Science",
+      "year": "2025",
+      "publicationDate": "2025-12-05",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1002/advs.202517090",
+      "placeholder": false,
+      "doi": "10.1002/advs.202517090",
+      "orcidKeys": [
+        "doi:10.1002/advs.202517090"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-209171487",
+      "title": "The Importance of Being Imperfect: Structure and Function of Bacterial Amyloid",
+      "authors": "Peña-Díaz, S,  Jiang, YT,  Zhang, ZF,  Daugberg, A,  Ferreira, P,  Hernández, ML,  Mittal, C,  Ramos, MJ,  Pedersen, JS,  Dueholm, MKD,  Qin, C,  Wang, HB,  Otzen, DE · ADVANCED SCIENCE",
+      "year": "2025",
+      "publicationDate": "2025",
+      "topic": "Publications",
+      "abstract": "Amyloids, once viewed solely as pathological hallmarks, are now recognized as widespread and versatile functional protein assemblies. Bacterial functional amyloids (FuBAs), particularly curli (CsgA) from Escherichia coli and FapC from Pseudomonas, have emerged as paradigms for understanding amyloid structure, assembly, and function. The recent cryo-EM-based structure of FapC, together with others' combined cryo-EM and integrative computational studies on CsgA, reveal a beta-solenoid fold stabilized by imperfect repeats, producing fibrils of exceptional stability and low polymorphism, whose biogenesis is tightly controlled through dedicated accessory factors, ensuring precise secretion and nucleation. FuBAs not only scaffold biofilms but also display intrinsic catalytic activity, expanding the biochemical repertoire of extracellular matrices. They also exhibit hierarchical mechanical properties ranging from GPa stiffness at the fibril core to kPa elasticity in hydrated biofilms. FuBA operons are phylogenetically widespread, with repeat variation contributing to sequence diversity and functional adaptability. FuBAs might be seen as evolutionary intermediates between disordered peptides with significant self-interaction tendencies and highly structured globular proteins. Their simple structures make them robust platforms for biomaterial engineering. Understanding the interplay between sequence repeats, fibril architecture, and emergent functions opens avenues for harnessing amyloids as programmable nanomaterials with applications in catalysis, synthetic biology, and biofilm control.",
+      "url": "https://www.authenticus.pt/P-01A-NHJ",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-7015-5460:209171487"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-164076574",
+      "title": "Mining and engineering activity in catalytic amyloids",
+      "authors": "Samuel Peña-Díaz, Pedro Ferreira, Maria João Ramos, Daniel E. Otzen",
+      "year": "2024",
+      "publicationDate": "2024",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/bs.mie.2024.03.002",
+      "placeholder": false,
+      "doi": "10.1016/bs.mie.2024.03.002",
+      "orcidKeys": [
+        "doi:10.1016/bs.mie.2024.03.002"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-209088876",
+      "title": "The Catalytic Mechanism of the Human Aldehyde Oxidase",
+      "authors": "Ferreira, Pedro, Cerqueira, Nuno M. F. S. A., Fernandes, Pedro Alexandrino, Ramos, Maria João · 45th FEBS congress, July 2021. Ljubljana, Slovenia",
+      "year": "2021",
+      "publicationDate": "2021-07",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0001-7015-5460",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-7015-5460:209088876"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-209088875",
+      "title": "Studies on the reaction mechanism of oxidation of the N-heterocycle phthalazine (PHT) by the human Aldehyde Oxidase",
+      "authors": "Ferreira, Pedro, Cerqueira, Nuno M. F. S. A., Fernandes, Pedro Alexandrino, Romão, Maria Joao, Ramos, Maria João · UCIBIO Annual meeting, 28-29 September 2018. Caparica, Portugal",
+      "year": "2018",
+      "publicationDate": "2018-09",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0001-7015-5460",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-7015-5460:209088875"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-24208872",
+      "title": "Effects of multi-stressors on juveniles of the marine fish Pomatoschistus microps: Gold nanoparticles, microplastics and temperature",
+      "authors": "Ferreira, P., Fonte, E., Soares, M.E., Carvalho, F., Guilhermino, L. · Aquatic Toxicology",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.aquatox.2015.11.011",
+      "placeholder": false,
+      "doi": "10.1016/j.aquatox.2015.11.011",
+      "orcidKeys": [
+        "doi:10.1016/j.aquatox.2015.11.011"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-24209199",
+      "title": "Parameterization of AMBER force field constants for Molybdenum containing enzymes",
+      "authors": "Citation details not supplied in ORCID",
+      "year": "2016",
+      "publicationDate": "2016-02",
+      "topic": "Publications",
+      "abstract": "IJUP'16 - 9º Encontro de Jovens Investigadores da Universidade do Porto",
+      "url": "https://orcid.org/0000-0001-7015-5460",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-7015-5460:24209199"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-164845947",
+      "title": "Temperature rise and microplastics interact with the toxicity of the antibiotic cefalexin to juveniles of the common goby (Pomatoschistus microps): Post-exposure predatory behaviour, acetylcholinesterase activity and lipid peroxidation",
+      "authors": "Fonte, E, Ferreira, P, Guilhermino, L · AQUATIC TOXICOLOGY",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "The goal of this study was to investigate the toxicity of cefalexin to Pomatoschistus microps juveniles in relation to the presence of microplastics in the water and temperature rise. After acclimatization, groups of wild juveniles were exposed for 96 h to artificial salt water (control), microplastics alone (0.184 mg/I), cefalexin alone (1.3-10 mg/I) and in mixture with microplastics (cefalexin: 1.3-10 mg/I; microplastics: 0.184 mg/l) at 20 and 25 degrees C. Effect criteria were mortality, post-exposure predatory performance (PEPP), acetylcholinesterase activity (AChE) and lipid peroxidation levels (LPO). At 20 degrees C, concentrations of cefalexin alone >= 5 mg/l significantly reduced PEPP (up to 56%; 96h-EC50 = 8.4 mg/I), indicating toxicity of the antibiotic to juveniles after short-term exposure to water concentrations in the low ppm range. At 20 degrees C, fish exposed to microplastics alone did not have significant differences in any of the parameters tested relative to the control group but tended to have an inhibition of the PEPP (23%) and AChE (21%); at 25 degrees C, microplastics alone caused mortality (33%) and PEPP inhibition (28%). Thus, microplastics are toxic to P. microps juveniles. At 20 degrees C, under simultaneous exposure to cefalexin and microplastics, the PEPP was significantly reduced (at cefalexin concentrations > 1.25 mg/l). Moreover, at 25 degrees C, the toxicity curves of cefalexin (PEPP based), alone and in mixture with microplastics, were significantly different (p < 0.05; 96h-EC50 of 3.8 and 5.2 mg/l, respectively), and the integrated data analysis indicated significant interactions between the two substances for all biomarkers. Thus, the presence of microplastics in the water influenced the toxicity of cefalexin. The rise of water temperature (from 20 degrees C to 25 degrees C), increased the microplastics-induced mortality (from 8 to 33%), and the inhibitory effects of cefalexin on the PEPP (up to 70%). Significant differences (p < 0.05) between the toxicity curves of cefalexin alone at distinct temperatures were found, with a lower 96h-EC50 at 25 degrees C (3.8 mg/l) than at 20 degrees C (8.4 mg/l). Moreover, at 25 degrees C, increases of AChE activity (14%) and LPO (72%) in fish exposed to the mixture treatment containing the highest cefalexin concentration were found, and the integrated analysis of data indicated significant interactions between cefalexin and temperature for PEPP, and among all stressors for LPO. Thus, the temperature rise increased the toxicity of microplastics and of cefalexin, alone and in mixture with microplastics, to P. microps juveniles. These findings raise concern on the long-term exposure of wild populations to complex mixtures of pollutants, likely decreasing their fitness, and highlight the need of more research on the combined effects of widely used pharmaceuticals, microplastics and temperature increase on wild species to improve environmental and human risk assessments of chemicals and their safe use under a global warming scenario.",
+      "url": "https://doi.org/10.1016/j.aquatox.2016.09.015",
+      "placeholder": false,
+      "doi": "10.1016/j.aquatox.2016.09.015",
+      "orcidKeys": [
+        "doi:10.1016/j.aquatox.2016.09.015"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-209088877",
+      "title": "The Catalytic mechanism of the marine-derived macrocyclase, PatGmac",
+      "authors": "Ferreira, Pedro, Bras, Natercia F., Marcel Jaspars, Wael Houssen, James H. Naismith, Fernandes, Pedro Alexandrino, Ramos, Maria João · DYNAPEUTICS International Scientific School, Donostia, Basque Country (Spain)",
+      "year": "2016",
+      "publicationDate": "2016",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://orcid.org/0000-0001-7015-5460",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-7015-5460:209088877"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-24209151",
+      "title": "Combined effects of gold nanoparticles, microplastics and temperature increase on the common goby (Pomatoschistus microps): predatory performance, biomarkers and gold body burden",
+      "authors": "Citation details not supplied in ORCID",
+      "year": "2015",
+      "publicationDate": "2015-05",
+      "topic": "Publications",
+      "abstract": "SETAC Europe 25th Annual Meeting",
+      "url": "https://orcid.org/0000-0001-7015-5460",
+      "placeholder": false,
+      "doi": "",
+      "orcidKeys": [
+        "orcid:0000-0001-7015-5460:24209151"
+      ],
+      "source": "orcid"
+    },
+    {
+      "id": "orcid-0000000170155460-24208873",
+      "title": "Does the presence of microplastics influence the acute toxicity of chromium(VI) to early juveniles of the common goby (Pomatoschistus microps)? A study with juveniles from two wild estuarine populations",
+      "authors": "Luís, L.G., Ferreira, P., Fonte, E., Oliveira, M., Guilhermino, L. · Aquatic Toxicology",
+      "year": "2015",
+      "publicationDate": "2015",
+      "topic": "Publications",
+      "abstract": "",
+      "url": "https://doi.org/10.1016/j.aquatox.2015.04.018",
+      "placeholder": false,
+      "doi": "10.1016/j.aquatox.2015.04.018",
+      "orcidKeys": [
+        "doi:10.1016/j.aquatox.2015.04.018"
+      ],
+      "source": "orcid"
     }
   ],
   "members": [
@@ -10771,26 +11699,273 @@ window.HPCMM_CONTENT = {
       "email": "mjramos@fc.up.pt"
     },
     {
-      "id": "research-software-engineer",
-      "name": "Researcher name",
-      "role": "Research software engineer",
-      "biography": "This example profile introduces a research software engineer. Describe their work on scientific software, computing infrastructure, or reproducible research workflows.",
-      "interests": "Parallel algorithms; GPU computing; research software.",
-      "paperIds": [],
-      "placeholder": true,
-      "orcid": "",
-      "autoSync": false,
-      "orcidExcluded": [],
-      "photo": {
-        "src": "",
-        "alt": "",
-        "caption": ""
-      },
-      "cienciavitae": "",
+      "id": "member-fba34bcc",
+      "orcid": "0000-0001-9138-7498",
+      "autoSync": true,
+      "name": "João Coimbra",
+      "role": "Junior Research",
+      "cienciavitae": "https://www.cienciavitae.pt/portal/AB1A-C75A-A11A",
       "researchgate": "",
       "linkedin": "",
       "website": "",
-      "email": ""
+      "email": "joao.coimbra@fc.up.pt",
+      "biography": "João T. S. COIMBRA is a junior researcher at the Portuguese Research Centre for Sustainable Chemistry (LAQV, REQUIMTE). His research currently focuses on the application of multi-resolution computational methods to explore the molecular mechanisms responsible for antimicrobial resistance, such as antibiotic modification and degradation by enzymes. He graduated in biochemistry and received his Ph.D. in Sustainable Chemistry in 2017 from the Universities of Porto and Nova Lisbon, with specialization in Computational Biochemistry. During his Ph.D. he was also a young research consultant for the PepsiCo, Inc corporation. He then joined the Research Unit on Applied Molecular Biosciences (UCIBIO) as a postdoctoral fellow to develop new drugs to fight type-II diabetes. In 2020, he was awarded a Recognized Researcher (R2) position by the highly competitive Individual Call of the Portuguese National Science Foundation (CEECIND, FCT), a position he currently holds. He authored more than 30 indexed publications (h-index: 12, >550 total citations - Web of Science) including highly prestigious journals, such as JACS Au, Chemical Science, and Journal of Molecular Biology. He has participated in several research projects, including advanced computing projects in Portugal (as a principal investigator and co-principal investigator), USA (OLCF-ORNL) and Europe (PRACE).",
+      "interests": "",
+      "paperIds": [
+        "orcid-0000000191387498-213687222",
+        "orcid-0000000270036055-221447155",
+        "orcid-0000000191387498-187934015",
+        "orcid-0000000327484722-191654189",
+        "orcid-0000000327484722-184067319",
+        "orcid-0000000327484722-172232615",
+        "orcid-0000000327484722-170103883",
+        "orcid-0000000327484722-131759381",
+        "orcid-0000000327484722-177585040",
+        "orcid-0000000327484722-143530553",
+        "orcid-0000000327484722-115466675",
+        "orcid-0000000327484722-115020913",
+        "orcid-0000000327484722-109241218",
+        "orcid-0000000327484722-112955355",
+        "orcid-0000000191387498-92419233",
+        "orcid-0000000327484722-92420673",
+        "orcid-0000000327484722-99567275",
+        "orcid-0000000327484722-109241588",
+        "orcid-0000000327484722-86187839",
+        "orcid-0000000327484722-227274260",
+        "orcid-0000000327484722-63548330",
+        "orcid-0000000327484722-55647919",
+        "orcid-0000000327484722-63548280",
+        "orcid-0000000327484722-55647925",
+        "orcid-0000000327484722-55647929",
+        "orcid-0000000327484722-55647932",
+        "orcid-0000000327484722-55647937",
+        "orcid-0000000327484722-45582628",
+        "orcid-0000000191387498-50266371",
+        "orcid-0000000191387498-52717152",
+        "orcid-0000000327484722-45582634",
+        "orcid-0000000327484722-45582635",
+        "orcid-0000000327484722-45582636",
+        "orcid-0000000327484722-29653223",
+        "orcid-0000000327484722-29653226",
+        "orcid-0000000327484722-177584201",
+        "orcid-0000000191387498-67048180",
+        "orcid-0000000327484722-17687102",
+        "orcid-0000000327484722-17687091",
+        "orcid-0000000327484722-17687090",
+        "orcid-0000000191387498-20575746",
+        "orcid-0000000327484722-17687088",
+        "orcid-0000000327484722-17687098",
+        "orcid-0000000327484722-17687126",
+        "orcid-0000000327484722-17687137",
+        "orcid-0000000327484722-29653232",
+        "orcid-0000000327484722-17687129",
+        "orcid-0000000191387498-153889126"
+      ],
+      "placeholder": false,
+      "orcidExcluded": [],
+      "photo": {
+        "src": "assets/images/team/joaocoimbra.jpg",
+        "alt": "joao-coimbra",
+        "caption": ""
+      }
+    },
+    {
+      "id": "member-4a4ec246",
+      "orcid": "0000-0003-2032-9308",
+      "autoSync": true,
+      "name": "Rui Neves",
+      "role": "Junior Researcher",
+      "cienciavitae": "https://www.cienciavitae.pt/0F17-0547-ADD3",
+      "researchgate": "",
+      "linkedin": "",
+      "website": "",
+      "email": "rui.neves@fc.up.pt",
+      "biography": "Since I got my PhD in Computational Chemistry in 2016, I have been focusing my research on the study of enzyme reaction mechanisms with biotechnological applications. To date, I have studied mechanisms of biological thiol-disulfide exchange, and sulfur oxygenation for the green biodesulfurization of sour crude oil (PTDC/QUI-QFI/28714/2017) in a collaboration with Dr Sandra Ribeiro (I3S, Porto). From 2020 to 2022, I was a team member on a PRACE funded project (Biodegrading Plastics, 2019215204), focused on the in silico study of the reaction mechanism of two PET-degrading enzymes, and improving their activity through both enzyme mutagenesis and adsorption to functionalized carbon-based material. I have also collaborated in multiple projects on drug-design of new patentable drugs for the treatment of type-II diabetes (NORTE-01-0145-FEDER-000024 and PTDC/MED-QUI/29241/2017), and I am now acting as a co-PI on a EuroHPC Regular Access process (Murderous Venom, EHPC-REG-2022R03-205), focused on the study of reaction mechanisms of promising enzymes for small molecule drug design of inhibitors towards snake envenoming.\n\nSince 2022, I am developing my independent line of research as a Junior Researcher under the Stimulus of Scientific Employment Individual Call funded by the Portuguese Science Foundation. My main research interests concern the study of enzymes catalysing sulphur redox reactions. My project aims to characterize enzyme reaction mechanisms, cataloging existing and designing novel sulphur oxidoreductases, and develop rational in silico enzyme engineering strategies, in order to impulse the circular economy of sulphur capture, recycle and storage. In particular, I am carrying out research of hydrogen sulphide oxidation and sulphur dioxide reduction to elemental sulfur, by bacterial sulfide:quinone reductases, and assimilatory/dissimilatory sulfite reductases, using a combination of hybrid QM/MM methods and molecular dynamics simulations.",
+      "interests": "",
+      "paperIds": [
+        "orcid-0000000320329308-208864239",
+        "orcid-0000000191387498-213687222",
+        "orcid-0000000327484722-216241860",
+        "orcid-0000000327484722-205519038",
+        "orcid-0000000320329308-208858849",
+        "orcid-0000000270036055-221447155",
+        "orcid-0000000320329308-184850184",
+        "orcid-0000000320329308-208864132",
+        "orcid-0000000327484722-189187812",
+        "orcid-0000000320329308-176553188",
+        "orcid-0000000320329308-208864209",
+        "orcid-0000000327484722-177585046",
+        "orcid-0000000320329308-155489984",
+        "orcid-0000000320329308-155489988",
+        "orcid-0000000320329308-163863220",
+        "orcid-0000000327484722-147012414",
+        "orcid-0000000327484722-177584195",
+        "orcid-0000000327484722-133034325",
+        "orcid-0000000275548324-201686926",
+        "orcid-0000000320329308-208864216",
+        "orcid-0000000327484722-115466675",
+        "orcid-0000000327484722-115020913",
+        "orcid-0000000327484722-124970161",
+        "orcid-0000000327484722-116812009",
+        "orcid-0000000327484722-116372720",
+        "orcid-0000000327484722-113319741",
+        "orcid-0000000327484722-95903058",
+        "orcid-0000000327484722-109241361",
+        "orcid-0000000327484722-98139109",
+        "orcid-0000000327484722-99412875",
+        "orcid-0000000327484722-78764321",
+        "orcid-0000000275548324-107110197",
+        "orcid-0000000327484722-227274260",
+        "orcid-0000000327484722-78652772",
+        "orcid-0000000327484722-82586763",
+        "orcid-0000000327484722-63548356",
+        "orcid-0000000327484722-55647928",
+        "orcid-0000000327484722-55647930",
+        "orcid-0000000327484722-55647932",
+        "orcid-0000000320329308-49102197",
+        "orcid-0000000327484722-45582622",
+        "orcid-0000000327484722-45582632",
+        "orcid-0000000327484722-45582624",
+        "orcid-0000000327484722-29653217",
+        "orcid-0000000320329308-54227912",
+        "orcid-0000000327484722-177584201",
+        "orcid-0000000327484722-29653225",
+        "orcid-0000000327484722-17687093",
+        "orcid-0000000327484722-17687090",
+        "orcid-0000000327484722-17687128",
+        "orcid-0000000327484722-17687129"
+      ],
+      "placeholder": false,
+      "orcidExcluded": [],
+      "photo": {
+        "src": "assets/images/team/ruineves.jpg",
+        "alt": "rui-neves",
+        "caption": ""
+      }
+    },
+    {
+      "id": "member-7c5c6c1d",
+      "orcid": "0000-0002-1123-0413",
+      "autoSync": true,
+      "name": "Ana Rita Calixto",
+      "role": "Junior Researcher",
+      "cienciavitae": "https://www.cienciavitae.pt/A318-F7AE-A46A",
+      "researchgate": "",
+      "linkedin": "",
+      "website": "",
+      "email": "ana.rita.calixto@fc.up.pt",
+      "biography": "I obtained my BSc (2011) and MSc (2013) degrees in Biochemistry from the University of Porto (Portugal). After initial training in experimental research groups, I transitioned to computational biochemistry, joining the Theoretical and Computational Biochemistry (TCB) group under the supervision of Prof. Maria João Ramos and Prof. Pedro Alexandrino Fernandes, supported by an FCT fellowship within the project “New Drugs for Hypertension” (PTDC/QUI-QUI/121744/2010).\n \n I completed my PhD in September 2018, funded by an FCT doctoral fellowship (SFRH/BD/95962/2013), within the Doctoral Program in Sustainable Chemistry (University of Porto, University of Aveiro, and NOVA University Lisbon). My research focused on elucidating the molecular basis of enzyme catalysis, combining QM/MM methods and molecular dynamics simulations to uncover the origin of catalytic power and the role of conformational dynamics. This work resulted in six publications in high-impact journals, establishing a strong foundation in mechanistic enzymology and computational chemistry.\n \n In 2018, I was awarded a international postdoctoral fellowship from the Stiftelsen Olle Engkvist Byggmästare (grant 190-0335), which enabled me to join the group of Prof. Lynn Kamerlin at Uppsala University (Sweden). I subsequently continued as a postdoctoral researcher (2020–2022), where I expanded my research scope and contributed to multidisciplinary projects on enzyme catalysis and phosphate hydrolysis. During this period, I contributed to multidisciplinary projects on enzyme catalysis and phosphate hydrolysis, in close collaboration with experimental groups. These studies, including work on GTPases (JACS, 2019), protein tyrosine phosphatases (Chem. Sci., 2022), and lactonases (JACS Au, 2024), reinforced my experience in combining advanced computational methods with experimental results.\n \n In 2022, I was awarded an FCT Scientific Employment Stimulus contract as a Junior Researcher at LAQV-REQUIMTE, marking my transition towards scientific independence. My current research focuses on the identification and mechanistic characterization of molecular targets for flavivirus drug discovery, combining advanced simulation techniques with rational inhibitor design.\n \n Throughout my career, I have authored 16 peer-reviewed publications and presented 19 communications at national and international conferences (6 oral presentations and 13 posters), reflecting consistent scientific productivity and active dissemination. I have developed strong mentoring and leadership skills through the supervision of 10 bachelor’s and master’s students, as well as teaching experience at Uppsala University and the University of Porto. I have further strengthened my academic profile through formal pedagogical training, including the Doctoral Supervisor Training Course and Supervising PhD Students Course at Uppsala University.",
+      "interests": "",
+      "paperIds": [
+        "orcid-0000000211230413-209333745",
+        "orcid-0000000327484722-198882477",
+        "orcid-0000000211230413-209333719",
+        "orcid-0000000270036055-221447155",
+        "orcid-0000000327484722-173079073",
+        "orcid-0000000327484722-173079077",
+        "orcid-0000000211230413-209336224",
+        "orcid-0000000211230413-166094161",
+        "orcid-0000000211230413-209293503",
+        "orcid-0000000327484722-162943014",
+        "orcid-0000000211230413-113516345",
+        "orcid-0000000211230413-127725355",
+        "orcid-0000000211230413-209333083",
+        "orcid-0000000327484722-90168691",
+        "orcid-0000000211230413-209333084",
+        "orcid-0000000327484722-76878151",
+        "orcid-0000000211230413-209299983",
+        "orcid-0000000211230413-209293504",
+        "orcid-0000000211230413-69767743",
+        "orcid-0000000327484722-58676292",
+        "orcid-0000000211230413-58613953",
+        "orcid-0000000211230413-63745212",
+        "orcid-0000000327484722-55647922",
+        "orcid-0000000211230413-209333718",
+        "orcid-0000000211230413-209299985",
+        "orcid-0000000211230413-69453361",
+        "orcid-0000000327484722-45582631",
+        "orcid-0000000327484722-35419347",
+        "orcid-0000000211230413-209299986",
+        "orcid-0000000327484722-29653224",
+        "orcid-0000000211230413-209299987",
+        "orcid-0000000211230413-209299988",
+        "orcid-0000000327484722-17687094",
+        "orcid-0000000211230413-209299989",
+        "orcid-0000000211230413-69453362",
+        "orcid-0000000211230413-209299990",
+        "orcid-0000000211230413-209299991"
+      ],
+      "placeholder": false,
+      "orcidExcluded": [],
+      "photo": {
+        "src": "assets/images/team/ritacalixto.jpg",
+        "alt": "rita-calixto",
+        "caption": ""
+      }
+    },
+    {
+      "id": "member-67b56136",
+      "orcid": "0000-0001-7015-5460",
+      "autoSync": true,
+      "name": "Pedro Ferreira",
+      "role": "Junior Researcher",
+      "cienciavitae": "https://www.cienciavitae.pt/851F-D029-B6E6",
+      "researchgate": "",
+      "linkedin": "https://www.linkedin.com/in/pedro-ferreira-97b09190/",
+      "website": "",
+      "email": "peferreira@fc.up.pt",
+      "biography": "I hold a BsC (2012) and MsC (2014) degrees in Biochemistry and PhD in Chemistry (2022) in the University of Porto.\nDuring my PhD I studied three enzymes of industrial interest, the human aldehyde oxidase, sulfur oxygenase/reductase and mannosylglycerate synthase using molecular dynamics and quantum mechanics/molecular mechanics methods. I also got funded by the HPC-Europa3 Transnational Access programme (HPC17EOCBQ) which allowed me to spend a period of my PhD at the University of Groningen in Netherlands, from which I was able to access the Dutch National Supercomputer Snellius.\nI'm currently a junior researcher at the High Performance Computing in Molecular Modelling group of LAQV/REQUIMTE being my main focus the computational study of enzymes with potential industrial application. On that topic I studied the reaction mechanisms and enzyme engineering studies of two enzymes involved in the 4S pathway targeting the green biodesulfurization of crude oil (PTDC/QUI-QFI/28714/2017).\nCurrently, as a junior researcher, I'm involved in two lines of research, one that focus on the biodegradation of plastics using enzymes and other that focus on the study of enzymes present in snake venom under CEECINST/00136/2021/CP2820/CT0002.\nI'm also teaching since 2023 practical componetns of Computational Biochemistry and Bioinformatics at the Faculty of Sciences of the University of Porto.",
+      "interests": "",
+      "paperIds": [
+        "orcid-0000000170155460-209088878",
+        "orcid-0000000170155460-209089429",
+        "orcid-0000000270036055-190687250",
+        "orcid-0000000327484722-180370096",
+        "orcid-0000000170155460-190977681",
+        "orcid-0000000170155460-202296926",
+        "orcid-0000000170155460-209171487",
+        "orcid-0000000270036055-202904480",
+        "orcid-0000000327484722-177585046",
+        "orcid-0000000170155460-164076574",
+        "orcid-0000000327484722-176047794",
+        "orcid-0000000327484722-121464397",
+        "orcid-0000000327484722-177584198",
+        "orcid-0000000327484722-109241264",
+        "orcid-0000000327484722-95903058",
+        "orcid-0000000327484722-109241361",
+        "orcid-0000000327484722-107000219",
+        "orcid-0000000327484722-98139109",
+        "orcid-0000000170155460-209088876",
+        "orcid-0000000327484722-90168691",
+        "orcid-0000000327484722-109241142",
+        "orcid-0000000327484722-76878151",
+        "orcid-0000000327484722-78351235",
+        "orcid-0000000327484722-227274260",
+        "orcid-0000000327484722-82586763",
+        "orcid-0000000327484722-58249202",
+        "orcid-0000000327484722-55647931",
+        "orcid-0000000327484722-55647936",
+        "orcid-0000000170155460-209088875",
+        "orcid-0000000327484722-177584200",
+        "orcid-0000000327484722-45582630",
+        "orcid-0000000170155460-24208872",
+        "orcid-0000000327484722-90168648",
+        "orcid-0000000170155460-24209199",
+        "orcid-0000000170155460-164845947",
+        "orcid-0000000327484722-29653224",
+        "orcid-0000000170155460-209088877",
+        "orcid-0000000170155460-24209151",
+        "orcid-0000000170155460-24208873"
+      ],
+      "placeholder": false,
+      "orcidExcluded": [
+        "doi:10.1039/d6sc02180h"
+      ],
+      "photo": {
+        "src": "assets/images/team/pedroferreira.jpg",
+        "alt": "pedro-ferreira",
+        "caption": ""
+      }
     }
   ],
   "software": [
