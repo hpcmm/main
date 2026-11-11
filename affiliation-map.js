@@ -1,63 +1,50 @@
 (() => {
-const split = text => String(text || '').split('\n').map(line => line.split('|').map(field => field.trim()));
-const key = text => text.toLowerCase().replace(/\s+/g,' ').trim();
-let leaflet;
-function loadMapLibrary(){
- if(window.L?.map) return Promise.resolve(window.L);
- if(leaflet) return leaflet;
- leaflet=new Promise((resolve,reject)=>{
-  const css=document.createElement('link');
-  css.rel='stylesheet';css.href='https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
-  document.head.append(css);
-  const script=document.createElement('script');
-  script.src='https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
-  script.onload=()=>window.L?.map?resolve(window.L):reject();
-  script.onerror=reject;document.head.append(script);
- });
- return leaflet;
-}
+const fields = text => String(text || '').split('\n').map(line=>line.split('|').map(s=>s.trim()));
+const key = s=>s.toLowerCase().replace(/\s+/g,' ').trim();
 function groups(d){
  const locations=new Map();
- for(const [name,lat,lon] of split(d.group.affiliationLocations)){
-  if(!name || !lat || !lon || !Number.isFinite(+lat) || !Number.isFinite(+lon) || Math.abs(+lat)>85 || Math.abs(+lon)>180)continue;
-  locations.set(key(name),{name,coords:[+lat,+lon],people:new Set()});
+ for(const [name,lat,lon] of fields(d.group.affiliationLocations)){
+  if(!name||!lat||!lon||!Number.isFinite(+lat)||!Number.isFinite(+lon)||Math.abs(+lat)>90||Math.abs(+lon)>180)continue;
+  locations.set(key(name),{name,lat:+lat,lon:+lon,people:new Set()});
  }
- const people=[...d.members.map(m=>[m.name,m.affiliation]),...split(d.group.formerMembers),...split(d.group.collaborators)];
- for(const [name,aff] of people)if(name&&aff)locations.get(key(aff))?.people.add(name);
- return [...locations.values()].filter(place=>place.people.size);
+ for(const [name,aff] of [...d.members.map(m=>[m.name,m.affiliation]),...fields(d.group.formerMembers),...fields(d.group.collaborators)]){
+  if(name&&aff)locations.get(key(aff))?.people.add(name);
+ }
+ return [...locations.values()].filter(p=>p.people.size);
 }
 window.HPCMM_AFFILIATION_GROUPS=groups;
 window.HPCMM_AFFILIATION_MAP=(target,d)=>{
  if(!target)return;
  const places=groups(d);
- const make=(tag,label)=>{const el=document.createElement(tag);if(label)el.textContent=label;return el;};
- if(!places.length){target.append(make('p','No institutional locations have been added yet.'));return;}
- const details=make('details'),summary=make('summary','Open affiliation map'),canvas=make('div'),status=make('p');
- canvas.className='campus-map';canvas.setAttribute('aria-label','Map of institutional affiliations');canvas.hidden=true;
- status.setAttribute('role','status');details.append(summary,status,canvas);
- let started=false,map;
- details.addEventListener('toggle',async()=>{
-  if(!details.open)return;
-  if(map){map.invalidateSize();return;}
-  if(started)return;
-  started=true;status.textContent='Loading map…';
-  try{
-   const L=await loadMapLibrary();canvas.hidden=false;
-   map=L.map(canvas,{scrollWheelZoom:false});
-   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:19,attribution:'&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'}).addTo(map);
-   for(const place of places){
-    const popup=make('div'),names=make('ul');popup.append(make('strong',place.name),names);
-    [...place.people].sort().forEach(name=>names.append(make('li',name)));
-    const marker=L.marker(place.coords,{title:place.name,alt:place.name,icon:L.divIcon({className:'campus-pin',html:String(place.people.size),iconSize:[30,30]})}).addTo(map);
-    marker.bindPopup(popup);
-   }
-   if(places.length===1)map.setView(places[0].coords,12);
-   else map.fitBounds(places.map(place=>place.coords),{padding:[24,24],maxZoom:12});
-   status.textContent='';
-  }catch{canvas.hidden=true;status.textContent='The map could not load. The institution list is below.';}
- });
- const list=make('ul');
- for(const place of places){const item=make('li');item.append(make('strong',place.name),document.createTextNode(' — '+[...place.people].sort().join(', ')));list.append(item);}
- target.append(details,list);
+ const svgNS='http://www.w3.org/2000/svg';
+ const el=(tag,text)=>{const node=document.createElement(tag);if(text)node.textContent=text;return node;};
+ const svg=(tag,attrs)=>{const node=document.createElementNS(svgNS,tag);for(const [k,v] of Object.entries(attrs))node.setAttribute(k,v);return node;};
+ const stage=el('div');stage.className='map-stage';
+ const ocean=svg('svg',{viewBox:'0 0 500 300',role:'img','aria-label':'Map of institutional affiliations'});
+ const geo=window.HPCMM_MAP_LAND||'';
+ const lons=places.map(p=>p.lon),lats=places.map(p=>p.lat);
+ const middleX=places.length?(Math.max(...lons)+Math.min(...lons))/2:0;
+ const middleY=places.length?(Math.max(...lats)+Math.min(...lats))/2:15;
+ const span=Math.min(360,Math.max(55,...(places.length?[(Math.max(...lons)-Math.min(...lons))*1.24,(Math.max(...lats)-Math.min(...lats))*2.15]:[360])));
+ const left=Math.max(-180,Math.min(180-span,middleX-span/2)),height=span*.6;
+ const top=Math.max(-90,Math.min(90-height,-middleY-height/2)),scale=500/span;
+ ocean.append(svg('path',{class:'map-land',d:geo,transform:`scale(${scale}) translate(${-left} ${-top})`}));
+ stage.append(ocean);target.append(stage);
+ const info=el('div');info.className='map-info';info.setAttribute('aria-live','polite');
+ const controls=[];
+ function select(place){
+  controls.forEach(([button,p])=>button.setAttribute('aria-pressed',String(p===place)));
+  const names=el('ul');[...place.people].sort((a,b)=>a.localeCompare(b)).forEach(name=>names.append(el('li',name)));
+  info.replaceChildren(el('strong',place.name),names);
+ }
+ for(const place of places){
+  const button=el('button',String(place.people.size));button.type='button';button.className='map-pin';
+  button.setAttribute('aria-label',place.name);button.setAttribute('aria-pressed','false');
+  button.style.left=((place.lon-left)/span*100)+'%';button.style.top=((-place.lat-top)/height*100)+'%';
+  controls.push([button,place]);button.addEventListener('click',()=>select(place));stage.append(button);
+ }
+ target.append(info);
+ if(places.length)select(places[0]);
+ else info.append(el('p','Institution locations will appear here when added.'));
 };
 })();
