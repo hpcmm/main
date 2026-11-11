@@ -13,7 +13,7 @@ Open editor.html on the hosted site. To preview locally, serve the extracted fol
 - Resources: edit existing software and resource links. The old #software anchor continues to work.
 - Publications: the homepage offers the current calendar year and ten preceding years. Older records are preserved in content.js.
 
-The FCUP and LAQV–REQUIMTE logos are included locally. Sources: https://www.up.pt/fcup/ and https://laqv.requimte.pt/assets/images/header-logo.svg.
+The FCUP and LAQV–REQUIMTE logos are included locally. Sources: https://www.up.pt/fcup/ and LAQV logo supplied by the website owner.
 
 ## Publish after review
 
