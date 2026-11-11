@@ -59,11 +59,11 @@ if(isHome){
  const slides=[cover,...records(d.group.moleculeSlides).map(([src,alt,caption])=>({src,alt,caption}))].filter(x=>x&&imageSrc(x.src)).filter((x,i,all)=>all.findIndex(y=>y.src===x.src)===i);
  if(slides.length===1&&slides[0].src===d.images.cover.src)slides.push({...slides[0],detail:true,caption:'Detail of the cover image'});
  const gallery=document.getElementById('molecule-gallery');
- gallery.innerHTML=slides.length?photo(slides[0]):'<figure class="hero-art"><div class="group-image-placeholder"><span>Molecular slideshow</span><small>Images to be added</small></div></figure>';
+ gallery.innerHTML=slides.length?photo({...slides[0],caption:''}):'<figure class="hero-art"><div class="group-image-placeholder"><span>Molecular slideshow</span><small>Images to be added</small></div></figure>';
  if(slides.length>1){
   let index=0;
   gallery.innerHTML='<div class="slide-content" aria-live="polite"></div><div class="slide-controls"><button type="button" aria-label="Previous image">←</button><span></span><button type="button" aria-label="Next image">→</button></div>';
-  const show=()=>{const slide=slides[index],content=gallery.querySelector('.slide-content');content.classList.toggle('slide-detail',!!slide.detail);content.innerHTML=photo(slide);gallery.querySelector('.slide-controls span').textContent=(index+1)+' / '+slides.length;};
+  const show=()=>{const slide=slides[index],content=gallery.querySelector('.slide-content');content.classList.toggle('slide-detail',!!slide.detail);content.innerHTML=photo({...slide,caption:''});gallery.querySelector('.slide-controls span').textContent=(index+1)+' / '+slides.length;};
   gallery.querySelectorAll('button').forEach((button,i)=>button.addEventListener('click',()=>{index=(index+(i?1:-1)+slides.length)%slides.length;show();}));show();
  }
  window.HPCMM_AFFILIATION_MAP?.(document.getElementById('affiliation-map-content'),d);

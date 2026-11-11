@@ -34,7 +34,7 @@ window.HPCMM_AFFILIATION_MAP=(target,d)=>{
   info.replaceChildren(el('strong',place.name),names);
  }
  for(const place of places){
-  const button=el('button',String(place.people.size));button.type='button';button.className='map-pin';
+  const button=el('button');button.type='button';button.className='map-pin';
   button.setAttribute('aria-label',place.name);button.setAttribute('aria-pressed','false');
   button.style.left=((place.lon-left)/span*100)+'%';button.style.top=((-place.lat-top)/height*100)+'%';
   controls.push([button,place]);button.addEventListener('click',()=>{if(button.getAttribute('aria-pressed')==='true'){button.setAttribute('aria-pressed','false');info.hidden=true;info.replaceChildren();}else select(place);});stage.append(button);

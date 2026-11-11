@@ -59,3 +59,9 @@ h1,h2,h3{text-transform:capitalize}
 .slide-detail .hero-art{overflow:hidden}.slide-detail .hero-art img{clip-path:inset(0);object-fit:cover;object-position:center;transform:scale(1.42)}.slide-detail .hero-art figcaption{position:relative;background:var(--surface,#fff)}.project-empty{font-size:.9em}
 
 .hero-art figcaption:empty{display:none}.slide-controls{display:flex;visibility:visible;position:relative;z-index:1}.slide-controls button{min-width:44px;min-height:44px;color:#142d43;background:#fff}.map-info[hidden]{display:none!important}
+
+.map-pin,.map-pin[aria-pressed=true]{width:44px;height:44px;border:0;padding:0;background:transparent;box-shadow:none}
+.map-pin::after{content:'';position:absolute;left:50%;top:50%;translate:-50% -50%;width:7px;height:7px;border-radius:50%;background:#176d79;box-shadow:0 0 0 1px #fff;pointer-events:none}
+.map-pin:hover::after,.map-pin[aria-pressed=true]::after{background:#142d43;box-shadow:0 0 0 1px #fff,0 0 0 3px #176d7955}
+.software-item h3{text-transform:none}
+#molecule-gallery figcaption{display:none}
