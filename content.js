@@ -10,7 +10,7 @@ window.HPCMM_CONTENT = {
     "note": "",
     "fcupLogo": "assets/partners/fcup.svg",
     "requimteLogo": "assets/partners/laqv-requimte.png",
-    "affiliationLocations": "Faculty of Sciences, University of Porto | 41.152778 | -8.6375"
+    "affiliationLocations": "University of Porto | 41.152778 | -8.6375"
   },
   "images": {
     "cover": {
@@ -11182,7 +11182,7 @@ window.HPCMM_CONTENT = {
       "linkedin": "",
       "website": "",
       "email": "pafernan@fc.up.pt",
-      "affiliation": "Faculty of Sciences, University of Porto"
+      "affiliation": "University of Porto"
     },
     {
       "id": "postdoctoral-researcher",
@@ -11255,7 +11255,7 @@ window.HPCMM_CONTENT = {
       "linkedin": "https://www.linkedin.com/in/pedro-paiva-265010132",
       "website": "",
       "email": "pedro.paiva@fc.up.pt",
-      "affiliation": "Faculty of Sciences, University of Porto"
+      "affiliation": "University of Porto"
     },
     {
       "id": "doctoral-researcher",
@@ -11716,7 +11716,8 @@ window.HPCMM_CONTENT = {
       "researchgate": "",
       "linkedin": "",
       "website": "",
-      "email": "mjramos@fc.up.pt"
+      "email": "mjramos@fc.up.pt",
+      "affiliation": "University of Porto"
     },
     {
       "id": "member-fba34bcc",
@@ -11787,7 +11788,8 @@ window.HPCMM_CONTENT = {
         "src": "assets/images/team/joaocoimbra.jpg",
         "alt": "joao-coimbra",
         "caption": ""
-      }
+      },
+      "affiliation": "University of Porto"
     },
     {
       "id": "member-4a4ec246",
@@ -11861,7 +11863,8 @@ window.HPCMM_CONTENT = {
         "src": "assets/images/team/ruineves.jpg",
         "alt": "rui-neves",
         "caption": ""
-      }
+      },
+      "affiliation": "University of Porto"
     },
     {
       "id": "member-7c5c6c1d",
@@ -11921,7 +11924,8 @@ window.HPCMM_CONTENT = {
         "src": "assets/images/team/ritacalixto.jpg",
         "alt": "rita-calixto",
         "caption": ""
-      }
+      },
+      "affiliation": "University of Porto"
     },
     {
       "id": "member-67b56136",
@@ -11985,7 +11989,8 @@ window.HPCMM_CONTENT = {
         "src": "assets/images/team/pedroferreira.jpg",
         "alt": "pedro-ferreira",
         "caption": ""
-      }
+      },
+      "affiliation": "University of Porto"
     }
   ],
   "software": [

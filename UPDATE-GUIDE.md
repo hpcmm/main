@@ -6,10 +6,10 @@ This review package is based on hpcmm/main commit e08249b and preserves its seve
 
 Open editor.html on the hosted site. To preview locally, serve the extracted folder over HTTP (for example, run python3 -m http.server 8000 in the folder, then open http://localhost:8000/editor.html).
 
-- Research areas: one project per line in the Projects box, as Project title | 10.xxxx/example. Use the DOI assigned to the project itself. Leave the DOI blank if it is not yet available.
+- Research areas: choose Add project and fill in Project title and Project DOI separately. Use the DOI assigned to the project itself. Leave the DOI blank if it is not yet available.
 - Group members: set the role category if the automatic role assignment needs overriding. Enter comma-separated research expertise techniques. Select up to five papers from the member’s linked publications under Featured Research.
 - Group information: enter former members and collaborators separately, one line per person as Name | Affiliation. The homepage People section uses a row of role buttons. Its Former members link opens a separate page with an affiliation filter. Collaborators are listed inside People, with the map beside them.
-- Cover & group photos: add molecular images to assets/images/ and enter one line per slide as relative image path | accessible description | caption. The slideshow appears beside the homepage title. The existing cover image is the first slide. Controls appear once there is a second molecular image. The existing group photograph stays in The group.
+- Cover & group photos: add molecular images to assets/images/ and enter one line per slide as relative image path | accessible description | caption. The slideshow appears beside the homepage title. The existing cover image is the first slide. With one image, the controls switch between the cover and a detail view. Adding a second image replaces the temporary detail view. The existing group photograph stays in The group.
 - Resources: edit existing software and resource links. The old #software anchor continues to work.
 - Publications: the homepage offers the current calendar year and ten preceding years. Older records are preserved in content.js.
 
@@ -28,3 +28,5 @@ The three proposed research topics are included. Their project entries are await
 Collaborators are listed within People. The map uses institutional locations only. In Group information, enter map locations as Affiliation | latitude | longitude. Use the same affiliation text in each member profile or in the former member and collaborator lists. People with no matching location stay in the lists without a pin. People sharing an institution appear together in one pin. The map is always visible beside the collaborator list and uses bundled Natural Earth coastlines (https://www.naturalearthdata.com/about/terms-of-use/). Initial FCUP location source: https://www.fc.up.pt/fcup/static/index.php?f_id=644
 
 Current member cards automatically follow this hierarchy: Group Leader → Academic Staff → Junior Researcher → Postdoc → PhD → MSc → Research software engineer → Other. Names are alphabetised within each role.
+
+The map shows the entire world. All current members are grouped at the University of Porto pin.

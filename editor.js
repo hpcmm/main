@@ -29,12 +29,39 @@ function validate(data){
  for(const m of data.members){for(const key of ['cienciavitae','researchgate','linkedin','website'])if(m[key]&&!/^https?:\/\/[^\s]+$/i.test(m[key]))throw Error('Profile links must start with https:// or http://.');if(m.email&&!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(m.email))throw Error('Enter a valid member email or leave it empty.');if(!m.photo||['src','alt','caption'].some(k=>typeof m.photo[k]!=='string'))throw Error('Invalid member photo.');if(m.photo.src&&!m.photo.alt.trim())throw Error('Add a description for '+m.name+'’s photograph.');if(m.photo.src&&!/^(data:image\/(png|jpeg|webp);base64,|https?:\/\/|[\w./-]+\.(png|jpe?g|webp)$)/i.test(m.photo.src))throw Error('Unsupported member image format.');}
  for(const paper of data.publications)if(paper.publicationDate&&!window.HPCMM_PUBLICATIONS.validDate(paper.publicationDate))throw Error('Enter a valid publication date (YYYY, YYYY-MM or YYYY-MM-DD), or leave it empty.');
  // Discard dangling associations left by older content files; keep every existing paper.
+ for(const topic of data.research)for(const row of topic.projects.split('\n').filter(Boolean)){
+  const [name,doi='']=row.split('|').map(value=>value.trim());
+  if(!name)throw Error('Enter a project title in '+topic.title+'.');
+  if(doi&&!/^10\.\d{4,}\/\S+$/i.test(doi.replace(/^https?:\/\/(?:dx\.)?doi\.org\//i,'')))throw Error('Enter a valid project DOI in '+topic.title+'.');
+ }
  const publicationIds=new Set(data.publications.map(p=>p.id));
  for(const m of data.members){m.paperIds=m.paperIds.filter(id=>publicationIds.has(id));m.featuredPaperIds=[...new Set(m.featuredPaperIds)].filter(id=>m.paperIds.includes(id));if(m.featuredPaperIds.length>5)throw Error('Choose at most five featured papers for '+m.name+'.');}
  for(const x of [...data.publications,...data.software])if(x.url&&!/^https?:\/\/\S+$/i.test(x.url))throw Error('Links must start with https:// or http://.');
  if(data.contact.email&&!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(data.contact.email))throw Error('Please enter a valid contact email or leave it empty.');
 }
+function projectFields(topic){
+ const box=el('fieldset',undefined,'edit-field');box.append(el('legend','Projects'));
+ const rows=el('div');box.append(rows);
+ const data=String(topic.projects||'').split('\n').filter(line=>line.trim()).map(line=>line.split('|').map(x=>x.trim()));
+ if(!data.length)data.push(['','']);
+ const save=()=>{topic.projects=data.filter(([name,doi])=>name||doi).map(([name,doi])=>name+' | '+doi).join('\n');changed();};
+ function draw(){
+  rows.replaceChildren();
+  data.forEach(([name,doi],i)=>{
+   const row=el('div',undefined,'edit-card');
+   [['Project title',name],['Project DOI',doi]].forEach(([caption,value],j)=>{
+    const label=el('label',undefined,'edit-field'),input=el('input');input.value=value||'';
+    if(j===1)input.placeholder='10.xxxx/project-id or https://doi.org/…';
+    input.addEventListener('input',()=>{data[i][j]=input.value.trim().replaceAll('|','');save();});
+    label.append(el('span',caption),input);row.append(label);
+   });
+   row.append(button('Remove project',()=>{data.splice(i,1);save();draw();},'remove'));rows.append(row);
+  });
+ }
+ box.append(button('Add project',()=>{data.push(['','']);draw();},'primary'));draw();return box;
+}
 function field(obj,key){
+ if(key==='projects')return projectFields(obj);
  const label=el('label',undefined,'edit-field');label.append(el('span',labels[key]||key));
  if(key==='roleCategory'){
   const select=el('select');for(const value of ['','Group Leader','Academic Staff','Junior Researcher','Postdoc','PhD','MSc','Research software engineer','Other']){const option=el('option',value||'Automatic (from profile role)');option.value=value;select.append(option);}select.value=obj[key];select.onchange=()=>{obj[key]=select.value;changed();};label.append(select);return label;
@@ -101,7 +128,7 @@ function photoEditor(key,title,memberPhoto){
 }
 function render(){
  form.replaceChildren(el('h2',sections[active]));if(active==='publications')form.append(el('p','The homepage filters publications by year. Profiles show only the papers selected in Featured Research.')); document.querySelectorAll('#sections button').forEach(b=>b.setAttribute('aria-current',String(b.dataset.section===active)));
- if(active==='images'){form.append(photoEditor('cover','First molecular slide'),photoEditor('groupPhoto','Group photograph'),field(draft.group,'moleculeSlides'));return;}
+ if(active==='images'){form.append(photoEditor('cover','First molecular slide'),photoEditor('groupPhoto','Group photograph'),field(draft.group,'moleculeSlides'),el('p','Upload additional images into assets/images/ and enter their paths above. Until a second image is added, the slideshow shows the cover and a detail view.'));return;}
  const data=draft[active];
  if(!Array.isArray(data)){for(const key of Object.keys(data))if(key!=='requimteLogo')form.append(field(data,key));return;}
  data.forEach((item,index)=>{const card=el('section',undefined,'edit-card');card.append(el('h3',(index+1)+'. '+(item.name||item.title)));if(active==='members')card.append(photoEditor(null,'Member photograph (optional)',item.photo));for(const key of Object.keys(templates[active])){card.append(field(item,key));if(active==='members'&&key==='orcid')card.append(orcidImport(item));}card.append(button('Remove this entry',()=>{if(!confirm('Remove this entry from the draft?'))return;const removed=data.splice(index,1)[0];if(active==='publications')draft.members.forEach(m=>{orcid.exclude(m,removed);m.paperIds=m.paperIds.filter(id=>id!==removed.id);});changed();render();},'remove'));form.append(card);});
@@ -112,7 +139,7 @@ form.addEventListener('submit',e=>e.preventDefault());
 document.getElementById('download').addEventListener('click',()=>{try{validate(draft);const serialized='// Generated by editor.html. Upload this file alongside index.html.\nwindow.HPCMM_CONTENT = '+JSON.stringify(draft,null,2)+';\n';const url=URL.createObjectURL(new Blob([serialized],{type:'text/javascript'}));const a=el('a');a.href=url;a.download='content.js';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);dirty=false;status.textContent='Download prepared. Upload content.js and any new image files to GitHub; the live site has not changed yet.';}catch(e){status.textContent=e.message;}});
 document.getElementById('import').addEventListener('change',async event=>{const f=event.target.files[0];if(!f)return;try{if(f.size>24*1024*1024)throw Error('This content file is too large.');let text=await f.text();if(text.includes('window.HPCMM_CONTENT = '))text=text.slice(text.indexOf('window.HPCMM_CONTENT = ')+23).trim().replace(/;\s*$/,'');const data=JSON.parse(text);validate(data);if(dirty&&!confirm('Replace the current unsaved draft with this file?'))return;draft=data;changed();render();status.textContent='Saved content loaded. Preview or edit it before downloading.';}catch(e){status.textContent='Could not load content: '+e.message;}event.target.value='';});
 const dialog=document.getElementById('preview-dialog');
-document.getElementById('preview').addEventListener('click',()=>{try{validate(draft);const json=JSON.stringify(draft).replace(/</g,'\\u003c');document.getElementById('draft-frame').srcdoc='<!doctype html><html><head><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="styles.css?v=20261111-6"></head><body data-page="home"><div class="prototype"></div><header><div class="nav-wrap"><a class="brand" href="index.html">HPC-MM</a></div></header><main id="main"></main><footer></footer><script>window.HPCMM_CONTENT='+json+';<\/script><script src="publication-order.js?v=20261024-3"><\/script><script src="site.js?v=20261111-7"><\/script><script src="script.js"><\/script></body></html>';dialog.showModal();}catch(e){status.textContent=e.message;}});
+document.getElementById('preview').addEventListener('click',()=>{try{validate(draft);const json=JSON.stringify(draft).replace(/</g,'\\u003c');document.getElementById('draft-frame').srcdoc='<!doctype html><html><head><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="styles.css?v=20261111-9"></head><body data-page="home"><div class="prototype"></div><header><div class="nav-wrap"><a class="brand" href="index.html">HPC-MM</a></div></header><main id="main"></main><footer></footer><script>window.HPCMM_CONTENT='+json+';<\/script><script src="publication-order.js?v=20261024-3"><\/script><script src="site.js?v=20261111-9"><\/script><script src="script.js"><\/script></body></html>';dialog.showModal();}catch(e){status.textContent=e.message;}});
 document.getElementById('close-preview').addEventListener('click',()=>dialog.close());
 window.addEventListener('beforeunload',event=>{if(dirty){event.preventDefault();event.returnValue='';}});
 render();

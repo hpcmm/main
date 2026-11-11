@@ -20,14 +20,9 @@ window.HPCMM_AFFILIATION_MAP=(target,d)=>{
  const el=(tag,text)=>{const node=document.createElement(tag);if(text)node.textContent=text;return node;};
  const svg=(tag,attrs)=>{const node=document.createElementNS(svgNS,tag);for(const [k,v] of Object.entries(attrs))node.setAttribute(k,v);return node;};
  const stage=el('div');stage.className='map-stage';
- const ocean=svg('svg',{viewBox:'0 0 500 300',role:'img','aria-label':'Map of institutional affiliations'});
+ const ocean=svg('svg',{viewBox:'0 0 500 250',role:'img','aria-label':'Map of institutional affiliations'});
  const geo=window.HPCMM_MAP_LAND||'';
- const lons=places.map(p=>p.lon),lats=places.map(p=>p.lat);
- const middleX=places.length?(Math.max(...lons)+Math.min(...lons))/2:0;
- const middleY=places.length?(Math.max(...lats)+Math.min(...lats))/2:15;
- const span=Math.min(360,Math.max(55,...(places.length?[(Math.max(...lons)-Math.min(...lons))*1.24,(Math.max(...lats)-Math.min(...lats))*2.15]:[360])));
- const left=Math.max(-180,Math.min(180-span,middleX-span/2)),height=span*.6;
- const top=Math.max(-90,Math.min(90-height,-middleY-height/2)),scale=500/span;
+ const left=-180,top=-90,span=360,height=180,scale=500/span;
  ocean.append(svg('path',{class:'map-land',d:geo,transform:`scale(${scale}) translate(${-left} ${-top})`}));
  stage.append(ocean);target.append(stage);
  const info=el('div');info.className='map-info';info.setAttribute('aria-live','polite');
