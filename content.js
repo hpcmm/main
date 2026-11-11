@@ -9,7 +9,8 @@ window.HPCMM_CONTENT = {
     "about": "Our research spans proteins, enzymes, DNA, RNA, biological membranes and small molecules, including potential medicines, in aqueous environments relevant to their function. We also investigate functional materials and their interactions with biomolecules, including systems based on carbon nanotubes and graphene.\n\nBy connecting molecular structure and dynamics with physicochemical properties, we aim to understand how these systems can be tailored for specific applications. Our simulations draw on classical and quantum mechanics to explore molecular behaviour and develop predictive models, with careful attention to the assumptions and limitations of each method.",
     "note": "",
     "fcupLogo": "assets/partners/fcup.svg",
-    "requimteLogo": "assets/partners/requimte.png"
+    "requimteLogo": "assets/partners/laqv-requimte.svg",
+    "affiliationLocations": "Faculty of Sciences, University of Porto | 41.152778 | -8.6375"
   },
   "images": {
     "cover": {
@@ -11180,7 +11181,8 @@ window.HPCMM_CONTENT = {
       "researchgate": "",
       "linkedin": "",
       "website": "",
-      "email": "pafernan@fc.up.pt"
+      "email": "pafernan@fc.up.pt",
+      "affiliation": "Faculty of Sciences, University of Porto"
     },
     {
       "id": "postdoctoral-researcher",
@@ -11252,7 +11254,8 @@ window.HPCMM_CONTENT = {
       "researchgate": "https://www.researchgate.net/profile/Pedro-Paiva-3",
       "linkedin": "https://www.linkedin.com/in/pedro-paiva-265010132",
       "website": "",
-      "email": "pedro.paiva@fc.up.pt"
+      "email": "pedro.paiva@fc.up.pt",
+      "affiliation": "Faculty of Sciences, University of Porto"
     },
     {
       "id": "doctoral-researcher",

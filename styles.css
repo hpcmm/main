@@ -43,3 +43,7 @@ h1,h2,h3{text-transform:capitalize}
 .slide-controls{justify-content:center;padding:.7rem}
 .partner-logos img{width:auto;max-width:150px;height:50px;object-fit:contain;padding:.25rem}
 .affiliated-people{margin-top:2rem}
+
+.people-switch{display:flex;gap:.5rem;flex-wrap:wrap;margin:0 0 1rem}.people-switch button{font:inherit;padding:.5rem .8rem;border:1px solid #778694;border-radius:.35rem;background:#fff;color:#142d43}.people-switch button[aria-pressed=true]{background:#142d43;color:#fff}.plain-roster li{margin:.35rem 0}[data-people-panel][hidden],.plain-roster li[hidden]{display:none!important}.partner-logos a:last-child img{background:white}
+
+.collaborators,.affiliation-map{margin-top:2.5rem;padding-top:1.25rem;border-top:1px solid #cad8e1}.affiliation-map details{margin-top:.75rem}.affiliation-map .campus-map{height:320px;border-radius:12px;margin:.75rem 0;background:#e5eff4}.affiliation-map summary{cursor:pointer}.affiliation-map .campus-pin{background:#146d7a;color:white;border:2px solid white;border-radius:100%;display:grid;place-items:center;font-weight:700;box-shadow:0 2px 8px #132d4366}
