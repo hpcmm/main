@@ -33,3 +33,13 @@ h1,h2,h3{text-transform:capitalize}
 .publication-year-heading{font-size:25px;color:var(--teal);margin:32px 0 12px}.publication-year-heading:first-child{margin-top:20px}
 
 .more-publications{display:inline-flex;align-items:center;gap:16px;min-height:44px;padding:8px 0;border:0;border-bottom:1px solid #adbebd;border-radius:0;background:transparent;color:var(--teal);font:inherit;font-size:13px}.more-publications:hover{color:var(--navy);border-color:var(--navy)}#publication-count{font-size:12px;margin:22px 0 4px}
+
+.site-filter{display:flex;align-items:center;gap:.6rem;margin:1rem 0 1.5rem;font-weight:650}
+.site-filter select,.slide-controls button{font:inherit;padding:.45rem .7rem;border:1px solid #778694;border-radius:.35rem;background:#fff;color:#142d43}
+.member-directory-card[hidden]{display:none!important}
+.keyword-list{list-style:none;padding:0;display:flex;gap:.45rem;flex-wrap:wrap}
+.keyword-list li{background:#ecf3f8;color:#142d43;padding:.25rem .65rem;border-radius:1rem}
+.slide-controls,.partner-logos{display:flex;align-items:center;gap:.75rem;flex-wrap:wrap}
+.slide-controls{justify-content:center;padding:.7rem}
+.partner-logos img{width:auto;max-width:150px;height:50px;object-fit:contain;padding:.25rem}
+.affiliated-people{margin-top:2rem}
