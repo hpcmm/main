@@ -48,7 +48,6 @@ if(isHome){
  yearSelect.value=years.find(y=>ordered.some(p=>publicationYear(p)===y))||years[0];
  const renderYear=()=>{document.getElementById('year-results').innerHTML=pubs(ordered.filter(p=>publicationYear(p)===yearSelect.value))||'<p>No publications listed for this year.</p>';};
  yearSelect.addEventListener('change',renderYear);renderYear();
- window.HPCMM_AFFILIATION_MAP?.(document.getElementById('affiliation-map-content'),d);
  const roleButtons=main.querySelectorAll('[data-team-role]');
  roleButtons.forEach(button=>button.addEventListener('click',()=>{
   roleButtons.forEach(b=>b.setAttribute('aria-pressed',String(b===button)));
@@ -56,7 +55,8 @@ if(isHome){
   let count=0;main.querySelectorAll('[data-role]').forEach(card=>{card.hidden=role!=='All'&&card.dataset.role!==role;if(!card.hidden)count++;});
   document.getElementById('team-empty').hidden=!!count;
  }));
- const slides=[d.images.cover,...records(d.group.moleculeSlides).map(([src,alt,caption])=>({src,alt,caption}))].filter(x=>x&&imageSrc(x.src)).filter((x,i,all)=>all.findIndex(y=>y.src===x.src)===i);
+ const cover={...d.images.cover};if(/^research image to be supplied by the group[.!]?$/i.test(cover.caption?.trim()||''))cover.caption='';
+ const slides=[cover,...records(d.group.moleculeSlides).map(([src,alt,caption])=>({src,alt,caption}))].filter(x=>x&&imageSrc(x.src)).filter((x,i,all)=>all.findIndex(y=>y.src===x.src)===i);
  if(slides.length===1&&slides[0].src===d.images.cover.src)slides.push({...slides[0],detail:true,caption:'Detail of the cover image'});
  const gallery=document.getElementById('molecule-gallery');
  gallery.innerHTML=slides.length?photo(slides[0]):'<figure class="hero-art"><div class="group-image-placeholder"><span>Molecular slideshow</span><small>Images to be added</small></div></figure>';
@@ -66,6 +66,7 @@ if(isHome){
   const show=()=>{const slide=slides[index],content=gallery.querySelector('.slide-content');content.classList.toggle('slide-detail',!!slide.detail);content.innerHTML=photo(slide);gallery.querySelector('.slide-controls span').textContent=(index+1)+' / '+slides.length;};
   gallery.querySelectorAll('button').forEach((button,i)=>button.addEventListener('click',()=>{index=(index+(i?1:-1)+slides.length)%slides.length;show();}));show();
  }
+ window.HPCMM_AFFILIATION_MAP?.(document.getElementById('affiliation-map-content'),d);
 }else if(filename==='former-members.html'){
  document.title='Former members — '+d.group.shortName;
  main.innerHTML='<a class="member-back" href="index.html#people">← People</a><h1>Former members</h1>'+roster('',d.group.formerMembers,true);

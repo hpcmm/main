@@ -25,9 +25,10 @@ window.HPCMM_AFFILIATION_MAP=(target,d)=>{
  const left=-180,top=-90,span=360,height=180,scale=500/span;
  ocean.append(svg('path',{class:'map-land',d:geo,transform:`scale(${scale}) translate(${-left} ${-top})`}));
  stage.append(ocean);target.append(stage);
- const info=el('div');info.className='map-info';info.setAttribute('aria-live','polite');
+ const info=el('div');info.className='map-info';info.hidden=true;info.setAttribute('aria-live','polite');
  const controls=[];
  function select(place){
+  info.hidden=false;
   controls.forEach(([button,p])=>button.setAttribute('aria-pressed',String(p===place)));
   const names=el('ul');[...place.people].sort((a,b)=>a.localeCompare(b)).forEach(name=>names.append(el('li',name)));
   info.replaceChildren(el('strong',place.name),names);
@@ -36,10 +37,9 @@ window.HPCMM_AFFILIATION_MAP=(target,d)=>{
   const button=el('button',String(place.people.size));button.type='button';button.className='map-pin';
   button.setAttribute('aria-label',place.name);button.setAttribute('aria-pressed','false');
   button.style.left=((place.lon-left)/span*100)+'%';button.style.top=((-place.lat-top)/height*100)+'%';
-  controls.push([button,place]);button.addEventListener('click',()=>select(place));stage.append(button);
+  controls.push([button,place]);button.addEventListener('click',()=>{if(button.getAttribute('aria-pressed')==='true'){button.setAttribute('aria-pressed','false');info.hidden=true;info.replaceChildren();}else select(place);});stage.append(button);
  }
  target.append(info);
- if(places.length)select(places[0]);
- else info.append(el('p','Institution locations will appear here when added.'));
+ if(!places.length){info.hidden=false;info.append(el('p','Institution locations will appear here when added.'));}
 };
 })();
